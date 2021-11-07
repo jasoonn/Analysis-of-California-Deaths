@@ -2,7 +2,11 @@
 Analysis of Deaths in California
 	 Proposal 13 : Analysis of Deaths in California Counties
 Project Members:
-Samveed Desai | Cheng Zhang | Hsin-Yuan Chen | Jimmy Qiu | Xintong Bian	 	
+Samveed Desai 
+Cheng Zhang 
+Hsin-Yuan Chen 
+Jimmy Qiu 
+Xintong Bian	 	
 
 Problem:
 Understanding the variations of deaths in the California counties based on type of disease, age, gender and race-ethnicity
