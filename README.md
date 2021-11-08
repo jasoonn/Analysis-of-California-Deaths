@@ -7,9 +7,9 @@ Samveed Desai | Cheng Zhang | Hsin-Yuan Chen | Jimmy Qiu | Xintong Bian
 Understanding the variations of deaths in the California counties based on type of disease, age, gender and race-ethnicity
 
 ## Dataset:
-**[2014-2019 Final Deaths by Year by County Dataset](https://data.ca.gov/dataset/death-profiles-by-county/resource/c3312f95-8e14-4070-99ab-01e6f74d1cbf):**
+* **[2014-2019 Final Deaths by Year by County Dataset](https://data.ca.gov/dataset/death-profiles-by-county/resource/c3312f95-8e14-4070-99ab-01e6f74d1cbf):**
 The entire dataset consists of 1 csv file, which contains information about the year, county, classification of death type(by age, gender, race, place), cause of death and total count of the number of deaths.
-**[California Population Dataset](https://datausa.io/profile/geo/california):**
+* **[California Population Dataset](https://datausa.io/profile/geo/california):**
 The website cantains multiple datasets about population composition in California from 2013 to 2019.
 
 ## Proposed Solution and Real world Application :
