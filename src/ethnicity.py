@@ -11,18 +11,19 @@ def plotPie(data, title):
     """
     Using
     """
+    swtichColumn(data, 1, -1)
+    swtichColumn(data, 0, 1)
+    swtichColumn(data, 4, 10)
+    swtichColumn(data, 5, 7)
     plt.pie(data['Count'], autopct='%1.1f%%', labels=data['Cause_Desc'])
     plt.title(title)
     plt.rc('font', size=16)
     plt.show()
-    # if '/' in title:
-    #     strr = ""
-    #     for i in title.split('/'):
-    #         strr += i+' '
-    #     plt.savefig(strr[:-1]+'.png')
-    # else:
-    #     plt.savefig(title+'.png')
-    # plt.close()
+
+def swtichColumn(data, i ,j):
+    temp = data.iloc[i].copy()
+    data.iloc[i] = data.iloc[j]
+    data.iloc[j] = temp
 
 
 def cleanEthnicityDataByCounty(csvFile='../data/death.csv', plot = False, county='San Diego'):
@@ -40,16 +41,13 @@ def cleanEthnicityDataByCounty(csvFile='../data/death.csv', plot = False, county
     #data = data.drop(columns=['Strata', 'Unnamed: 0', 'Year'])
     
     if plot:
-        temp = counting.iloc[-1].copy()
-        counting.iloc[-1] = counting.iloc[-2]
-        counting.iloc[-2] = temp
-        temp = counting.iloc[0].copy()
-        counting.iloc[0] = counting.iloc[1]
-        counting.iloc[1] = temp
+        swtichColumn(counting, -1, -2)
+        swtichColumn(counting, 0, 1)
         print(counting)
         plt.rc('font', size=16)
         plt.pie(counting['Count'], autopct='%1.1f%%', labels=counting['Strata_Name'])
         plt.show()
+
     data = data.groupby(['Strata_Name', 'Cause_Desc']).sum().reset_index()
     data.Count = data.Count.astype(int)
 
@@ -57,6 +55,8 @@ def cleanEthnicityDataByCounty(csvFile='../data/death.csv', plot = False, county
     if plot:
         for name, group in data.groupby('Strata_Name'):
             plotPie(group.reset_index().drop([1]), name)
+
+
 def cleanEthniciyData(plot = False):
     """
     Plot death according to age
@@ -70,24 +70,20 @@ def cleanEthniciyData(plot = False):
     counting = data.groupby(['Cause_Desc']).sum()
     counting = data.groupby(['Strata_Name']).sum().reset_index()
     if plot:
-        temp = counting.iloc[-1].copy()
-        counting.iloc[-1] = counting.iloc[-2]
-        counting.iloc[-2] = temp
-        temp = counting.iloc[0].copy()
-        counting.iloc[0] = counting.iloc[1]
-        counting.iloc[1] = temp
+        swtichColumn(counting, -1, -2)
+        swtichColumn(counting, 0, 1)
         print(counting)
         plt.rc('font', size=16)
         plt.pie(counting['Count'], autopct='%1.1f%%', labels=counting['Strata_Name'])
         plt.show()
-    data = data.groupby(['Strata_Name', 'Cause_Desc']).sum().reset_index()
 
     #Plot causes pie chart
+    data = data.groupby(['Strata_Name', 'Cause_Desc']).sum().reset_index()
     if plot:
         for name, group in data.groupby('Strata_Name'):
             plotPie(group, name)
-
+            
 
 if __name__ == '__main__':
-    cleanEthniciyData(plot = True)
+    cleanEthniciyData(plot = False)
     cleanEthnicityDataByCounty(plot = True)
