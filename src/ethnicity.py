@@ -7,6 +7,19 @@ import cleanPopulation
 import cleanDeath
 
 
+def plotPiee(data, label, title=None, fontSize=16):
+    """Plot piechart from given data and label
+    :param: data, label, title
+    :type: list, list, str
+    :returns: None
+    """
+    plt.rcParams["font.family"] = "Times New Roman"
+    plt.rc('font', size=fontSize)
+    plt.title(title)
+    plt.pie(data, autopct='%1.1f%%', labels=label)
+    plt.show()
+
+
 def plotPie(data, title):
     """
     Using
@@ -15,10 +28,7 @@ def plotPie(data, title):
     swtichColumn(data, 0, 1)
     swtichColumn(data, 4, 10)
     swtichColumn(data, 5, 7)
-    plt.pie(data['Count'], autopct='%1.1f%%', labels=data['Cause_Desc'])
-    plt.title(title)
-    plt.rc('font', size=16)
-    plt.show()
+    plotPiee(data['Count'], data['Cause_Desc'], title)
 
 def swtichColumn(data, i ,j):
     temp = data.iloc[i].copy()
@@ -85,5 +95,5 @@ def cleanEthniciyData(plot = False):
             
 
 if __name__ == '__main__':
-    cleanEthniciyData(plot = False)
+    cleanEthniciyData(plot = True)
     cleanEthnicityDataByCounty(plot = True)
