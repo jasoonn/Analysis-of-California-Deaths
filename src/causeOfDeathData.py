@@ -1,14 +1,8 @@
 import pandas as pd
-import numpy as np
 import matplotlib.pyplot as plt
 import os
-from enum import Enum, auto
-# Group by the cause of death 
 
-class StrataType(Enum):
-    GENDER = auto()
-    RACE_ETH = auto()
-    TOTAL_POP = auto()
+# Causes of death over the period of 2014-2019
 
 def cleanData(df):
     assert isinstance(df, pd.DataFrame)
@@ -16,7 +10,7 @@ def cleanData(df):
     clean_df = clean_df[["Year", "County", "Strata", "Strata_Name", "Cause", "Cause_Desc","Count"]]
     return clean_df
 
-def causeOfDeath(inputFile='../data/death.csv', strataType=StrataType.GENDER):
+def causeOfDeath(inputFile='../data/death.csv'):
     assert isinstance(inputFile, str) and os.path.exists(inputFile)
     
     data = pd.read_csv(inputFile)
@@ -54,8 +48,8 @@ def plot_and_save_clause(df, causes=[]):
         print(df[df["Cause"] == cause])
         to_plot = df[df["Cause"] == cause]
         to_plot.reset_index()
-        plt.plot(to_plot.index, to_plot["Count"], label=cause, marker='o')
-        plt.text(to_plot.index[-1], to_plot["Count"].iloc[-1], f'{cause}')
+        plt.plot(to_plot["Year"], to_plot["Count"], label=cause, marker='o')
+        plt.text(to_plot["Year"].iloc[-1], to_plot["Count"].iloc[-1], f'{cause}')
 
     plt.legend(bbox_to_anchor=(1.2, 1))
     plt.title("Trends of Causes of Death between 2014 - 2019",
