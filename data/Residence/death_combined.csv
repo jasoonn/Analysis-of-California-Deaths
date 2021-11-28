@@ -1,0 +1,1027 @@
+,Year,Strata,Strata_Name,Cause_Desc,Count
+0,2014,Age,1-4 years,All causes (total),263
+1,2014,Age,15-24 years,All causes (total),2800
+2,2014,Age,25-34 years,All causes (total),4408
+3,2014,Age,35-44 years,All causes (total),6608
+4,2014,Age,45-54 years,All causes (total),16578
+5,2014,Age,5-14 years,All causes (total),336
+6,2014,Age,55-64 years,All causes (total),32355
+7,2014,Age,65-74 years,All causes (total),41146
+8,2014,Age,75-84 years,All causes (total),56298
+9,2014,Age,85 years and over,All causes (total),81820
+10,2014,Age,Under 1 year,All causes (total),2059
+11,2014,Gender,Female,Accidents (unintentional injuries),3815
+12,2014,Gender,Female,Alzheimer's disease,8504
+13,2014,Gender,Female,Assault (homicide),199
+14,2014,Gender,Female,Cerebrovascular diseases,7729
+15,2014,Gender,Female,Chronic liver disease and cirrhosis,1599
+16,2014,Gender,Female,Chronic lower respiratory diseases,6643
+17,2014,Gender,Female,Diabetes mellitus,3596
+18,2014,Gender,Female,Diseases of heart,26780
+19,2014,Gender,Female,Essential hypertension and hypertensive renal disease,2461
+20,2014,Gender,Female,Influenza and pneumonia,2817
+21,2014,Gender,Female,Intentional self-harm (suicide),860
+22,2014,Gender,Female,Malignant neoplasms,28037
+23,2014,Gender,Female,"Nephritis, nephrotic syndrome and nephrosis",1330
+24,2014,Gender,Female,Parkinson's disease,959
+25,2014,Gender,Male,Accidents (unintentional injuries),7591
+26,2014,Gender,Male,Alzheimer's disease,3905
+27,2014,Gender,Male,Assault (homicide),902
+28,2014,Gender,Male,Cerebrovascular diseases,5758
+29,2014,Gender,Male,Chronic liver disease and cirrhosis,3029
+30,2014,Gender,Male,Chronic lower respiratory diseases,5942
+31,2014,Gender,Male,Diabetes mellitus,4382
+32,2014,Gender,Male,Diseases of heart,31021
+33,2014,Gender,Male,Essential hypertension and hypertensive renal disease,1905
+34,2014,Gender,Male,Influenza and pneumonia,2825
+35,2014,Gender,Male,Intentional self-harm (suicide),2792
+36,2014,Gender,Male,Malignant neoplasms,30080
+37,2014,Gender,Male,"Nephritis, nephrotic syndrome and nephrosis",1477
+38,2014,Gender,Male,Parkinson's disease,1398
+39,2014,Place Type,Decedent's Home,All causes (total),87432
+40,2014,Place Type,Emergency Room/Outpatient,All causes (total),15008
+41,2014,Place Type,Hospice Facility,All causes (total),4330
+42,2014,Place Type,Inpatient,All causes (total),75947
+43,2014,Place Type,Nursing Home/Long Term Care Facility,All causes (total),43736
+44,2014,Place Type,Other/Unknown,All causes (total),17298
+45,2014,Race-Ethnicity,American Indian/Alaskan Native,Accidents (unintentional injuries),12
+46,2014,Race-Ethnicity,American Indian/Alaskan Native,Alzheimer's disease,0
+47,2014,Race-Ethnicity,American Indian/Alaskan Native,Assault (homicide),0
+48,2014,Race-Ethnicity,American Indian/Alaskan Native,Cerebrovascular diseases,0
+49,2014,Race-Ethnicity,American Indian/Alaskan Native,Chronic liver disease and cirrhosis,0
+50,2014,Race-Ethnicity,American Indian/Alaskan Native,Chronic lower respiratory diseases,0
+51,2014,Race-Ethnicity,American Indian/Alaskan Native,Diabetes mellitus,0
+52,2014,Race-Ethnicity,American Indian/Alaskan Native,Diseases of heart,80
+53,2014,Race-Ethnicity,American Indian/Alaskan Native,Essential hypertension and hypertensive renal disease,0
+54,2014,Race-Ethnicity,American Indian/Alaskan Native,Influenza and pneumonia,0
+55,2014,Race-Ethnicity,American Indian/Alaskan Native,Intentional self-harm (suicide),0
+56,2014,Race-Ethnicity,American Indian/Alaskan Native,Malignant neoplasms,69
+57,2014,Race-Ethnicity,American Indian/Alaskan Native,"Nephritis, nephrotic syndrome and nephrosis",0
+58,2014,Race-Ethnicity,American Indian/Alaskan Native,Parkinson's disease,0
+59,2014,Race-Ethnicity,Asian,Accidents (unintentional injuries),656
+60,2014,Race-Ethnicity,Asian,Alzheimer's disease,801
+61,2014,Race-Ethnicity,Asian,Assault (homicide),12
+62,2014,Race-Ethnicity,Asian,Cerebrovascular diseases,1629
+63,2014,Race-Ethnicity,Asian,Chronic liver disease and cirrhosis,99
+64,2014,Race-Ethnicity,Asian,Chronic lower respiratory diseases,712
+65,2014,Race-Ethnicity,Asian,Diabetes mellitus,914
+66,2014,Race-Ethnicity,Asian,Diseases of heart,4832
+67,2014,Race-Ethnicity,Asian,Essential hypertension and hypertensive renal disease,461
+68,2014,Race-Ethnicity,Asian,Influenza and pneumonia,726
+69,2014,Race-Ethnicity,Asian,Intentional self-harm (suicide),271
+70,2014,Race-Ethnicity,Asian,Malignant neoplasms,6174
+71,2014,Race-Ethnicity,Asian,"Nephritis, nephrotic syndrome and nephrosis",271
+72,2014,Race-Ethnicity,Asian,Parkinson's disease,163
+73,2014,Race-Ethnicity,Black,Accidents (unintentional injuries),802
+74,2014,Race-Ethnicity,Black,Alzheimer's disease,599
+75,2014,Race-Ethnicity,Black,Assault (homicide),463
+76,2014,Race-Ethnicity,Black,Cerebrovascular diseases,987
+77,2014,Race-Ethnicity,Black,Chronic liver disease and cirrhosis,188
+78,2014,Race-Ethnicity,Black,Chronic lower respiratory diseases,712
+79,2014,Race-Ethnicity,Black,Diabetes mellitus,844
+80,2014,Race-Ethnicity,Black,Diseases of heart,4541
+81,2014,Race-Ethnicity,Black,Essential hypertension and hypertensive renal disease,375
+82,2014,Race-Ethnicity,Black,Influenza and pneumonia,310
+83,2014,Race-Ethnicity,Black,Intentional self-harm (suicide),59
+84,2014,Race-Ethnicity,Black,Malignant neoplasms,4140
+85,2014,Race-Ethnicity,Black,"Nephritis, nephrotic syndrome and nephrosis",273
+86,2014,Race-Ethnicity,Black,Parkinson's disease,32
+87,2014,Race-Ethnicity,Hawaiian/Pacific Islander,Accidents (unintentional injuries),0
+88,2014,Race-Ethnicity,Hawaiian/Pacific Islander,Alzheimer's disease,0
+89,2014,Race-Ethnicity,Hawaiian/Pacific Islander,Assault (homicide),0
+90,2014,Race-Ethnicity,Hawaiian/Pacific Islander,Cerebrovascular diseases,0
+91,2014,Race-Ethnicity,Hawaiian/Pacific Islander,Chronic liver disease and cirrhosis,0
+92,2014,Race-Ethnicity,Hawaiian/Pacific Islander,Chronic lower respiratory diseases,0
+93,2014,Race-Ethnicity,Hawaiian/Pacific Islander,Diabetes mellitus,14
+94,2014,Race-Ethnicity,Hawaiian/Pacific Islander,Diseases of heart,131
+95,2014,Race-Ethnicity,Hawaiian/Pacific Islander,Essential hypertension and hypertensive renal disease,0
+96,2014,Race-Ethnicity,Hawaiian/Pacific Islander,Influenza and pneumonia,0
+97,2014,Race-Ethnicity,Hawaiian/Pacific Islander,Intentional self-harm (suicide),0
+98,2014,Race-Ethnicity,Hawaiian/Pacific Islander,Malignant neoplasms,141
+99,2014,Race-Ethnicity,Hawaiian/Pacific Islander,"Nephritis, nephrotic syndrome and nephrosis",0
+100,2014,Race-Ethnicity,Hawaiian/Pacific Islander,Parkinson's disease,0
+101,2014,Race-Ethnicity,Hispanic,Accidents (unintentional injuries),2843
+102,2014,Race-Ethnicity,Hispanic,Alzheimer's disease,1407
+103,2014,Race-Ethnicity,Hispanic,Assault (homicide),672
+104,2014,Race-Ethnicity,Hispanic,Cerebrovascular diseases,2360
+105,2014,Race-Ethnicity,Hispanic,Chronic liver disease and cirrhosis,1692
+106,2014,Race-Ethnicity,Hispanic,Chronic lower respiratory diseases,1052
+107,2014,Race-Ethnicity,Hispanic,Diabetes mellitus,2291
+108,2014,Race-Ethnicity,Hispanic,Diseases of heart,8643
+109,2014,Race-Ethnicity,Hispanic,Essential hypertension and hypertensive renal disease,678
+110,2014,Race-Ethnicity,Hispanic,Influenza and pneumonia,1043
+111,2014,Race-Ethnicity,Hispanic,Intentional self-harm (suicide),604
+112,2014,Race-Ethnicity,Hispanic,Malignant neoplasms,10099
+113,2014,Race-Ethnicity,Hispanic,"Nephritis, nephrotic syndrome and nephrosis",626
+114,2014,Race-Ethnicity,Hispanic,Parkinson's disease,234
+115,2014,Race-Ethnicity,Multi-Race,Accidents (unintentional injuries),80
+116,2014,Race-Ethnicity,Multi-Race,Alzheimer's disease,0
+117,2014,Race-Ethnicity,Multi-Race,Assault (homicide),0
+118,2014,Race-Ethnicity,Multi-Race,Cerebrovascular diseases,18
+119,2014,Race-Ethnicity,Multi-Race,Chronic liver disease and cirrhosis,0
+120,2014,Race-Ethnicity,Multi-Race,Chronic lower respiratory diseases,24
+121,2014,Race-Ethnicity,Multi-Race,Diabetes mellitus,12
+122,2014,Race-Ethnicity,Multi-Race,Diseases of heart,307
+123,2014,Race-Ethnicity,Multi-Race,Essential hypertension and hypertensive renal disease,0
+124,2014,Race-Ethnicity,Multi-Race,Influenza and pneumonia,13
+125,2014,Race-Ethnicity,Multi-Race,Intentional self-harm (suicide),11
+126,2014,Race-Ethnicity,Multi-Race,Malignant neoplasms,339
+127,2014,Race-Ethnicity,Multi-Race,"Nephritis, nephrotic syndrome and nephrosis",0
+128,2014,Race-Ethnicity,Multi-Race,Parkinson's disease,0
+129,2014,Race-Ethnicity,Other/Unknown,Accidents (unintentional injuries),0
+130,2014,Race-Ethnicity,Other/Unknown,Alzheimer's disease,0
+131,2014,Race-Ethnicity,Other/Unknown,Assault (homicide),0
+132,2014,Race-Ethnicity,Other/Unknown,Cerebrovascular diseases,0
+133,2014,Race-Ethnicity,Other/Unknown,Chronic liver disease and cirrhosis,0
+134,2014,Race-Ethnicity,Other/Unknown,Chronic lower respiratory diseases,0
+135,2014,Race-Ethnicity,Other/Unknown,Diabetes mellitus,0
+136,2014,Race-Ethnicity,Other/Unknown,Diseases of heart,104
+137,2014,Race-Ethnicity,Other/Unknown,Essential hypertension and hypertensive renal disease,0
+138,2014,Race-Ethnicity,Other/Unknown,Influenza and pneumonia,13
+139,2014,Race-Ethnicity,Other/Unknown,Intentional self-harm (suicide),0
+140,2014,Race-Ethnicity,Other/Unknown,Malignant neoplasms,86
+141,2014,Race-Ethnicity,Other/Unknown,"Nephritis, nephrotic syndrome and nephrosis",0
+142,2014,Race-Ethnicity,Other/Unknown,Parkinson's disease,0
+143,2014,Race-Ethnicity,White,Accidents (unintentional injuries),6621
+144,2014,Race-Ethnicity,White,Alzheimer's disease,9165
+145,2014,Race-Ethnicity,White,Assault (homicide),283
+146,2014,Race-Ethnicity,White,Cerebrovascular diseases,7896
+147,2014,Race-Ethnicity,White,Chronic liver disease and cirrhosis,2391
+148,2014,Race-Ethnicity,White,Chronic lower respiratory diseases,9322
+149,2014,Race-Ethnicity,White,Diabetes mellitus,3596
+150,2014,Race-Ethnicity,White,Diseases of heart,38382
+151,2014,Race-Ethnicity,White,Essential hypertension and hypertensive renal disease,2594
+152,2014,Race-Ethnicity,White,Influenza and pneumonia,3237
+153,2014,Race-Ethnicity,White,Intentional self-harm (suicide),2575
+154,2014,Race-Ethnicity,White,Malignant neoplasms,36312
+155,2014,Race-Ethnicity,White,"Nephritis, nephrotic syndrome and nephrosis",1386
+156,2014,Race-Ethnicity,White,Parkinson's disease,1676
+157,2014,Total Population,Total Population,Accidents (unintentional injuries),11578
+158,2014,Total Population,Total Population,Alzheimer's disease,12567
+159,2014,Total Population,Total Population,Assault (homicide),1667
+160,2014,Total Population,Total Population,Cerebrovascular diseases,13601
+161,2014,Total Population,Total Population,Chronic liver disease and cirrhosis,4914
+162,2014,Total Population,Total Population,Chronic lower respiratory diseases,12713
+163,2014,Total Population,Total Population,Diabetes mellitus,8149
+164,2014,Total Population,Total Population,Diseases of heart,57844
+165,2014,Total Population,Total Population,Essential hypertension and hypertensive renal disease,4486
+166,2014,Total Population,Total Population,Influenza and pneumonia,5876
+167,2014,Total Population,Total Population,Intentional self-harm (suicide),4116
+168,2014,Total Population,Total Population,Malignant neoplasms,58168
+169,2014,Total Population,Total Population,"Nephritis, nephrotic syndrome and nephrosis",3028
+170,2014,Total Population,Total Population,Parkinson's disease,2532
+171,2015,Age,1-4 years,All causes (total),219
+172,2015,Age,15-24 years,All causes (total),2941
+173,2015,Age,25-34 years,All causes (total),4724
+174,2015,Age,35-44 years,All causes (total),6879
+175,2015,Age,45-54 years,All causes (total),16497
+176,2015,Age,5-14 years,All causes (total),311
+177,2015,Age,55-64 years,All causes (total),33247
+178,2015,Age,65-74 years,All causes (total),44707
+179,2015,Age,75-84 years,All causes (total),58601
+180,2015,Age,85 years and over,All causes (total),87860
+181,2015,Age,Under 1 year,All causes (total),2078
+182,2015,Gender,Female,Accidents (unintentional injuries),4203
+183,2015,Gender,Female,Alzheimer's disease,10081
+184,2015,Gender,Female,Assault (homicide),216
+185,2015,Gender,Female,Cerebrovascular diseases,8614
+186,2015,Gender,Female,Chronic liver disease and cirrhosis,1852
+187,2015,Gender,Female,Chronic lower respiratory diseases,7197
+188,2015,Gender,Female,Diabetes mellitus,3883
+189,2015,Gender,Female,Diseases of heart,28333
+190,2015,Gender,Female,Essential hypertension and hypertensive renal disease,2750
+191,2015,Gender,Female,Influenza and pneumonia,3070
+192,2015,Gender,Female,Intentional self-harm (suicide),906
+193,2015,Gender,Female,Malignant neoplasms,28642
+194,2015,Gender,Female,"Nephritis, nephrotic syndrome and nephrosis",1584
+195,2015,Gender,Female,Parkinson's disease,1049
+196,2015,Gender,Male,Accidents (unintentional injuries),8286
+197,2015,Gender,Male,Alzheimer's disease,4694
+198,2015,Gender,Male,Assault (homicide),1078
+199,2015,Gender,Male,Cerebrovascular diseases,6290
+200,2015,Gender,Male,Chronic liver disease and cirrhosis,3345
+201,2015,Gender,Male,Chronic lower respiratory diseases,6265
+202,2015,Gender,Male,Diabetes mellitus,4715
+203,2015,Gender,Male,Diseases of heart,32955
+204,2015,Gender,Male,Essential hypertension and hypertensive renal disease,2169
+205,2015,Gender,Male,Influenza and pneumonia,2862
+206,2015,Gender,Male,Intentional self-harm (suicide),2753
+207,2015,Gender,Male,Malignant neoplasms,30908
+208,2015,Gender,Male,"Nephritis, nephrotic syndrome and nephrosis",1665
+209,2015,Gender,Male,Parkinson's disease,1533
+210,2015,Place Type,Decedent's Home,All causes (total),91707
+211,2015,Place Type,Emergency Room/Outpatient,All causes (total),15614
+212,2015,Place Type,Hospice Facility,All causes (total),4571
+213,2015,Place Type,Inpatient,All causes (total),81053
+214,2015,Place Type,Nursing Home/Long Term Care Facility,All causes (total),44258
+215,2015,Place Type,Other/Unknown,All causes (total),20138
+216,2015,Race-Ethnicity,American Indian/Alaskan Native,Accidents (unintentional injuries),11
+217,2015,Race-Ethnicity,American Indian/Alaskan Native,Alzheimer's disease,0
+218,2015,Race-Ethnicity,American Indian/Alaskan Native,Assault (homicide),0
+219,2015,Race-Ethnicity,American Indian/Alaskan Native,Cerebrovascular diseases,0
+220,2015,Race-Ethnicity,American Indian/Alaskan Native,Chronic liver disease and cirrhosis,0
+221,2015,Race-Ethnicity,American Indian/Alaskan Native,Chronic lower respiratory diseases,0
+222,2015,Race-Ethnicity,American Indian/Alaskan Native,Diabetes mellitus,0
+223,2015,Race-Ethnicity,American Indian/Alaskan Native,Diseases of heart,121
+224,2015,Race-Ethnicity,American Indian/Alaskan Native,Essential hypertension and hypertensive renal disease,0
+225,2015,Race-Ethnicity,American Indian/Alaskan Native,Influenza and pneumonia,0
+226,2015,Race-Ethnicity,American Indian/Alaskan Native,Intentional self-harm (suicide),0
+227,2015,Race-Ethnicity,American Indian/Alaskan Native,Malignant neoplasms,120
+228,2015,Race-Ethnicity,American Indian/Alaskan Native,"Nephritis, nephrotic syndrome and nephrosis",0
+229,2015,Race-Ethnicity,American Indian/Alaskan Native,Parkinson's disease,0
+230,2015,Race-Ethnicity,Asian,Accidents (unintentional injuries),810
+231,2015,Race-Ethnicity,Asian,Alzheimer's disease,969
+232,2015,Race-Ethnicity,Asian,Assault (homicide),21
+233,2015,Race-Ethnicity,Asian,Cerebrovascular diseases,1846
+234,2015,Race-Ethnicity,Asian,Chronic liver disease and cirrhosis,143
+235,2015,Race-Ethnicity,Asian,Chronic lower respiratory diseases,796
+236,2015,Race-Ethnicity,Asian,Diabetes mellitus,1017
+237,2015,Race-Ethnicity,Asian,Diseases of heart,5148
+238,2015,Race-Ethnicity,Asian,Essential hypertension and hypertensive renal disease,569
+239,2015,Race-Ethnicity,Asian,Influenza and pneumonia,872
+240,2015,Race-Ethnicity,Asian,Intentional self-harm (suicide),307
+241,2015,Race-Ethnicity,Asian,Malignant neoplasms,6616
+242,2015,Race-Ethnicity,Asian,"Nephritis, nephrotic syndrome and nephrosis",356
+243,2015,Race-Ethnicity,Asian,Parkinson's disease,264
+244,2015,Race-Ethnicity,Black,Accidents (unintentional injuries),850
+245,2015,Race-Ethnicity,Black,Alzheimer's disease,680
+246,2015,Race-Ethnicity,Black,Assault (homicide),511
+247,2015,Race-Ethnicity,Black,Cerebrovascular diseases,1065
+248,2015,Race-Ethnicity,Black,Chronic liver disease and cirrhosis,235
+249,2015,Race-Ethnicity,Black,Chronic lower respiratory diseases,810
+250,2015,Race-Ethnicity,Black,Diabetes mellitus,938
+251,2015,Race-Ethnicity,Black,Diseases of heart,4674
+252,2015,Race-Ethnicity,Black,Essential hypertension and hypertensive renal disease,490
+253,2015,Race-Ethnicity,Black,Influenza and pneumonia,321
+254,2015,Race-Ethnicity,Black,Intentional self-harm (suicide),83
+255,2015,Race-Ethnicity,Black,Malignant neoplasms,4277
+256,2015,Race-Ethnicity,Black,"Nephritis, nephrotic syndrome and nephrosis",364
+257,2015,Race-Ethnicity,Black,Parkinson's disease,0
+258,2015,Race-Ethnicity,Hawaiian/Pacific Islander,Accidents (unintentional injuries),0
+259,2015,Race-Ethnicity,Hawaiian/Pacific Islander,Alzheimer's disease,0
+260,2015,Race-Ethnicity,Hawaiian/Pacific Islander,Assault (homicide),0
+261,2015,Race-Ethnicity,Hawaiian/Pacific Islander,Cerebrovascular diseases,0
+262,2015,Race-Ethnicity,Hawaiian/Pacific Islander,Chronic liver disease and cirrhosis,0
+263,2015,Race-Ethnicity,Hawaiian/Pacific Islander,Chronic lower respiratory diseases,0
+264,2015,Race-Ethnicity,Hawaiian/Pacific Islander,Diabetes mellitus,12
+265,2015,Race-Ethnicity,Hawaiian/Pacific Islander,Diseases of heart,165
+266,2015,Race-Ethnicity,Hawaiian/Pacific Islander,Essential hypertension and hypertensive renal disease,0
+267,2015,Race-Ethnicity,Hawaiian/Pacific Islander,Influenza and pneumonia,0
+268,2015,Race-Ethnicity,Hawaiian/Pacific Islander,Intentional self-harm (suicide),0
+269,2015,Race-Ethnicity,Hawaiian/Pacific Islander,Malignant neoplasms,169
+270,2015,Race-Ethnicity,Hawaiian/Pacific Islander,"Nephritis, nephrotic syndrome and nephrosis",0
+271,2015,Race-Ethnicity,Hawaiian/Pacific Islander,Parkinson's disease,0
+272,2015,Race-Ethnicity,Hispanic,Accidents (unintentional injuries),3188
+273,2015,Race-Ethnicity,Hispanic,Alzheimer's disease,1916
+274,2015,Race-Ethnicity,Hispanic,Assault (homicide),766
+275,2015,Race-Ethnicity,Hispanic,Cerebrovascular diseases,2714
+276,2015,Race-Ethnicity,Hispanic,Chronic liver disease and cirrhosis,1894
+277,2015,Race-Ethnicity,Hispanic,Chronic lower respiratory diseases,1181
+278,2015,Race-Ethnicity,Hispanic,Diabetes mellitus,2444
+279,2015,Race-Ethnicity,Hispanic,Diseases of heart,9367
+280,2015,Race-Ethnicity,Hispanic,Essential hypertension and hypertensive renal disease,848
+281,2015,Race-Ethnicity,Hispanic,Influenza and pneumonia,1009
+282,2015,Race-Ethnicity,Hispanic,Intentional self-harm (suicide),653
+283,2015,Race-Ethnicity,Hispanic,Malignant neoplasms,10591
+284,2015,Race-Ethnicity,Hispanic,"Nephritis, nephrotic syndrome and nephrosis",695
+285,2015,Race-Ethnicity,Hispanic,Parkinson's disease,281
+286,2015,Race-Ethnicity,Multi-Race,Accidents (unintentional injuries),105
+287,2015,Race-Ethnicity,Multi-Race,Alzheimer's disease,20
+288,2015,Race-Ethnicity,Multi-Race,Assault (homicide),0
+289,2015,Race-Ethnicity,Multi-Race,Cerebrovascular diseases,17
+290,2015,Race-Ethnicity,Multi-Race,Chronic liver disease and cirrhosis,0
+291,2015,Race-Ethnicity,Multi-Race,Chronic lower respiratory diseases,30
+292,2015,Race-Ethnicity,Multi-Race,Diabetes mellitus,17
+293,2015,Race-Ethnicity,Multi-Race,Diseases of heart,366
+294,2015,Race-Ethnicity,Multi-Race,Essential hypertension and hypertensive renal disease,11
+295,2015,Race-Ethnicity,Multi-Race,Influenza and pneumonia,0
+296,2015,Race-Ethnicity,Multi-Race,Intentional self-harm (suicide),17
+297,2015,Race-Ethnicity,Multi-Race,Malignant neoplasms,353
+298,2015,Race-Ethnicity,Multi-Race,"Nephritis, nephrotic syndrome and nephrosis",0
+299,2015,Race-Ethnicity,Multi-Race,Parkinson's disease,0
+300,2015,Race-Ethnicity,Other/Unknown,Accidents (unintentional injuries),0
+301,2015,Race-Ethnicity,Other/Unknown,Alzheimer's disease,0
+302,2015,Race-Ethnicity,Other/Unknown,Assault (homicide),0
+303,2015,Race-Ethnicity,Other/Unknown,Cerebrovascular diseases,14
+304,2015,Race-Ethnicity,Other/Unknown,Chronic liver disease and cirrhosis,0
+305,2015,Race-Ethnicity,Other/Unknown,Chronic lower respiratory diseases,33
+306,2015,Race-Ethnicity,Other/Unknown,Diabetes mellitus,11
+307,2015,Race-Ethnicity,Other/Unknown,Diseases of heart,89
+308,2015,Race-Ethnicity,Other/Unknown,Essential hypertension and hypertensive renal disease,0
+309,2015,Race-Ethnicity,Other/Unknown,Influenza and pneumonia,12
+310,2015,Race-Ethnicity,Other/Unknown,Intentional self-harm (suicide),0
+311,2015,Race-Ethnicity,Other/Unknown,Malignant neoplasms,68
+312,2015,Race-Ethnicity,Other/Unknown,"Nephritis, nephrotic syndrome and nephrosis",0
+313,2015,Race-Ethnicity,Other/Unknown,Parkinson's disease,0
+314,2015,Race-Ethnicity,White,Accidents (unintentional injuries),7150
+315,2015,Race-Ethnicity,White,Alzheimer's disease,10761
+316,2015,Race-Ethnicity,White,Assault (homicide),297
+317,2015,Race-Ethnicity,White,Cerebrovascular diseases,8752
+318,2015,Race-Ethnicity,White,Chronic liver disease and cirrhosis,2516
+319,2015,Race-Ethnicity,White,Chronic lower respiratory diseases,9953
+320,2015,Race-Ethnicity,White,Diabetes mellitus,3847
+321,2015,Race-Ethnicity,White,Diseases of heart,40623
+322,2015,Race-Ethnicity,White,Essential hypertension and hypertensive renal disease,2834
+323,2015,Race-Ethnicity,White,Influenza and pneumonia,3391
+324,2015,Race-Ethnicity,White,Intentional self-harm (suicide),2628
+325,2015,Race-Ethnicity,White,Malignant neoplasms,36476
+326,2015,Race-Ethnicity,White,"Nephritis, nephrotic syndrome and nephrosis",1574
+327,2015,Race-Ethnicity,White,Parkinson's disease,1866
+328,2015,Total Population,Total Population,Accidents (unintentional injuries),12688
+329,2015,Total Population,Total Population,Alzheimer's disease,15011
+330,2015,Total Population,Total Population,Assault (homicide),1903
+331,2015,Total Population,Total Population,Cerebrovascular diseases,15019
+332,2015,Total Population,Total Population,Chronic liver disease and cirrhosis,5387
+333,2015,Total Population,Total Population,Chronic lower respiratory diseases,13590
+334,2015,Total Population,Total Population,Diabetes mellitus,8776
+335,2015,Total Population,Total Population,Diseases of heart,61342
+336,2015,Total Population,Total Population,Essential hypertension and hypertensive renal disease,5026
+337,2015,Total Population,Total Population,Influenza and pneumonia,6125
+338,2015,Total Population,Total Population,Intentional self-harm (suicide),4113
+339,2015,Total Population,Total Population,Malignant neoplasms,59568
+340,2015,Total Population,Total Population,"Nephritis, nephrotic syndrome and nephrosis",3490
+341,2015,Total Population,Total Population,Parkinson's disease,2809
+342,2016,Age,1-4 years,All causes (total),252
+343,2016,Age,15-24 years,All causes (total),3037
+344,2016,Age,25-34 years,All causes (total),5109
+345,2016,Age,35-44 years,All causes (total),6940
+346,2016,Age,45-54 years,All causes (total),16294
+347,2016,Age,5-14 years,All causes (total),334
+348,2016,Age,55-64 years,All causes (total),34105
+349,2016,Age,65-74 years,All causes (total),45757
+350,2016,Age,75-84 years,All causes (total),59027
+351,2016,Age,85 years and over,All causes (total),88243
+352,2016,Age,Under 1 year,All causes (total),1946
+353,2016,Gender,Female,Accidents (unintentional injuries),4272
+354,2016,Gender,Female,Alzheimer's disease,10494
+355,2016,Gender,Female,Assault (homicide),222
+356,2016,Gender,Female,Cerebrovascular diseases,8948
+357,2016,Gender,Female,Chronic liver disease and cirrhosis,1758
+358,2016,Gender,Female,Chronic lower respiratory diseases,7170
+359,2016,Gender,Female,Diabetes mellitus,3949
+360,2016,Gender,Female,Diseases of heart,28190
+361,2016,Gender,Female,Essential hypertension and hypertensive renal disease,2739
+362,2016,Gender,Female,Influenza and pneumonia,2897
+363,2016,Gender,Female,Intentional self-harm (suicide),882
+364,2016,Gender,Female,Malignant neoplasms,28650
+365,2016,Gender,Female,"Nephritis, nephrotic syndrome and nephrosis",1615
+366,2016,Gender,Female,Parkinson's disease,1078
+367,2016,Gender,Male,Accidents (unintentional injuries),8722
+368,2016,Gender,Male,Alzheimer's disease,4815
+369,2016,Gender,Male,Assault (homicide),1202
+370,2016,Gender,Male,Cerebrovascular diseases,6546
+371,2016,Gender,Male,Chronic liver disease and cirrhosis,3179
+372,2016,Gender,Male,Chronic lower respiratory diseases,6330
+373,2016,Gender,Male,Diabetes mellitus,4888
+374,2016,Gender,Male,Diseases of heart,33275
+375,2016,Gender,Male,Essential hypertension and hypertensive renal disease,2131
+376,2016,Gender,Male,Influenza and pneumonia,2828
+377,2016,Gender,Male,Intentional self-harm (suicide),2789
+378,2016,Gender,Male,Malignant neoplasms,30757
+379,2016,Gender,Male,"Nephritis, nephrotic syndrome and nephrosis",1679
+380,2016,Gender,Male,Parkinson's disease,1687
+381,2016,Place Type,Decedent's Home,All causes (total),92915
+382,2016,Place Type,Emergency Room/Outpatient,All causes (total),16280
+383,2016,Place Type,Hospice Facility,All causes (total),5178
+384,2016,Place Type,Inpatient,All causes (total),81834
+385,2016,Place Type,Nursing Home/Long Term Care Facility,All causes (total),42187
+386,2016,Place Type,Other/Unknown,All causes (total),22119
+387,2016,Race-Ethnicity,American Indian/Alaskan Native,Accidents (unintentional injuries),11
+388,2016,Race-Ethnicity,American Indian/Alaskan Native,Alzheimer's disease,0
+389,2016,Race-Ethnicity,American Indian/Alaskan Native,Assault (homicide),0
+390,2016,Race-Ethnicity,American Indian/Alaskan Native,Cerebrovascular diseases,0
+391,2016,Race-Ethnicity,American Indian/Alaskan Native,Chronic liver disease and cirrhosis,0
+392,2016,Race-Ethnicity,American Indian/Alaskan Native,Chronic lower respiratory diseases,0
+393,2016,Race-Ethnicity,American Indian/Alaskan Native,Diabetes mellitus,0
+394,2016,Race-Ethnicity,American Indian/Alaskan Native,Diseases of heart,137
+395,2016,Race-Ethnicity,American Indian/Alaskan Native,Essential hypertension and hypertensive renal disease,0
+396,2016,Race-Ethnicity,American Indian/Alaskan Native,Influenza and pneumonia,0
+397,2016,Race-Ethnicity,American Indian/Alaskan Native,Intentional self-harm (suicide),0
+398,2016,Race-Ethnicity,American Indian/Alaskan Native,Malignant neoplasms,88
+399,2016,Race-Ethnicity,American Indian/Alaskan Native,"Nephritis, nephrotic syndrome and nephrosis",0
+400,2016,Race-Ethnicity,American Indian/Alaskan Native,Parkinson's disease,0
+401,2016,Race-Ethnicity,Asian,Accidents (unintentional injuries),782
+402,2016,Race-Ethnicity,Asian,Alzheimer's disease,1108
+403,2016,Race-Ethnicity,Asian,Assault (homicide),58
+404,2016,Race-Ethnicity,Asian,Cerebrovascular diseases,2019
+405,2016,Race-Ethnicity,Asian,Chronic liver disease and cirrhosis,155
+406,2016,Race-Ethnicity,Asian,Chronic lower respiratory diseases,781
+407,2016,Race-Ethnicity,Asian,Diabetes mellitus,1061
+408,2016,Race-Ethnicity,Asian,Diseases of heart,5364
+409,2016,Race-Ethnicity,Asian,Essential hypertension and hypertensive renal disease,633
+410,2016,Race-Ethnicity,Asian,Influenza and pneumonia,816
+411,2016,Race-Ethnicity,Asian,Intentional self-harm (suicide),310
+412,2016,Race-Ethnicity,Asian,Malignant neoplasms,6602
+413,2016,Race-Ethnicity,Asian,"Nephritis, nephrotic syndrome and nephrosis",306
+414,2016,Race-Ethnicity,Asian,Parkinson's disease,236
+415,2016,Race-Ethnicity,Black,Accidents (unintentional injuries),921
+416,2016,Race-Ethnicity,Black,Alzheimer's disease,773
+417,2016,Race-Ethnicity,Black,Assault (homicide),501
+418,2016,Race-Ethnicity,Black,Cerebrovascular diseases,1088
+419,2016,Race-Ethnicity,Black,Chronic liver disease and cirrhosis,210
+420,2016,Race-Ethnicity,Black,Chronic lower respiratory diseases,806
+421,2016,Race-Ethnicity,Black,Diabetes mellitus,929
+422,2016,Race-Ethnicity,Black,Diseases of heart,4900
+423,2016,Race-Ethnicity,Black,Essential hypertension and hypertensive renal disease,418
+424,2016,Race-Ethnicity,Black,Influenza and pneumonia,344
+425,2016,Race-Ethnicity,Black,Intentional self-harm (suicide),73
+426,2016,Race-Ethnicity,Black,Malignant neoplasms,4196
+427,2016,Race-Ethnicity,Black,"Nephritis, nephrotic syndrome and nephrosis",379
+428,2016,Race-Ethnicity,Black,Parkinson's disease,42
+429,2016,Race-Ethnicity,Hawaiian/Pacific Islander,Accidents (unintentional injuries),0
+430,2016,Race-Ethnicity,Hawaiian/Pacific Islander,Alzheimer's disease,0
+431,2016,Race-Ethnicity,Hawaiian/Pacific Islander,Assault (homicide),0
+432,2016,Race-Ethnicity,Hawaiian/Pacific Islander,Cerebrovascular diseases,0
+433,2016,Race-Ethnicity,Hawaiian/Pacific Islander,Chronic liver disease and cirrhosis,0
+434,2016,Race-Ethnicity,Hawaiian/Pacific Islander,Chronic lower respiratory diseases,0
+435,2016,Race-Ethnicity,Hawaiian/Pacific Islander,Diabetes mellitus,0
+436,2016,Race-Ethnicity,Hawaiian/Pacific Islander,Diseases of heart,190
+437,2016,Race-Ethnicity,Hawaiian/Pacific Islander,Essential hypertension and hypertensive renal disease,0
+438,2016,Race-Ethnicity,Hawaiian/Pacific Islander,Influenza and pneumonia,0
+439,2016,Race-Ethnicity,Hawaiian/Pacific Islander,Intentional self-harm (suicide),0
+440,2016,Race-Ethnicity,Hawaiian/Pacific Islander,Malignant neoplasms,136
+441,2016,Race-Ethnicity,Hawaiian/Pacific Islander,"Nephritis, nephrotic syndrome and nephrosis",0
+442,2016,Race-Ethnicity,Hawaiian/Pacific Islander,Parkinson's disease,0
+443,2016,Race-Ethnicity,Hispanic,Accidents (unintentional injuries),3471
+444,2016,Race-Ethnicity,Hispanic,Alzheimer's disease,1940
+445,2016,Race-Ethnicity,Hispanic,Assault (homicide),827
+446,2016,Race-Ethnicity,Hispanic,Cerebrovascular diseases,2835
+447,2016,Race-Ethnicity,Hispanic,Chronic liver disease and cirrhosis,1907
+448,2016,Race-Ethnicity,Hispanic,Chronic lower respiratory diseases,1244
+449,2016,Race-Ethnicity,Hispanic,Diabetes mellitus,2680
+450,2016,Race-Ethnicity,Hispanic,Diseases of heart,9825
+451,2016,Race-Ethnicity,Hispanic,Essential hypertension and hypertensive renal disease,851
+452,2016,Race-Ethnicity,Hispanic,Influenza and pneumonia,1043
+453,2016,Race-Ethnicity,Hispanic,Intentional self-harm (suicide),741
+454,2016,Race-Ethnicity,Hispanic,Malignant neoplasms,10776
+455,2016,Race-Ethnicity,Hispanic,"Nephritis, nephrotic syndrome and nephrosis",843
+456,2016,Race-Ethnicity,Hispanic,Parkinson's disease,289
+457,2016,Race-Ethnicity,Multi-Race,Accidents (unintentional injuries),82
+458,2016,Race-Ethnicity,Multi-Race,Alzheimer's disease,16
+459,2016,Race-Ethnicity,Multi-Race,Assault (homicide),0
+460,2016,Race-Ethnicity,Multi-Race,Cerebrovascular diseases,32
+461,2016,Race-Ethnicity,Multi-Race,Chronic liver disease and cirrhosis,0
+462,2016,Race-Ethnicity,Multi-Race,Chronic lower respiratory diseases,52
+463,2016,Race-Ethnicity,Multi-Race,Diabetes mellitus,15
+464,2016,Race-Ethnicity,Multi-Race,Diseases of heart,325
+465,2016,Race-Ethnicity,Multi-Race,Essential hypertension and hypertensive renal disease,0
+466,2016,Race-Ethnicity,Multi-Race,Influenza and pneumonia,0
+467,2016,Race-Ethnicity,Multi-Race,Intentional self-harm (suicide),13
+468,2016,Race-Ethnicity,Multi-Race,Malignant neoplasms,409
+469,2016,Race-Ethnicity,Multi-Race,"Nephritis, nephrotic syndrome and nephrosis",0
+470,2016,Race-Ethnicity,Multi-Race,Parkinson's disease,0
+471,2016,Race-Ethnicity,Other/Unknown,Accidents (unintentional injuries),0
+472,2016,Race-Ethnicity,Other/Unknown,Alzheimer's disease,26
+473,2016,Race-Ethnicity,Other/Unknown,Assault (homicide),0
+474,2016,Race-Ethnicity,Other/Unknown,Cerebrovascular diseases,14
+475,2016,Race-Ethnicity,Other/Unknown,Chronic liver disease and cirrhosis,15
+476,2016,Race-Ethnicity,Other/Unknown,Chronic lower respiratory diseases,28
+477,2016,Race-Ethnicity,Other/Unknown,Diabetes mellitus,0
+478,2016,Race-Ethnicity,Other/Unknown,Diseases of heart,120
+479,2016,Race-Ethnicity,Other/Unknown,Essential hypertension and hypertensive renal disease,0
+480,2016,Race-Ethnicity,Other/Unknown,Influenza and pneumonia,18
+481,2016,Race-Ethnicity,Other/Unknown,Intentional self-harm (suicide),0
+482,2016,Race-Ethnicity,Other/Unknown,Malignant neoplasms,100
+483,2016,Race-Ethnicity,Other/Unknown,"Nephritis, nephrotic syndrome and nephrosis",0
+484,2016,Race-Ethnicity,Other/Unknown,Parkinson's disease,0
+485,2016,Race-Ethnicity,White,Accidents (unintentional injuries),7295
+486,2016,Race-Ethnicity,White,Alzheimer's disease,10939
+487,2016,Race-Ethnicity,White,Assault (homicide),276
+488,2016,Race-Ethnicity,White,Cerebrovascular diseases,8922
+489,2016,Race-Ethnicity,White,Chronic liver disease and cirrhosis,2483
+490,2016,Race-Ethnicity,White,Chronic lower respiratory diseases,10110
+491,2016,Race-Ethnicity,White,Diabetes mellitus,3855
+492,2016,Race-Ethnicity,White,Diseases of heart,39856
+493,2016,Race-Ethnicity,White,Essential hypertension and hypertensive renal disease,2615
+494,2016,Race-Ethnicity,White,Influenza and pneumonia,3092
+495,2016,Race-Ethnicity,White,Intentional self-harm (suicide),2494
+496,2016,Race-Ethnicity,White,Malignant neoplasms,36373
+497,2016,Race-Ethnicity,White,"Nephritis, nephrotic syndrome and nephrosis",1494
+498,2016,Race-Ethnicity,White,Parkinson's disease,2051
+499,2016,Total Population,Total Population,Accidents (unintentional injuries),13226
+500,2016,Total Population,Total Population,Alzheimer's disease,15517
+501,2016,Total Population,Total Population,Assault (homicide),1977
+502,2016,Total Population,Total Population,Cerebrovascular diseases,15599
+503,2016,Total Population,Total Population,Chronic liver disease and cirrhosis,5198
+504,2016,Total Population,Total Population,Chronic lower respiratory diseases,13667
+505,2016,Total Population,Total Population,Diabetes mellitus,9052
+506,2016,Total Population,Total Population,Diseases of heart,61518
+507,2016,Total Population,Total Population,Essential hypertension and hypertensive renal disease,5000
+508,2016,Total Population,Total Population,Influenza and pneumonia,5905
+509,2016,Total Population,Total Population,Intentional self-harm (suicide),4224
+510,2016,Total Population,Total Population,Malignant neoplasms,59428
+511,2016,Total Population,Total Population,"Nephritis, nephrotic syndrome and nephrosis",3521
+512,2016,Total Population,Total Population,Parkinson's disease,3011
+513,2017,Age,1-4 years,All causes (total),218
+514,2017,Age,15-24 years,All causes (total),2968
+515,2017,Age,25-34 years,All causes (total),5100
+516,2017,Age,35-44 years,All causes (total),7065
+517,2017,Age,45-54 years,All causes (total),15770
+518,2017,Age,5-14 years,All causes (total),357
+519,2017,Age,55-64 years,All causes (total),34108
+520,2017,Age,65-74 years,All causes (total),48007
+521,2017,Age,75-84 years,All causes (total),60482
+522,2017,Age,85 years and over,All causes (total),91330
+523,2017,Age,Under 1 year,All causes (total),1855
+524,2017,Gender,Female,Accidents (unintentional injuries),4429
+525,2017,Gender,Female,Alzheimer's disease,10908
+526,2017,Gender,Female,Assault (homicide),270
+527,2017,Gender,Female,Cerebrovascular diseases,9256
+528,2017,Gender,Female,Chronic liver disease and cirrhosis,1782
+529,2017,Gender,Female,Chronic lower respiratory diseases,7237
+530,2017,Gender,Female,Diabetes mellitus,4069
+531,2017,Gender,Female,Diseases of heart,28752
+532,2017,Gender,Female,Essential hypertension and hypertensive renal disease,2913
+533,2017,Gender,Female,Influenza and pneumonia,3089
+534,2017,Gender,Female,Intentional self-harm (suicide),837
+535,2017,Gender,Female,Malignant neoplasms,28748
+536,2017,Gender,Female,"Nephritis, nephrotic syndrome and nephrosis",1700
+537,2017,Gender,Female,Parkinson's disease,1214
+538,2017,Gender,Male,Accidents (unintentional injuries),9195
+539,2017,Gender,Male,Alzheimer's disease,5117
+540,2017,Gender,Male,Assault (homicide),1076
+541,2017,Gender,Male,Cerebrovascular diseases,6940
+542,2017,Gender,Male,Chronic liver disease and cirrhosis,3218
+543,2017,Gender,Male,Chronic lower respiratory diseases,6449
+544,2017,Gender,Male,Diabetes mellitus,5296
+545,2017,Gender,Male,Diseases of heart,33932
+546,2017,Gender,Male,Essential hypertension and hypertensive renal disease,2361
+547,2017,Gender,Male,Influenza and pneumonia,2994
+548,2017,Gender,Male,Intentional self-harm (suicide),2860
+549,2017,Gender,Male,Malignant neoplasms,30676
+550,2017,Gender,Male,"Nephritis, nephrotic syndrome and nephrosis",1851
+551,2017,Gender,Male,Parkinson's disease,1902
+552,2017,Place Type,Decedent's Home,All causes (total),95261
+553,2017,Place Type,Emergency Room/Outpatient,All causes (total),16383
+554,2017,Place Type,Hospice Facility,All causes (total),5272
+555,2017,Place Type,Inpatient,All causes (total),82976
+556,2017,Place Type,Nursing Home/Long Term Care Facility,All causes (total),42769
+557,2017,Place Type,Other/Unknown,All causes (total),23970
+558,2017,Race-Ethnicity,American Indian/Alaskan Native,Accidents (unintentional injuries),39
+559,2017,Race-Ethnicity,American Indian/Alaskan Native,Alzheimer's disease,0
+560,2017,Race-Ethnicity,American Indian/Alaskan Native,Assault (homicide),0
+561,2017,Race-Ethnicity,American Indian/Alaskan Native,Cerebrovascular diseases,0
+562,2017,Race-Ethnicity,American Indian/Alaskan Native,Chronic liver disease and cirrhosis,0
+563,2017,Race-Ethnicity,American Indian/Alaskan Native,Chronic lower respiratory diseases,0
+564,2017,Race-Ethnicity,American Indian/Alaskan Native,Diabetes mellitus,0
+565,2017,Race-Ethnicity,American Indian/Alaskan Native,Diseases of heart,108
+566,2017,Race-Ethnicity,American Indian/Alaskan Native,Essential hypertension and hypertensive renal disease,0
+567,2017,Race-Ethnicity,American Indian/Alaskan Native,Influenza and pneumonia,0
+568,2017,Race-Ethnicity,American Indian/Alaskan Native,Intentional self-harm (suicide),0
+569,2017,Race-Ethnicity,American Indian/Alaskan Native,Malignant neoplasms,109
+570,2017,Race-Ethnicity,American Indian/Alaskan Native,"Nephritis, nephrotic syndrome and nephrosis",0
+571,2017,Race-Ethnicity,American Indian/Alaskan Native,Parkinson's disease,0
+572,2017,Race-Ethnicity,Asian,Accidents (unintentional injuries),866
+573,2017,Race-Ethnicity,Asian,Alzheimer's disease,1223
+574,2017,Race-Ethnicity,Asian,Assault (homicide),25
+575,2017,Race-Ethnicity,Asian,Cerebrovascular diseases,2104
+576,2017,Race-Ethnicity,Asian,Chronic liver disease and cirrhosis,134
+577,2017,Race-Ethnicity,Asian,Chronic lower respiratory diseases,804
+578,2017,Race-Ethnicity,Asian,Diabetes mellitus,1162
+579,2017,Race-Ethnicity,Asian,Diseases of heart,5724
+580,2017,Race-Ethnicity,Asian,Essential hypertension and hypertensive renal disease,686
+581,2017,Race-Ethnicity,Asian,Influenza and pneumonia,841
+582,2017,Race-Ethnicity,Asian,Intentional self-harm (suicide),317
+583,2017,Race-Ethnicity,Asian,Malignant neoplasms,6706
+584,2017,Race-Ethnicity,Asian,"Nephritis, nephrotic syndrome and nephrosis",479
+585,2017,Race-Ethnicity,Asian,Parkinson's disease,271
+586,2017,Race-Ethnicity,Black,Accidents (unintentional injuries),1025
+587,2017,Race-Ethnicity,Black,Alzheimer's disease,861
+588,2017,Race-Ethnicity,Black,Assault (homicide),481
+589,2017,Race-Ethnicity,Black,Cerebrovascular diseases,1166
+590,2017,Race-Ethnicity,Black,Chronic liver disease and cirrhosis,225
+591,2017,Race-Ethnicity,Black,Chronic lower respiratory diseases,860
+592,2017,Race-Ethnicity,Black,Diabetes mellitus,911
+593,2017,Race-Ethnicity,Black,Diseases of heart,4879
+594,2017,Race-Ethnicity,Black,Essential hypertension and hypertensive renal disease,540
+595,2017,Race-Ethnicity,Black,Influenza and pneumonia,329
+596,2017,Race-Ethnicity,Black,Intentional self-harm (suicide),74
+597,2017,Race-Ethnicity,Black,Malignant neoplasms,4139
+598,2017,Race-Ethnicity,Black,"Nephritis, nephrotic syndrome and nephrosis",385
+599,2017,Race-Ethnicity,Black,Parkinson's disease,47
+600,2017,Race-Ethnicity,Hawaiian/Pacific Islander,Accidents (unintentional injuries),0
+601,2017,Race-Ethnicity,Hawaiian/Pacific Islander,Alzheimer's disease,0
+602,2017,Race-Ethnicity,Hawaiian/Pacific Islander,Assault (homicide),0
+603,2017,Race-Ethnicity,Hawaiian/Pacific Islander,Cerebrovascular diseases,0
+604,2017,Race-Ethnicity,Hawaiian/Pacific Islander,Chronic liver disease and cirrhosis,0
+605,2017,Race-Ethnicity,Hawaiian/Pacific Islander,Chronic lower respiratory diseases,0
+606,2017,Race-Ethnicity,Hawaiian/Pacific Islander,Diabetes mellitus,25
+607,2017,Race-Ethnicity,Hawaiian/Pacific Islander,Diseases of heart,167
+608,2017,Race-Ethnicity,Hawaiian/Pacific Islander,Essential hypertension and hypertensive renal disease,0
+609,2017,Race-Ethnicity,Hawaiian/Pacific Islander,Influenza and pneumonia,0
+610,2017,Race-Ethnicity,Hawaiian/Pacific Islander,Intentional self-harm (suicide),0
+611,2017,Race-Ethnicity,Hawaiian/Pacific Islander,Malignant neoplasms,145
+612,2017,Race-Ethnicity,Hawaiian/Pacific Islander,"Nephritis, nephrotic syndrome and nephrosis",0
+613,2017,Race-Ethnicity,Hawaiian/Pacific Islander,Parkinson's disease,0
+614,2017,Race-Ethnicity,Hispanic,Accidents (unintentional injuries),3648
+615,2017,Race-Ethnicity,Hispanic,Alzheimer's disease,2234
+616,2017,Race-Ethnicity,Hispanic,Assault (homicide),861
+617,2017,Race-Ethnicity,Hispanic,Cerebrovascular diseases,2896
+618,2017,Race-Ethnicity,Hispanic,Chronic liver disease and cirrhosis,1947
+619,2017,Race-Ethnicity,Hispanic,Chronic lower respiratory diseases,1241
+620,2017,Race-Ethnicity,Hispanic,Diabetes mellitus,2797
+621,2017,Race-Ethnicity,Hispanic,Diseases of heart,10380
+622,2017,Race-Ethnicity,Hispanic,Essential hypertension and hypertensive renal disease,951
+623,2017,Race-Ethnicity,Hispanic,Influenza and pneumonia,1083
+624,2017,Race-Ethnicity,Hispanic,Intentional self-harm (suicide),786
+625,2017,Race-Ethnicity,Hispanic,Malignant neoplasms,11089
+626,2017,Race-Ethnicity,Hispanic,"Nephritis, nephrotic syndrome and nephrosis",897
+627,2017,Race-Ethnicity,Hispanic,Parkinson's disease,347
+628,2017,Race-Ethnicity,Multi-Race,Accidents (unintentional injuries),123
+629,2017,Race-Ethnicity,Multi-Race,Alzheimer's disease,13
+630,2017,Race-Ethnicity,Multi-Race,Assault (homicide),0
+631,2017,Race-Ethnicity,Multi-Race,Cerebrovascular diseases,22
+632,2017,Race-Ethnicity,Multi-Race,Chronic liver disease and cirrhosis,0
+633,2017,Race-Ethnicity,Multi-Race,Chronic lower respiratory diseases,46
+634,2017,Race-Ethnicity,Multi-Race,Diabetes mellitus,41
+635,2017,Race-Ethnicity,Multi-Race,Diseases of heart,349
+636,2017,Race-Ethnicity,Multi-Race,Essential hypertension and hypertensive renal disease,0
+637,2017,Race-Ethnicity,Multi-Race,Influenza and pneumonia,0
+638,2017,Race-Ethnicity,Multi-Race,Intentional self-harm (suicide),21
+639,2017,Race-Ethnicity,Multi-Race,Malignant neoplasms,348
+640,2017,Race-Ethnicity,Multi-Race,"Nephritis, nephrotic syndrome and nephrosis",0
+641,2017,Race-Ethnicity,Multi-Race,Parkinson's disease,0
+642,2017,Race-Ethnicity,Other/Unknown,Accidents (unintentional injuries),0
+643,2017,Race-Ethnicity,Other/Unknown,Alzheimer's disease,0
+644,2017,Race-Ethnicity,Other/Unknown,Assault (homicide),0
+645,2017,Race-Ethnicity,Other/Unknown,Cerebrovascular diseases,27
+646,2017,Race-Ethnicity,Other/Unknown,Chronic liver disease and cirrhosis,0
+647,2017,Race-Ethnicity,Other/Unknown,Chronic lower respiratory diseases,34
+648,2017,Race-Ethnicity,Other/Unknown,Diabetes mellitus,13
+649,2017,Race-Ethnicity,Other/Unknown,Diseases of heart,192
+650,2017,Race-Ethnicity,Other/Unknown,Essential hypertension and hypertensive renal disease,0
+651,2017,Race-Ethnicity,Other/Unknown,Influenza and pneumonia,0
+652,2017,Race-Ethnicity,Other/Unknown,Intentional self-harm (suicide),0
+653,2017,Race-Ethnicity,Other/Unknown,Malignant neoplasms,90
+654,2017,Race-Ethnicity,Other/Unknown,"Nephritis, nephrotic syndrome and nephrosis",0
+655,2017,Race-Ethnicity,Other/Unknown,Parkinson's disease,0
+656,2017,Race-Ethnicity,White,Accidents (unintentional injuries),7420
+657,2017,Race-Ethnicity,White,Alzheimer's disease,11343
+658,2017,Race-Ethnicity,White,Assault (homicide),203
+659,2017,Race-Ethnicity,White,Cerebrovascular diseases,9471
+660,2017,Race-Ethnicity,White,Chronic liver disease and cirrhosis,2377
+661,2017,Race-Ethnicity,White,Chronic lower respiratory diseases,10232
+662,2017,Race-Ethnicity,White,Diabetes mellitus,4037
+663,2017,Race-Ethnicity,White,Diseases of heart,40156
+664,2017,Race-Ethnicity,White,Essential hypertension and hypertensive renal disease,2856
+665,2017,Race-Ethnicity,White,Influenza and pneumonia,3479
+666,2017,Race-Ethnicity,White,Intentional self-harm (suicide),2482
+667,2017,Race-Ethnicity,White,Malignant neoplasms,35995
+668,2017,Race-Ethnicity,White,"Nephritis, nephrotic syndrome and nephrosis",1622
+669,2017,Race-Ethnicity,White,Parkinson's disease,2117
+670,2017,Total Population,Total Population,Accidents (unintentional injuries),13813
+671,2017,Total Population,Total Population,Alzheimer's disease,16197
+672,2017,Total Population,Total Population,Assault (homicide),1864
+673,2017,Total Population,Total Population,Cerebrovascular diseases,16298
+674,2017,Total Population,Total Population,Chronic liver disease and cirrhosis,5261
+675,2017,Total Population,Total Population,Chronic lower respiratory diseases,13851
+676,2017,Total Population,Total Population,Diabetes mellitus,9541
+677,2017,Total Population,Total Population,Diseases of heart,62738
+678,2017,Total Population,Total Population,Essential hypertension and hypertensive renal disease,5507
+679,2017,Total Population,Total Population,Influenza and pneumonia,6262
+680,2017,Total Population,Total Population,Intentional self-harm (suicide),4227
+681,2017,Total Population,Total Population,Malignant neoplasms,59460
+682,2017,Total Population,Total Population,"Nephritis, nephrotic syndrome and nephrosis",3787
+683,2017,Total Population,Total Population,Parkinson's disease,3281
+684,2018,Age,1-4 years,All causes (total),238
+685,2018,Age,15-24 years,All causes (total),2814
+686,2018,Age,25-34 years,All causes (total),5275
+687,2018,Age,35-44 years,All causes (total),7326
+688,2018,Age,45-54 years,All causes (total),15424
+689,2018,Age,5-14 years,All causes (total),325
+690,2018,Age,55-64 years,All causes (total),34170
+691,2018,Age,65-74 years,All causes (total),48789
+692,2018,Age,75-84 years,All causes (total),61723
+693,2018,Age,85 years and over,All causes (total),90152
+694,2018,Age,Under 1 year,All causes (total),1761
+695,2018,Gender,Female,Accidents (unintentional injuries),4474
+696,2018,Gender,Female,Alzheimer's disease,10921
+697,2018,Gender,Female,Assault (homicide),244
+698,2018,Gender,Female,Cerebrovascular diseases,9193
+699,2018,Gender,Female,Chronic liver disease and cirrhosis,1807
+700,2018,Gender,Female,Chronic lower respiratory diseases,7096
+701,2018,Gender,Female,Diabetes mellitus,4113
+702,2018,Gender,Female,Diseases of heart,28242
+703,2018,Gender,Female,Essential hypertension and hypertensive renal disease,2894
+704,2018,Gender,Female,Influenza and pneumonia,3310
+705,2018,Gender,Female,Intentional self-harm (suicide),908
+706,2018,Gender,Female,Malignant neoplasms,28708
+707,2018,Gender,Female,"Nephritis, nephrotic syndrome and nephrosis",1646
+708,2018,Gender,Female,Parkinson's disease,1235
+709,2018,Gender,Male,Accidents (unintentional injuries),9471
+710,2018,Gender,Male,Alzheimer's disease,5407
+711,2018,Gender,Male,Assault (homicide),1090
+712,2018,Gender,Male,Cerebrovascular diseases,7078
+713,2018,Gender,Male,Chronic liver disease and cirrhosis,3297
+714,2018,Gender,Male,Chronic lower respiratory diseases,6402
+715,2018,Gender,Male,Diabetes mellitus,5142
+716,2018,Gender,Male,Diseases of heart,34277
+717,2018,Gender,Male,Essential hypertension and hypertensive renal disease,2392
+718,2018,Gender,Male,Influenza and pneumonia,3392
+719,2018,Gender,Male,Intentional self-harm (suicide),3010
+720,2018,Gender,Male,Malignant neoplasms,31175
+721,2018,Gender,Male,"Nephritis, nephrotic syndrome and nephrosis",1976
+722,2018,Gender,Male,Parkinson's disease,1970
+723,2018,Place Type,Decedent's Home,All causes (total),97202
+724,2018,Place Type,Emergency Room/Outpatient,All causes (total),15709
+725,2018,Place Type,Hospice Facility,All causes (total),5209
+726,2018,Place Type,Inpatient,All causes (total),83534
+727,2018,Place Type,Nursing Home/Long Term Care Facility,All causes (total),41304
+728,2018,Place Type,Other/Unknown,All causes (total),24569
+729,2018,Race-Ethnicity,American Indian/Alaskan Native,Accidents (unintentional injuries),0
+730,2018,Race-Ethnicity,American Indian/Alaskan Native,Alzheimer's disease,0
+731,2018,Race-Ethnicity,American Indian/Alaskan Native,Assault (homicide),0
+732,2018,Race-Ethnicity,American Indian/Alaskan Native,Cerebrovascular diseases,0
+733,2018,Race-Ethnicity,American Indian/Alaskan Native,Chronic liver disease and cirrhosis,12
+734,2018,Race-Ethnicity,American Indian/Alaskan Native,Chronic lower respiratory diseases,0
+735,2018,Race-Ethnicity,American Indian/Alaskan Native,Diabetes mellitus,0
+736,2018,Race-Ethnicity,American Indian/Alaskan Native,Diseases of heart,135
+737,2018,Race-Ethnicity,American Indian/Alaskan Native,Essential hypertension and hypertensive renal disease,0
+738,2018,Race-Ethnicity,American Indian/Alaskan Native,Influenza and pneumonia,0
+739,2018,Race-Ethnicity,American Indian/Alaskan Native,Intentional self-harm (suicide),0
+740,2018,Race-Ethnicity,American Indian/Alaskan Native,Malignant neoplasms,99
+741,2018,Race-Ethnicity,American Indian/Alaskan Native,"Nephritis, nephrotic syndrome and nephrosis",0
+742,2018,Race-Ethnicity,American Indian/Alaskan Native,Parkinson's disease,0
+743,2018,Race-Ethnicity,Asian,Accidents (unintentional injuries),878
+744,2018,Race-Ethnicity,Asian,Alzheimer's disease,1326
+745,2018,Race-Ethnicity,Asian,Assault (homicide),24
+746,2018,Race-Ethnicity,Asian,Cerebrovascular diseases,2122
+747,2018,Race-Ethnicity,Asian,Chronic liver disease and cirrhosis,175
+748,2018,Race-Ethnicity,Asian,Chronic lower respiratory diseases,823
+749,2018,Race-Ethnicity,Asian,Diabetes mellitus,1196
+750,2018,Race-Ethnicity,Asian,Diseases of heart,5763
+751,2018,Race-Ethnicity,Asian,Essential hypertension and hypertensive renal disease,717
+752,2018,Race-Ethnicity,Asian,Influenza and pneumonia,957
+753,2018,Race-Ethnicity,Asian,Intentional self-harm (suicide),328
+754,2018,Race-Ethnicity,Asian,Malignant neoplasms,6909
+755,2018,Race-Ethnicity,Asian,"Nephritis, nephrotic syndrome and nephrosis",498
+756,2018,Race-Ethnicity,Asian,Parkinson's disease,291
+757,2018,Race-Ethnicity,Black,Accidents (unintentional injuries),1063
+758,2018,Race-Ethnicity,Black,Alzheimer's disease,835
+759,2018,Race-Ethnicity,Black,Assault (homicide),403
+760,2018,Race-Ethnicity,Black,Cerebrovascular diseases,1180
+761,2018,Race-Ethnicity,Black,Chronic liver disease and cirrhosis,193
+762,2018,Race-Ethnicity,Black,Chronic lower respiratory diseases,851
+763,2018,Race-Ethnicity,Black,Diabetes mellitus,995
+764,2018,Race-Ethnicity,Black,Diseases of heart,5095
+765,2018,Race-Ethnicity,Black,Essential hypertension and hypertensive renal disease,531
+766,2018,Race-Ethnicity,Black,Influenza and pneumonia,404
+767,2018,Race-Ethnicity,Black,Intentional self-harm (suicide),83
+768,2018,Race-Ethnicity,Black,Malignant neoplasms,4241
+769,2018,Race-Ethnicity,Black,"Nephritis, nephrotic syndrome and nephrosis",319
+770,2018,Race-Ethnicity,Black,Parkinson's disease,35
+771,2018,Race-Ethnicity,Hawaiian/Pacific Islander,Accidents (unintentional injuries),11
+772,2018,Race-Ethnicity,Hawaiian/Pacific Islander,Alzheimer's disease,0
+773,2018,Race-Ethnicity,Hawaiian/Pacific Islander,Assault (homicide),0
+774,2018,Race-Ethnicity,Hawaiian/Pacific Islander,Cerebrovascular diseases,0
+775,2018,Race-Ethnicity,Hawaiian/Pacific Islander,Chronic liver disease and cirrhosis,0
+776,2018,Race-Ethnicity,Hawaiian/Pacific Islander,Chronic lower respiratory diseases,0
+777,2018,Race-Ethnicity,Hawaiian/Pacific Islander,Diabetes mellitus,23
+778,2018,Race-Ethnicity,Hawaiian/Pacific Islander,Diseases of heart,200
+779,2018,Race-Ethnicity,Hawaiian/Pacific Islander,Essential hypertension and hypertensive renal disease,0
+780,2018,Race-Ethnicity,Hawaiian/Pacific Islander,Influenza and pneumonia,0
+781,2018,Race-Ethnicity,Hawaiian/Pacific Islander,Intentional self-harm (suicide),0
+782,2018,Race-Ethnicity,Hawaiian/Pacific Islander,Malignant neoplasms,151
+783,2018,Race-Ethnicity,Hawaiian/Pacific Islander,"Nephritis, nephrotic syndrome and nephrosis",0
+784,2018,Race-Ethnicity,Hawaiian/Pacific Islander,Parkinson's disease,0
+785,2018,Race-Ethnicity,Hispanic,Accidents (unintentional injuries),3900
+786,2018,Race-Ethnicity,Hispanic,Alzheimer's disease,2520
+787,2018,Race-Ethnicity,Hispanic,Assault (homicide),758
+788,2018,Race-Ethnicity,Hispanic,Cerebrovascular diseases,3099
+789,2018,Race-Ethnicity,Hispanic,Chronic liver disease and cirrhosis,1995
+790,2018,Race-Ethnicity,Hispanic,Chronic lower respiratory diseases,1334
+791,2018,Race-Ethnicity,Hispanic,Diabetes mellitus,2782
+792,2018,Race-Ethnicity,Hispanic,Diseases of heart,10427
+793,2018,Race-Ethnicity,Hispanic,Essential hypertension and hypertensive renal disease,985
+794,2018,Race-Ethnicity,Hispanic,Influenza and pneumonia,1267
+795,2018,Race-Ethnicity,Hispanic,Intentional self-harm (suicide),852
+796,2018,Race-Ethnicity,Hispanic,Malignant neoplasms,11501
+797,2018,Race-Ethnicity,Hispanic,"Nephritis, nephrotic syndrome and nephrosis",967
+798,2018,Race-Ethnicity,Hispanic,Parkinson's disease,395
+799,2018,Race-Ethnicity,Multi-Race,Accidents (unintentional injuries),132
+800,2018,Race-Ethnicity,Multi-Race,Alzheimer's disease,29
+801,2018,Race-Ethnicity,Multi-Race,Assault (homicide),0
+802,2018,Race-Ethnicity,Multi-Race,Cerebrovascular diseases,31
+803,2018,Race-Ethnicity,Multi-Race,Chronic liver disease and cirrhosis,0
+804,2018,Race-Ethnicity,Multi-Race,Chronic lower respiratory diseases,32
+805,2018,Race-Ethnicity,Multi-Race,Diabetes mellitus,11
+806,2018,Race-Ethnicity,Multi-Race,Diseases of heart,393
+807,2018,Race-Ethnicity,Multi-Race,Essential hypertension and hypertensive renal disease,0
+808,2018,Race-Ethnicity,Multi-Race,Influenza and pneumonia,0
+809,2018,Race-Ethnicity,Multi-Race,Intentional self-harm (suicide),38
+810,2018,Race-Ethnicity,Multi-Race,Malignant neoplasms,431
+811,2018,Race-Ethnicity,Multi-Race,"Nephritis, nephrotic syndrome and nephrosis",0
+812,2018,Race-Ethnicity,Multi-Race,Parkinson's disease,0
+813,2018,Race-Ethnicity,Other/Unknown,Accidents (unintentional injuries),0
+814,2018,Race-Ethnicity,Other/Unknown,Alzheimer's disease,15
+815,2018,Race-Ethnicity,Other/Unknown,Assault (homicide),0
+816,2018,Race-Ethnicity,Other/Unknown,Cerebrovascular diseases,33
+817,2018,Race-Ethnicity,Other/Unknown,Chronic liver disease and cirrhosis,13
+818,2018,Race-Ethnicity,Other/Unknown,Chronic lower respiratory diseases,41
+819,2018,Race-Ethnicity,Other/Unknown,Diabetes mellitus,24
+820,2018,Race-Ethnicity,Other/Unknown,Diseases of heart,189
+821,2018,Race-Ethnicity,Other/Unknown,Essential hypertension and hypertensive renal disease,0
+822,2018,Race-Ethnicity,Other/Unknown,Influenza and pneumonia,14
+823,2018,Race-Ethnicity,Other/Unknown,Intentional self-harm (suicide),0
+824,2018,Race-Ethnicity,Other/Unknown,Malignant neoplasms,176
+825,2018,Race-Ethnicity,Other/Unknown,"Nephritis, nephrotic syndrome and nephrosis",0
+826,2018,Race-Ethnicity,Other/Unknown,Parkinson's disease,0
+827,2018,Race-Ethnicity,White,Accidents (unintentional injuries),7485
+828,2018,Race-Ethnicity,White,Alzheimer's disease,11328
+829,2018,Race-Ethnicity,White,Assault (homicide),249
+830,2018,Race-Ethnicity,White,Cerebrovascular diseases,9337
+831,2018,Race-Ethnicity,White,Chronic liver disease and cirrhosis,2410
+832,2018,Race-Ethnicity,White,Chronic lower respiratory diseases,9835
+833,2018,Race-Ethnicity,White,Diabetes mellitus,3863
+834,2018,Race-Ethnicity,White,Diseases of heart,39459
+835,2018,Race-Ethnicity,White,Essential hypertension and hypertensive renal disease,2838
+836,2018,Race-Ethnicity,White,Influenza and pneumonia,3610
+837,2018,Race-Ethnicity,White,Intentional self-harm (suicide),2502
+838,2018,Race-Ethnicity,White,Malignant neoplasms,35693
+839,2018,Race-Ethnicity,White,"Nephritis, nephrotic syndrome and nephrosis",1636
+840,2018,Race-Ethnicity,White,Parkinson's disease,2369
+841,2018,Total Population,Total Population,Accidents (unintentional injuries),14181
+842,2018,Total Population,Total Population,Alzheimer's disease,16573
+843,2018,Total Population,Total Population,Assault (homicide),1765
+844,2018,Total Population,Total Population,Cerebrovascular diseases,16428
+845,2018,Total Population,Total Population,Chronic liver disease and cirrhosis,5326
+846,2018,Total Population,Total Population,Chronic lower respiratory diseases,13613
+847,2018,Total Population,Total Population,Diabetes mellitus,9449
+848,2018,Total Population,Total Population,Diseases of heart,62565
+849,2018,Total Population,Total Population,Essential hypertension and hypertensive renal disease,5432
+850,2018,Total Population,Total Population,Influenza and pneumonia,6852
+851,2018,Total Population,Total Population,Intentional self-harm (suicide),4422
+852,2018,Total Population,Total Population,Malignant neoplasms,59936
+853,2018,Total Population,Total Population,"Nephritis, nephrotic syndrome and nephrosis",3795
+854,2018,Total Population,Total Population,Parkinson's disease,3439
+855,2019,Age,1-4 years,All causes (total),210
+856,2019,Age,15-24 years,All causes (total),2813
+857,2019,Age,25-34 years,All causes (total),5654
+858,2019,Age,35-44 years,All causes (total),7707
+859,2019,Age,45-54 years,All causes (total),15094
+860,2019,Age,5-14 years,All causes (total),319
+861,2019,Age,55-64 years,All causes (total),34081
+862,2019,Age,65-74 years,All causes (total),49154
+863,2019,Age,75-84 years,All causes (total),62349
+864,2019,Age,85 years and over,All causes (total),89965
+865,2019,Age,Under 1 year,All causes (total),1735
+866,2019,Gender,Female,Accidents (unintentional injuries),4620
+867,2019,Gender,Female,Alzheimer's disease,11024
+868,2019,Gender,Female,Assault (homicide),209
+869,2019,Gender,Female,Cerebrovascular diseases,9388
+870,2019,Gender,Female,Chronic liver disease and cirrhosis,1907
+871,2019,Gender,Female,Chronic lower respiratory diseases,6766
+872,2019,Gender,Female,Diabetes mellitus,4123
+873,2019,Gender,Female,Diseases of heart,27698
+874,2019,Gender,Female,Essential hypertension and hypertensive renal disease,2833
+875,2019,Gender,Female,Influenza and pneumonia,2665
+876,2019,Gender,Female,Intentional self-harm (suicide),879
+877,2019,Gender,Female,Malignant neoplasms,28653
+878,2019,Gender,Female,"Nephritis, nephrotic syndrome and nephrosis",1668
+879,2019,Gender,Female,Parkinson's disease,1365
+880,2019,Gender,Male,Accidents (unintentional injuries),10294
+881,2019,Gender,Male,Alzheimer's disease,5448
+882,2019,Gender,Male,Assault (homicide),1035
+883,2019,Gender,Male,Cerebrovascular diseases,7271
+884,2019,Gender,Male,Chronic liver disease and cirrhosis,3368
+885,2019,Gender,Male,Chronic lower respiratory diseases,6140
+886,2019,Gender,Male,Diabetes mellitus,5471
+887,2019,Gender,Male,Diseases of heart,34671
+888,2019,Gender,Male,Essential hypertension and hypertensive renal disease,2505
+889,2019,Gender,Male,Influenza and pneumonia,2739
+890,2019,Gender,Male,Intentional self-harm (suicide),3101
+891,2019,Gender,Male,Malignant neoplasms,30783
+892,2019,Gender,Male,"Nephritis, nephrotic syndrome and nephrosis",1987
+893,2019,Gender,Male,Parkinson's disease,2208
+894,2019,Place Type,Decedent's Home,All causes (total),98236
+895,2019,Place Type,Emergency Room/Outpatient,All causes (total),15311
+896,2019,Place Type,Hospice Facility,All causes (total),4912
+897,2019,Place Type,Inpatient,All causes (total),83400
+898,2019,Place Type,Nursing Home/Long Term Care Facility,All causes (total),40761
+899,2019,Place Type,Other/Unknown,All causes (total),25883
+900,2019,Race-Ethnicity,American Indian/Alaskan Native,Accidents (unintentional injuries),16
+901,2019,Race-Ethnicity,American Indian/Alaskan Native,Alzheimer's disease,0
+902,2019,Race-Ethnicity,American Indian/Alaskan Native,Assault (homicide),0
+903,2019,Race-Ethnicity,American Indian/Alaskan Native,Cerebrovascular diseases,0
+904,2019,Race-Ethnicity,American Indian/Alaskan Native,Chronic liver disease and cirrhosis,0
+905,2019,Race-Ethnicity,American Indian/Alaskan Native,Chronic lower respiratory diseases,0
+906,2019,Race-Ethnicity,American Indian/Alaskan Native,Diabetes mellitus,0
+907,2019,Race-Ethnicity,American Indian/Alaskan Native,Diseases of heart,91
+908,2019,Race-Ethnicity,American Indian/Alaskan Native,Essential hypertension and hypertensive renal disease,0
+909,2019,Race-Ethnicity,American Indian/Alaskan Native,Influenza and pneumonia,0
+910,2019,Race-Ethnicity,American Indian/Alaskan Native,Intentional self-harm (suicide),0
+911,2019,Race-Ethnicity,American Indian/Alaskan Native,Malignant neoplasms,114
+912,2019,Race-Ethnicity,American Indian/Alaskan Native,"Nephritis, nephrotic syndrome and nephrosis",0
+913,2019,Race-Ethnicity,American Indian/Alaskan Native,Parkinson's disease,0
+914,2019,Race-Ethnicity,Asian,Accidents (unintentional injuries),919
+915,2019,Race-Ethnicity,Asian,Alzheimer's disease,1458
+916,2019,Race-Ethnicity,Asian,Assault (homicide),18
+917,2019,Race-Ethnicity,Asian,Cerebrovascular diseases,2248
+918,2019,Race-Ethnicity,Asian,Chronic liver disease and cirrhosis,173
+919,2019,Race-Ethnicity,Asian,Chronic lower respiratory diseases,803
+920,2019,Race-Ethnicity,Asian,Diabetes mellitus,1251
+921,2019,Race-Ethnicity,Asian,Diseases of heart,5781
+922,2019,Race-Ethnicity,Asian,Essential hypertension and hypertensive renal disease,694
+923,2019,Race-Ethnicity,Asian,Influenza and pneumonia,759
+924,2019,Race-Ethnicity,Asian,Intentional self-harm (suicide),311
+925,2019,Race-Ethnicity,Asian,Malignant neoplasms,6910
+926,2019,Race-Ethnicity,Asian,"Nephritis, nephrotic syndrome and nephrosis",451
+927,2019,Race-Ethnicity,Asian,Parkinson's disease,371
+928,2019,Race-Ethnicity,Black,Accidents (unintentional injuries),1228
+929,2019,Race-Ethnicity,Black,Alzheimer's disease,886
+930,2019,Race-Ethnicity,Black,Assault (homicide),435
+931,2019,Race-Ethnicity,Black,Cerebrovascular diseases,1222
+932,2019,Race-Ethnicity,Black,Chronic liver disease and cirrhosis,173
+933,2019,Race-Ethnicity,Black,Chronic lower respiratory diseases,825
+934,2019,Race-Ethnicity,Black,Diabetes mellitus,953
+935,2019,Race-Ethnicity,Black,Diseases of heart,5135
+936,2019,Race-Ethnicity,Black,Essential hypertension and hypertensive renal disease,521
+937,2019,Race-Ethnicity,Black,Influenza and pneumonia,361
+938,2019,Race-Ethnicity,Black,Intentional self-harm (suicide),142
+939,2019,Race-Ethnicity,Black,Malignant neoplasms,4145
+940,2019,Race-Ethnicity,Black,"Nephritis, nephrotic syndrome and nephrosis",380
+941,2019,Race-Ethnicity,Black,Parkinson's disease,51
+942,2019,Race-Ethnicity,Hawaiian/Pacific Islander,Accidents (unintentional injuries),0
+943,2019,Race-Ethnicity,Hawaiian/Pacific Islander,Alzheimer's disease,0
+944,2019,Race-Ethnicity,Hawaiian/Pacific Islander,Assault (homicide),0
+945,2019,Race-Ethnicity,Hawaiian/Pacific Islander,Cerebrovascular diseases,0
+946,2019,Race-Ethnicity,Hawaiian/Pacific Islander,Chronic liver disease and cirrhosis,0
+947,2019,Race-Ethnicity,Hawaiian/Pacific Islander,Chronic lower respiratory diseases,0
+948,2019,Race-Ethnicity,Hawaiian/Pacific Islander,Diabetes mellitus,26
+949,2019,Race-Ethnicity,Hawaiian/Pacific Islander,Diseases of heart,223
+950,2019,Race-Ethnicity,Hawaiian/Pacific Islander,Essential hypertension and hypertensive renal disease,0
+951,2019,Race-Ethnicity,Hawaiian/Pacific Islander,Influenza and pneumonia,0
+952,2019,Race-Ethnicity,Hawaiian/Pacific Islander,Intentional self-harm (suicide),0
+953,2019,Race-Ethnicity,Hawaiian/Pacific Islander,Malignant neoplasms,162
+954,2019,Race-Ethnicity,Hawaiian/Pacific Islander,"Nephritis, nephrotic syndrome and nephrosis",0
+955,2019,Race-Ethnicity,Hawaiian/Pacific Islander,Parkinson's disease,0
+956,2019,Race-Ethnicity,Hispanic,Accidents (unintentional injuries),4299
+957,2019,Race-Ethnicity,Hispanic,Alzheimer's disease,2529
+958,2019,Race-Ethnicity,Hispanic,Assault (homicide),735
+959,2019,Race-Ethnicity,Hispanic,Cerebrovascular diseases,3305
+960,2019,Race-Ethnicity,Hispanic,Chronic liver disease and cirrhosis,2120
+961,2019,Race-Ethnicity,Hispanic,Chronic lower respiratory diseases,1282
+962,2019,Race-Ethnicity,Hispanic,Diabetes mellitus,3102
+963,2019,Race-Ethnicity,Hispanic,Diseases of heart,10618
+964,2019,Race-Ethnicity,Hispanic,Essential hypertension and hypertensive renal disease,1034
+965,2019,Race-Ethnicity,Hispanic,Influenza and pneumonia,1112
+966,2019,Race-Ethnicity,Hispanic,Intentional self-harm (suicide),836
+967,2019,Race-Ethnicity,Hispanic,Malignant neoplasms,11803
+968,2019,Race-Ethnicity,Hispanic,"Nephritis, nephrotic syndrome and nephrosis",992
+969,2019,Race-Ethnicity,Hispanic,Parkinson's disease,427
+970,2019,Race-Ethnicity,Multi-Race,Accidents (unintentional injuries),136
+971,2019,Race-Ethnicity,Multi-Race,Alzheimer's disease,15
+972,2019,Race-Ethnicity,Multi-Race,Assault (homicide),0
+973,2019,Race-Ethnicity,Multi-Race,Cerebrovascular diseases,57
+974,2019,Race-Ethnicity,Multi-Race,Chronic liver disease and cirrhosis,0
+975,2019,Race-Ethnicity,Multi-Race,Chronic lower respiratory diseases,33
+976,2019,Race-Ethnicity,Multi-Race,Diabetes mellitus,0
+977,2019,Race-Ethnicity,Multi-Race,Diseases of heart,329
+978,2019,Race-Ethnicity,Multi-Race,Essential hypertension and hypertensive renal disease,0
+979,2019,Race-Ethnicity,Multi-Race,Influenza and pneumonia,0
+980,2019,Race-Ethnicity,Multi-Race,Intentional self-harm (suicide),11
+981,2019,Race-Ethnicity,Multi-Race,Malignant neoplasms,400
+982,2019,Race-Ethnicity,Multi-Race,"Nephritis, nephrotic syndrome and nephrosis",0
+983,2019,Race-Ethnicity,Multi-Race,Parkinson's disease,0
+984,2019,Race-Ethnicity,Other/Unknown,Accidents (unintentional injuries),24
+985,2019,Race-Ethnicity,Other/Unknown,Alzheimer's disease,24
+986,2019,Race-Ethnicity,Other/Unknown,Assault (homicide),0
+987,2019,Race-Ethnicity,Other/Unknown,Cerebrovascular diseases,39
+988,2019,Race-Ethnicity,Other/Unknown,Chronic liver disease and cirrhosis,12
+989,2019,Race-Ethnicity,Other/Unknown,Chronic lower respiratory diseases,39
+990,2019,Race-Ethnicity,Other/Unknown,Diabetes mellitus,33
+991,2019,Race-Ethnicity,Other/Unknown,Diseases of heart,256
+992,2019,Race-Ethnicity,Other/Unknown,Essential hypertension and hypertensive renal disease,0
+993,2019,Race-Ethnicity,Other/Unknown,Influenza and pneumonia,11
+994,2019,Race-Ethnicity,Other/Unknown,Intentional self-harm (suicide),0
+995,2019,Race-Ethnicity,Other/Unknown,Malignant neoplasms,201
+996,2019,Race-Ethnicity,Other/Unknown,"Nephritis, nephrotic syndrome and nephrosis",0
+997,2019,Race-Ethnicity,Other/Unknown,Parkinson's disease,0
+998,2019,Race-Ethnicity,White,Accidents (unintentional injuries),7758
+999,2019,Race-Ethnicity,White,Alzheimer's disease,11343
+1000,2019,Race-Ethnicity,White,Assault (homicide),216
+1001,2019,Race-Ethnicity,White,Cerebrovascular diseases,9223
+1002,2019,Race-Ethnicity,White,Chronic liver disease and cirrhosis,2520
+1003,2019,Race-Ethnicity,White,Chronic lower respiratory diseases,9220
+1004,2019,Race-Ethnicity,White,Diabetes mellitus,3849
+1005,2019,Race-Ethnicity,White,Diseases of heart,39074
+1006,2019,Race-Ethnicity,White,Essential hypertension and hypertensive renal disease,2795
+1007,2019,Race-Ethnicity,White,Influenza and pneumonia,2931
+1008,2019,Race-Ethnicity,White,Intentional self-harm (suicide),2616
+1009,2019,Race-Ethnicity,White,Malignant neoplasms,34934
+1010,2019,Race-Ethnicity,White,"Nephritis, nephrotic syndrome and nephrosis",1630
+1011,2019,Race-Ethnicity,White,Parkinson's disease,2540
+1012,2019,Total Population,Total Population,Accidents (unintentional injuries),15091
+1013,2019,Total Population,Total Population,Alzheimer's disease,16812
+1014,2019,Total Population,Total Population,Assault (homicide),1678
+1015,2019,Total Population,Total Population,Cerebrovascular diseases,16801
+1016,2019,Total Population,Total Population,Chronic liver disease and cirrhosis,5504
+1017,2019,Total Population,Total Population,Chronic lower respiratory diseases,13063
+1018,2019,Total Population,Total Population,Diabetes mellitus,9808
+1019,2019,Total Population,Total Population,Diseases of heart,62406
+1020,2019,Total Population,Total Population,Essential hypertension and hypertensive renal disease,5506
+1021,2019,Total Population,Total Population,Influenza and pneumonia,5611
+1022,2019,Total Population,Total Population,Intentional self-harm (suicide),4387
+1023,2019,Total Population,Total Population,Malignant neoplasms,59497
+1024,2019,Total Population,Total Population,"Nephritis, nephrotic syndrome and nephrosis",3923
+1025,2019,Total Population,Total Population,Parkinson's disease,3808

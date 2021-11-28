@@ -1,0 +1,13 @@
+,Strata_Name,County,Year,Accidents (unintentional injuries),Alzheimer's disease,Assault (homicide),Cerebrovascular diseases,Chronic liver disease and cirrhosis,Chronic lower respiratory diseases,Diabetes mellitus,Diseases of heart,Essential hypertension and hypertensive renal disease,Influenza and pneumonia,Intentional self-harm (suicide),Malignant neoplasms,"Nephritis, nephrotic syndrome and nephrosis",Parkinson's disease
+0,Female,San Diego,2014,402,899,19,672,101,534,241,2018,178,158,95,2332,50,107
+1,Female,San Diego,2015,382,913,25,685,148,559,323,2259,223,177,103,2400,44,92
+2,Female,San Diego,2016,385,967,24,787,178,549,323,2240,218,178,104,2519,40,117
+3,Female,San Diego,2017,429,983,26,814,141,560,373,2223,255,221,99,2417,37,142
+4,Female,San Diego,2018,458,979,22,849,107,555,327,2055,259,215,101,2374,47,127
+5,Female,San Diego,2019,427,1013,23,946,125,543,319,2131,251,133,88,2367,59,144
+6,Male,San Diego,2014,682,415,65,473,215,451,344,2534,135,143,318,2539,60,161
+7,Male,San Diego,2015,690,490,69,485,243,440,389,2498,160,168,309,2655,54,178
+8,Male,San Diego,2016,721,444,83,589,238,490,418,2621,183,182,312,2608,48,205
+9,Male,San Diego,2017,801,480,59,567,225,471,428,2581,214,176,332,2627,45,220
+10,Male,San Diego,2018,824,487,67,609,215,459,452,2640,192,238,348,2640,53,240
+11,Male,San Diego,2019,891,539,64,677,236,471,443,2608,189,160,339,2678,79,239
