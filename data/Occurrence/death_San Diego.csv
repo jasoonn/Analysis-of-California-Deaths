@@ -1,0 +1,1027 @@
+,Year,County,Strata,Strata_Name,Cause_Desc,Count
+0,2014,San Diego,Age,1-4 years,All causes (total),29
+1,2014,San Diego,Age,15-24 years,All causes (total),193
+2,2014,San Diego,Age,25-34 years,All causes (total),360
+3,2014,San Diego,Age,35-44 years,All causes (total),532
+4,2014,San Diego,Age,45-54 years,All causes (total),1321
+5,2014,San Diego,Age,5-14 years,All causes (total),34
+6,2014,San Diego,Age,55-64 years,All causes (total),2561
+7,2014,San Diego,Age,65-74 years,All causes (total),3226
+8,2014,San Diego,Age,75-84 years,All causes (total),4826
+9,2014,San Diego,Age,85 years and over,All causes (total),7445
+10,2014,San Diego,Age,Under 1 year,All causes (total),187
+11,2014,San Diego,Gender,Female,Accidents (unintentional injuries),427
+12,2014,San Diego,Gender,Female,Alzheimer's disease,918
+13,2014,San Diego,Gender,Female,Assault (homicide),19
+14,2014,San Diego,Gender,Female,Cerebrovascular diseases,683
+15,2014,San Diego,Gender,Female,Chronic liver disease and cirrhosis,105
+16,2014,San Diego,Gender,Female,Chronic lower respiratory diseases,537
+17,2014,San Diego,Gender,Female,Diabetes mellitus,256
+18,2014,San Diego,Gender,Female,Diseases of heart,2069
+19,2014,San Diego,Gender,Female,Essential hypertension and hypertensive renal disease,178
+20,2014,San Diego,Gender,Female,Influenza and pneumonia,160
+21,2014,San Diego,Gender,Female,Intentional self-harm (suicide),98
+22,2014,San Diego,Gender,Female,Malignant neoplasms,2424
+23,2014,San Diego,Gender,Female,"Nephritis, nephrotic syndrome and nephrosis",52
+24,2014,San Diego,Gender,Female,Parkinson's disease,110
+25,2014,San Diego,Gender,Male,Accidents (unintentional injuries),736
+26,2014,San Diego,Gender,Male,Alzheimer's disease,419
+27,2014,San Diego,Gender,Male,Assault (homicide),70
+28,2014,San Diego,Gender,Male,Cerebrovascular diseases,509
+29,2014,San Diego,Gender,Male,Chronic liver disease and cirrhosis,230
+30,2014,San Diego,Gender,Male,Chronic lower respiratory diseases,469
+31,2014,San Diego,Gender,Male,Diabetes mellitus,368
+32,2014,San Diego,Gender,Male,Diseases of heart,2640
+33,2014,San Diego,Gender,Male,Essential hypertension and hypertensive renal disease,139
+34,2014,San Diego,Gender,Male,Influenza and pneumonia,162
+35,2014,San Diego,Gender,Male,Intentional self-harm (suicide),323
+36,2014,San Diego,Gender,Male,Malignant neoplasms,2650
+37,2014,San Diego,Gender,Male,"Nephritis, nephrotic syndrome and nephrosis",65
+38,2014,San Diego,Gender,Male,Parkinson's disease,166
+39,2014,San Diego,Place Type,Decedent's Home,All causes (total),7139
+40,2014,San Diego,Place Type,Emergency Room/Outpatient,All causes (total),1004
+41,2014,San Diego,Place Type,Hospice Facility,All causes (total),568
+42,2014,San Diego,Place Type,Inpatient,All causes (total),6602
+43,2014,San Diego,Place Type,Nursing Home/Long Term Care Facility,All causes (total),4539
+44,2014,San Diego,Place Type,Other/Unknown,All causes (total),867
+45,2014,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Accidents (unintentional injuries),0
+46,2014,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Alzheimer's disease,0
+47,2014,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Assault (homicide),0
+48,2014,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Cerebrovascular diseases,0
+49,2014,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Chronic liver disease and cirrhosis,0
+50,2014,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Chronic lower respiratory diseases,0
+51,2014,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Diabetes mellitus,0
+52,2014,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Diseases of heart,19
+53,2014,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Essential hypertension and hypertensive renal disease,0
+54,2014,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Influenza and pneumonia,0
+55,2014,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Intentional self-harm (suicide),0
+56,2014,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Malignant neoplasms,15
+57,2014,San Diego,Race-Ethnicity,American Indian/Alaskan Native,"Nephritis, nephrotic syndrome and nephrosis",0
+58,2014,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Parkinson's disease,0
+59,2014,San Diego,Race-Ethnicity,Asian,Accidents (unintentional injuries),73
+60,2014,San Diego,Race-Ethnicity,Asian,Alzheimer's disease,59
+61,2014,San Diego,Race-Ethnicity,Asian,Assault (homicide),0
+62,2014,San Diego,Race-Ethnicity,Asian,Cerebrovascular diseases,126
+63,2014,San Diego,Race-Ethnicity,Asian,Chronic liver disease and cirrhosis,0
+64,2014,San Diego,Race-Ethnicity,Asian,Chronic lower respiratory diseases,46
+65,2014,San Diego,Race-Ethnicity,Asian,Diabetes mellitus,67
+66,2014,San Diego,Race-Ethnicity,Asian,Diseases of heart,302
+67,2014,San Diego,Race-Ethnicity,Asian,Essential hypertension and hypertensive renal disease,23
+68,2014,San Diego,Race-Ethnicity,Asian,Influenza and pneumonia,34
+69,2014,San Diego,Race-Ethnicity,Asian,Intentional self-harm (suicide),25
+70,2014,San Diego,Race-Ethnicity,Asian,Malignant neoplasms,445
+71,2014,San Diego,Race-Ethnicity,Asian,"Nephritis, nephrotic syndrome and nephrosis",11
+72,2014,San Diego,Race-Ethnicity,Asian,Parkinson's disease,12
+73,2014,San Diego,Race-Ethnicity,Black,Accidents (unintentional injuries),52
+74,2014,San Diego,Race-Ethnicity,Black,Alzheimer's disease,38
+75,2014,San Diego,Race-Ethnicity,Black,Assault (homicide),16
+76,2014,San Diego,Race-Ethnicity,Black,Cerebrovascular diseases,51
+77,2014,San Diego,Race-Ethnicity,Black,Chronic liver disease and cirrhosis,14
+78,2014,San Diego,Race-Ethnicity,Black,Chronic lower respiratory diseases,41
+79,2014,San Diego,Race-Ethnicity,Black,Diabetes mellitus,48
+80,2014,San Diego,Race-Ethnicity,Black,Diseases of heart,244
+81,2014,San Diego,Race-Ethnicity,Black,Essential hypertension and hypertensive renal disease,16
+82,2014,San Diego,Race-Ethnicity,Black,Influenza and pneumonia,15
+83,2014,San Diego,Race-Ethnicity,Black,Intentional self-harm (suicide),12
+84,2014,San Diego,Race-Ethnicity,Black,Malignant neoplasms,241
+85,2014,San Diego,Race-Ethnicity,Black,"Nephritis, nephrotic syndrome and nephrosis",0
+86,2014,San Diego,Race-Ethnicity,Black,Parkinson's disease,0
+87,2014,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Accidents (unintentional injuries),0
+88,2014,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Alzheimer's disease,0
+89,2014,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Assault (homicide),0
+90,2014,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Cerebrovascular diseases,0
+91,2014,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Chronic liver disease and cirrhosis,0
+92,2014,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Chronic lower respiratory diseases,0
+93,2014,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Diabetes mellitus,0
+94,2014,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Diseases of heart,27
+95,2014,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Essential hypertension and hypertensive renal disease,0
+96,2014,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Influenza and pneumonia,0
+97,2014,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Intentional self-harm (suicide),0
+98,2014,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Malignant neoplasms,30
+99,2014,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,"Nephritis, nephrotic syndrome and nephrosis",0
+100,2014,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Parkinson's disease,0
+101,2014,San Diego,Race-Ethnicity,Hispanic,Accidents (unintentional injuries),234
+102,2014,San Diego,Race-Ethnicity,Hispanic,Alzheimer's disease,144
+103,2014,San Diego,Race-Ethnicity,Hispanic,Assault (homicide),28
+104,2014,San Diego,Race-Ethnicity,Hispanic,Cerebrovascular diseases,185
+105,2014,San Diego,Race-Ethnicity,Hispanic,Chronic liver disease and cirrhosis,112
+106,2014,San Diego,Race-Ethnicity,Hispanic,Chronic lower respiratory diseases,83
+107,2014,San Diego,Race-Ethnicity,Hispanic,Diabetes mellitus,158
+108,2014,San Diego,Race-Ethnicity,Hispanic,Diseases of heart,656
+109,2014,San Diego,Race-Ethnicity,Hispanic,Essential hypertension and hypertensive renal disease,52
+110,2014,San Diego,Race-Ethnicity,Hispanic,Influenza and pneumonia,57
+111,2014,San Diego,Race-Ethnicity,Hispanic,Intentional self-harm (suicide),64
+112,2014,San Diego,Race-Ethnicity,Hispanic,Malignant neoplasms,812
+113,2014,San Diego,Race-Ethnicity,Hispanic,"Nephritis, nephrotic syndrome and nephrosis",33
+114,2014,San Diego,Race-Ethnicity,Hispanic,Parkinson's disease,42
+115,2014,San Diego,Race-Ethnicity,Multi-Race,Accidents (unintentional injuries),11
+116,2014,San Diego,Race-Ethnicity,Multi-Race,Alzheimer's disease,0
+117,2014,San Diego,Race-Ethnicity,Multi-Race,Assault (homicide),0
+118,2014,San Diego,Race-Ethnicity,Multi-Race,Cerebrovascular diseases,0
+119,2014,San Diego,Race-Ethnicity,Multi-Race,Chronic liver disease and cirrhosis,0
+120,2014,San Diego,Race-Ethnicity,Multi-Race,Chronic lower respiratory diseases,0
+121,2014,San Diego,Race-Ethnicity,Multi-Race,Diabetes mellitus,0
+122,2014,San Diego,Race-Ethnicity,Multi-Race,Diseases of heart,35
+123,2014,San Diego,Race-Ethnicity,Multi-Race,Essential hypertension and hypertensive renal disease,0
+124,2014,San Diego,Race-Ethnicity,Multi-Race,Influenza and pneumonia,0
+125,2014,San Diego,Race-Ethnicity,Multi-Race,Intentional self-harm (suicide),0
+126,2014,San Diego,Race-Ethnicity,Multi-Race,Malignant neoplasms,44
+127,2014,San Diego,Race-Ethnicity,Multi-Race,"Nephritis, nephrotic syndrome and nephrosis",0
+128,2014,San Diego,Race-Ethnicity,Multi-Race,Parkinson's disease,0
+129,2014,San Diego,Race-Ethnicity,Other/Unknown,Accidents (unintentional injuries),0
+130,2014,San Diego,Race-Ethnicity,Other/Unknown,Alzheimer's disease,0
+131,2014,San Diego,Race-Ethnicity,Other/Unknown,Assault (homicide),0
+132,2014,San Diego,Race-Ethnicity,Other/Unknown,Cerebrovascular diseases,0
+133,2014,San Diego,Race-Ethnicity,Other/Unknown,Chronic liver disease and cirrhosis,0
+134,2014,San Diego,Race-Ethnicity,Other/Unknown,Chronic lower respiratory diseases,0
+135,2014,San Diego,Race-Ethnicity,Other/Unknown,Diabetes mellitus,0
+136,2014,San Diego,Race-Ethnicity,Other/Unknown,Diseases of heart,30
+137,2014,San Diego,Race-Ethnicity,Other/Unknown,Essential hypertension and hypertensive renal disease,0
+138,2014,San Diego,Race-Ethnicity,Other/Unknown,Influenza and pneumonia,0
+139,2014,San Diego,Race-Ethnicity,Other/Unknown,Intentional self-harm (suicide),0
+140,2014,San Diego,Race-Ethnicity,Other/Unknown,Malignant neoplasms,17
+141,2014,San Diego,Race-Ethnicity,Other/Unknown,"Nephritis, nephrotic syndrome and nephrosis",0
+142,2014,San Diego,Race-Ethnicity,Other/Unknown,Parkinson's disease,0
+143,2014,San Diego,Race-Ethnicity,White,Accidents (unintentional injuries),778
+144,2014,San Diego,Race-Ethnicity,White,Alzheimer's disease,1080
+145,2014,San Diego,Race-Ethnicity,White,Assault (homicide),34
+146,2014,San Diego,Race-Ethnicity,White,Cerebrovascular diseases,810
+147,2014,San Diego,Race-Ethnicity,White,Chronic liver disease and cirrhosis,191
+148,2014,San Diego,Race-Ethnicity,White,Chronic lower respiratory diseases,816
+149,2014,San Diego,Race-Ethnicity,White,Diabetes mellitus,326
+150,2014,San Diego,Race-Ethnicity,White,Diseases of heart,3396
+151,2014,San Diego,Race-Ethnicity,White,Essential hypertension and hypertensive renal disease,222
+152,2014,San Diego,Race-Ethnicity,White,Influenza and pneumonia,208
+153,2014,San Diego,Race-Ethnicity,White,Intentional self-harm (suicide),310
+154,2014,San Diego,Race-Ethnicity,White,Malignant neoplasms,3470
+155,2014,San Diego,Race-Ethnicity,White,"Nephritis, nephrotic syndrome and nephrosis",67
+156,2014,San Diego,Race-Ethnicity,White,Parkinson's disease,211
+157,2014,San Diego,Total Population,Total Population,Accidents (unintentional injuries),1163
+158,2014,San Diego,Total Population,Total Population,Alzheimer's disease,1337
+159,2014,San Diego,Total Population,Total Population,Assault (homicide),89
+160,2014,San Diego,Total Population,Total Population,Cerebrovascular diseases,1192
+161,2014,San Diego,Total Population,Total Population,Chronic liver disease and cirrhosis,335
+162,2014,San Diego,Total Population,Total Population,Chronic lower respiratory diseases,1006
+163,2014,San Diego,Total Population,Total Population,Diabetes mellitus,624
+164,2014,San Diego,Total Population,Total Population,Diseases of heart,4709
+165,2014,San Diego,Total Population,Total Population,Essential hypertension and hypertensive renal disease,317
+166,2014,San Diego,Total Population,Total Population,Influenza and pneumonia,322
+167,2014,San Diego,Total Population,Total Population,Intentional self-harm (suicide),421
+168,2014,San Diego,Total Population,Total Population,Malignant neoplasms,5074
+169,2014,San Diego,Total Population,Total Population,"Nephritis, nephrotic syndrome and nephrosis",117
+170,2014,San Diego,Total Population,Total Population,Parkinson's disease,276
+171,2015,San Diego,Age,1-4 years,All causes (total),25
+172,2015,San Diego,Age,15-24 years,All causes (total),249
+173,2015,San Diego,Age,25-34 years,All causes (total),360
+174,2015,San Diego,Age,35-44 years,All causes (total),486
+175,2015,San Diego,Age,45-54 years,All causes (total),1308
+176,2015,San Diego,Age,5-14 years,All causes (total),42
+177,2015,San Diego,Age,55-64 years,All causes (total),2744
+178,2015,San Diego,Age,65-74 years,All causes (total),3569
+179,2015,San Diego,Age,75-84 years,All causes (total),4886
+180,2015,San Diego,Age,85 years and over,All causes (total),7851
+181,2015,San Diego,Age,Under 1 year,All causes (total),190
+182,2015,San Diego,Gender,Female,Accidents (unintentional injuries),409
+183,2015,San Diego,Gender,Female,Alzheimer's disease,926
+184,2015,San Diego,Gender,Female,Assault (homicide),28
+185,2015,San Diego,Gender,Female,Cerebrovascular diseases,715
+186,2015,San Diego,Gender,Female,Chronic liver disease and cirrhosis,154
+187,2015,San Diego,Gender,Female,Chronic lower respiratory diseases,575
+188,2015,San Diego,Gender,Female,Diabetes mellitus,339
+189,2015,San Diego,Gender,Female,Diseases of heart,2316
+190,2015,San Diego,Gender,Female,Essential hypertension and hypertensive renal disease,228
+191,2015,San Diego,Gender,Female,Influenza and pneumonia,186
+192,2015,San Diego,Gender,Female,Intentional self-harm (suicide),104
+193,2015,San Diego,Gender,Female,Malignant neoplasms,2466
+194,2015,San Diego,Gender,Female,"Nephritis, nephrotic syndrome and nephrosis",44
+195,2015,San Diego,Gender,Female,Parkinson's disease,92
+196,2015,San Diego,Gender,Male,Accidents (unintentional injuries),736
+197,2015,San Diego,Gender,Male,Alzheimer's disease,491
+198,2015,San Diego,Gender,Male,Assault (homicide),62
+199,2015,San Diego,Gender,Male,Cerebrovascular diseases,518
+200,2015,San Diego,Gender,Male,Chronic liver disease and cirrhosis,258
+201,2015,San Diego,Gender,Male,Chronic lower respiratory diseases,449
+202,2015,San Diego,Gender,Male,Diabetes mellitus,404
+203,2015,San Diego,Gender,Male,Diseases of heart,2612
+204,2015,San Diego,Gender,Male,Essential hypertension and hypertensive renal disease,163
+205,2015,San Diego,Gender,Male,Influenza and pneumonia,179
+206,2015,San Diego,Gender,Male,Intentional self-harm (suicide),327
+207,2015,San Diego,Gender,Male,Malignant neoplasms,2778
+208,2015,San Diego,Gender,Male,"Nephritis, nephrotic syndrome and nephrosis",53
+209,2015,San Diego,Gender,Male,Parkinson's disease,182
+210,2015,San Diego,Place Type,Decedent's Home,All causes (total),7319
+211,2015,San Diego,Place Type,Emergency Room/Outpatient,All causes (total),1030
+212,2015,San Diego,Place Type,Hospice Facility,All causes (total),674
+213,2015,San Diego,Place Type,Inpatient,All causes (total),7035
+214,2015,San Diego,Place Type,Nursing Home/Long Term Care Facility,All causes (total),4685
+215,2015,San Diego,Place Type,Other/Unknown,All causes (total),976
+216,2015,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Accidents (unintentional injuries),0
+217,2015,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Alzheimer's disease,0
+218,2015,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Assault (homicide),0
+219,2015,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Cerebrovascular diseases,0
+220,2015,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Chronic liver disease and cirrhosis,0
+221,2015,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Chronic lower respiratory diseases,0
+222,2015,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Diabetes mellitus,11
+223,2015,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Diseases of heart,19
+224,2015,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Essential hypertension and hypertensive renal disease,0
+225,2015,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Influenza and pneumonia,0
+226,2015,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Intentional self-harm (suicide),0
+227,2015,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Malignant neoplasms,22
+228,2015,San Diego,Race-Ethnicity,American Indian/Alaskan Native,"Nephritis, nephrotic syndrome and nephrosis",0
+229,2015,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Parkinson's disease,0
+230,2015,San Diego,Race-Ethnicity,Asian,Accidents (unintentional injuries),68
+231,2015,San Diego,Race-Ethnicity,Asian,Alzheimer's disease,61
+232,2015,San Diego,Race-Ethnicity,Asian,Assault (homicide),0
+233,2015,San Diego,Race-Ethnicity,Asian,Cerebrovascular diseases,126
+234,2015,San Diego,Race-Ethnicity,Asian,Chronic liver disease and cirrhosis,16
+235,2015,San Diego,Race-Ethnicity,Asian,Chronic lower respiratory diseases,44
+236,2015,San Diego,Race-Ethnicity,Asian,Diabetes mellitus,59
+237,2015,San Diego,Race-Ethnicity,Asian,Diseases of heart,308
+238,2015,San Diego,Race-Ethnicity,Asian,Essential hypertension and hypertensive renal disease,30
+239,2015,San Diego,Race-Ethnicity,Asian,Influenza and pneumonia,32
+240,2015,San Diego,Race-Ethnicity,Asian,Intentional self-harm (suicide),24
+241,2015,San Diego,Race-Ethnicity,Asian,Malignant neoplasms,447
+242,2015,San Diego,Race-Ethnicity,Asian,"Nephritis, nephrotic syndrome and nephrosis",12
+243,2015,San Diego,Race-Ethnicity,Asian,Parkinson's disease,22
+244,2015,San Diego,Race-Ethnicity,Black,Accidents (unintentional injuries),52
+245,2015,San Diego,Race-Ethnicity,Black,Alzheimer's disease,36
+246,2015,San Diego,Race-Ethnicity,Black,Assault (homicide),16
+247,2015,San Diego,Race-Ethnicity,Black,Cerebrovascular diseases,61
+248,2015,San Diego,Race-Ethnicity,Black,Chronic liver disease and cirrhosis,17
+249,2015,San Diego,Race-Ethnicity,Black,Chronic lower respiratory diseases,31
+250,2015,San Diego,Race-Ethnicity,Black,Diabetes mellitus,66
+251,2015,San Diego,Race-Ethnicity,Black,Diseases of heart,232
+252,2015,San Diego,Race-Ethnicity,Black,Essential hypertension and hypertensive renal disease,26
+253,2015,San Diego,Race-Ethnicity,Black,Influenza and pneumonia,14
+254,2015,San Diego,Race-Ethnicity,Black,Intentional self-harm (suicide),16
+255,2015,San Diego,Race-Ethnicity,Black,Malignant neoplasms,251
+256,2015,San Diego,Race-Ethnicity,Black,"Nephritis, nephrotic syndrome and nephrosis",0
+257,2015,San Diego,Race-Ethnicity,Black,Parkinson's disease,0
+258,2015,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Accidents (unintentional injuries),0
+259,2015,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Alzheimer's disease,0
+260,2015,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Assault (homicide),0
+261,2015,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Cerebrovascular diseases,0
+262,2015,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Chronic liver disease and cirrhosis,0
+263,2015,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Chronic lower respiratory diseases,0
+264,2015,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Diabetes mellitus,0
+265,2015,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Diseases of heart,27
+266,2015,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Essential hypertension and hypertensive renal disease,0
+267,2015,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Influenza and pneumonia,0
+268,2015,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Intentional self-harm (suicide),0
+269,2015,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Malignant neoplasms,26
+270,2015,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,"Nephritis, nephrotic syndrome and nephrosis",0
+271,2015,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Parkinson's disease,0
+272,2015,San Diego,Race-Ethnicity,Hispanic,Accidents (unintentional injuries),243
+273,2015,San Diego,Race-Ethnicity,Hispanic,Alzheimer's disease,159
+274,2015,San Diego,Race-Ethnicity,Hispanic,Assault (homicide),26
+275,2015,San Diego,Race-Ethnicity,Hispanic,Cerebrovascular diseases,215
+276,2015,San Diego,Race-Ethnicity,Hispanic,Chronic liver disease and cirrhosis,119
+277,2015,San Diego,Race-Ethnicity,Hispanic,Chronic lower respiratory diseases,93
+278,2015,San Diego,Race-Ethnicity,Hispanic,Diabetes mellitus,222
+279,2015,San Diego,Race-Ethnicity,Hispanic,Diseases of heart,683
+280,2015,San Diego,Race-Ethnicity,Hispanic,Essential hypertension and hypertensive renal disease,62
+281,2015,San Diego,Race-Ethnicity,Hispanic,Influenza and pneumonia,67
+282,2015,San Diego,Race-Ethnicity,Hispanic,Intentional self-harm (suicide),59
+283,2015,San Diego,Race-Ethnicity,Hispanic,Malignant neoplasms,828
+284,2015,San Diego,Race-Ethnicity,Hispanic,"Nephritis, nephrotic syndrome and nephrosis",15
+285,2015,San Diego,Race-Ethnicity,Hispanic,Parkinson's disease,31
+286,2015,San Diego,Race-Ethnicity,Multi-Race,Accidents (unintentional injuries),23
+287,2015,San Diego,Race-Ethnicity,Multi-Race,Alzheimer's disease,0
+288,2015,San Diego,Race-Ethnicity,Multi-Race,Assault (homicide),0
+289,2015,San Diego,Race-Ethnicity,Multi-Race,Cerebrovascular diseases,0
+290,2015,San Diego,Race-Ethnicity,Multi-Race,Chronic liver disease and cirrhosis,0
+291,2015,San Diego,Race-Ethnicity,Multi-Race,Chronic lower respiratory diseases,0
+292,2015,San Diego,Race-Ethnicity,Multi-Race,Diabetes mellitus,0
+293,2015,San Diego,Race-Ethnicity,Multi-Race,Diseases of heart,40
+294,2015,San Diego,Race-Ethnicity,Multi-Race,Essential hypertension and hypertensive renal disease,0
+295,2015,San Diego,Race-Ethnicity,Multi-Race,Influenza and pneumonia,0
+296,2015,San Diego,Race-Ethnicity,Multi-Race,Intentional self-harm (suicide),0
+297,2015,San Diego,Race-Ethnicity,Multi-Race,Malignant neoplasms,41
+298,2015,San Diego,Race-Ethnicity,Multi-Race,"Nephritis, nephrotic syndrome and nephrosis",0
+299,2015,San Diego,Race-Ethnicity,Multi-Race,Parkinson's disease,0
+300,2015,San Diego,Race-Ethnicity,Other/Unknown,Accidents (unintentional injuries),0
+301,2015,San Diego,Race-Ethnicity,Other/Unknown,Alzheimer's disease,0
+302,2015,San Diego,Race-Ethnicity,Other/Unknown,Assault (homicide),0
+303,2015,San Diego,Race-Ethnicity,Other/Unknown,Cerebrovascular diseases,0
+304,2015,San Diego,Race-Ethnicity,Other/Unknown,Chronic liver disease and cirrhosis,0
+305,2015,San Diego,Race-Ethnicity,Other/Unknown,Chronic lower respiratory diseases,19
+306,2015,San Diego,Race-Ethnicity,Other/Unknown,Diabetes mellitus,11
+307,2015,San Diego,Race-Ethnicity,Other/Unknown,Diseases of heart,29
+308,2015,San Diego,Race-Ethnicity,Other/Unknown,Essential hypertension and hypertensive renal disease,0
+309,2015,San Diego,Race-Ethnicity,Other/Unknown,Influenza and pneumonia,0
+310,2015,San Diego,Race-Ethnicity,Other/Unknown,Intentional self-harm (suicide),0
+311,2015,San Diego,Race-Ethnicity,Other/Unknown,Malignant neoplasms,28
+312,2015,San Diego,Race-Ethnicity,Other/Unknown,"Nephritis, nephrotic syndrome and nephrosis",0
+313,2015,San Diego,Race-Ethnicity,Other/Unknown,Parkinson's disease,0
+314,2015,San Diego,Race-Ethnicity,White,Accidents (unintentional injuries),749
+315,2015,San Diego,Race-Ethnicity,White,Alzheimer's disease,1141
+316,2015,San Diego,Race-Ethnicity,White,Assault (homicide),38
+317,2015,San Diego,Race-Ethnicity,White,Cerebrovascular diseases,803
+318,2015,San Diego,Race-Ethnicity,White,Chronic liver disease and cirrhosis,240
+319,2015,San Diego,Race-Ethnicity,White,Chronic lower respiratory diseases,825
+320,2015,San Diego,Race-Ethnicity,White,Diabetes mellitus,362
+321,2015,San Diego,Race-Ethnicity,White,Diseases of heart,3590
+322,2015,San Diego,Race-Ethnicity,White,Essential hypertension and hypertensive renal disease,267
+323,2015,San Diego,Race-Ethnicity,White,Influenza and pneumonia,245
+324,2015,San Diego,Race-Ethnicity,White,Intentional self-harm (suicide),317
+325,2015,San Diego,Race-Ethnicity,White,Malignant neoplasms,3601
+326,2015,San Diego,Race-Ethnicity,White,"Nephritis, nephrotic syndrome and nephrosis",61
+327,2015,San Diego,Race-Ethnicity,White,Parkinson's disease,211
+328,2015,San Diego,Total Population,Total Population,Accidents (unintentional injuries),1145
+329,2015,San Diego,Total Population,Total Population,Alzheimer's disease,1417
+330,2015,San Diego,Total Population,Total Population,Assault (homicide),90
+331,2015,San Diego,Total Population,Total Population,Cerebrovascular diseases,1233
+332,2015,San Diego,Total Population,Total Population,Chronic liver disease and cirrhosis,412
+333,2015,San Diego,Total Population,Total Population,Chronic lower respiratory diseases,1024
+334,2015,San Diego,Total Population,Total Population,Diabetes mellitus,743
+335,2015,San Diego,Total Population,Total Population,Diseases of heart,4928
+336,2015,San Diego,Total Population,Total Population,Essential hypertension and hypertensive renal disease,391
+337,2015,San Diego,Total Population,Total Population,Influenza and pneumonia,365
+338,2015,San Diego,Total Population,Total Population,Intentional self-harm (suicide),431
+339,2015,San Diego,Total Population,Total Population,Malignant neoplasms,5244
+340,2015,San Diego,Total Population,Total Population,"Nephritis, nephrotic syndrome and nephrosis",97
+341,2015,San Diego,Total Population,Total Population,Parkinson's disease,274
+342,2016,San Diego,Age,1-4 years,All causes (total),28
+343,2016,San Diego,Age,15-24 years,All causes (total),224
+344,2016,San Diego,Age,25-34 years,All causes (total),413
+345,2016,San Diego,Age,35-44 years,All causes (total),603
+346,2016,San Diego,Age,45-54 years,All causes (total),1291
+347,2016,San Diego,Age,5-14 years,All causes (total),48
+348,2016,San Diego,Age,55-64 years,All causes (total),2837
+349,2016,San Diego,Age,65-74 years,All causes (total),3728
+350,2016,San Diego,Age,75-84 years,All causes (total),5006
+351,2016,San Diego,Age,85 years and over,All causes (total),7932
+352,2016,San Diego,Age,Under 1 year,All causes (total),186
+353,2016,San Diego,Gender,Female,Accidents (unintentional injuries),400
+354,2016,San Diego,Gender,Female,Alzheimer's disease,970
+355,2016,San Diego,Gender,Female,Assault (homicide),28
+356,2016,San Diego,Gender,Female,Cerebrovascular diseases,838
+357,2016,San Diego,Gender,Female,Chronic liver disease and cirrhosis,183
+358,2016,San Diego,Gender,Female,Chronic lower respiratory diseases,567
+359,2016,San Diego,Gender,Female,Diabetes mellitus,333
+360,2016,San Diego,Gender,Female,Diseases of heart,2310
+361,2016,San Diego,Gender,Female,Essential hypertension and hypertensive renal disease,220
+362,2016,San Diego,Gender,Female,Influenza and pneumonia,193
+363,2016,San Diego,Gender,Female,Intentional self-harm (suicide),110
+364,2016,San Diego,Gender,Female,Malignant neoplasms,2609
+365,2016,San Diego,Gender,Female,"Nephritis, nephrotic syndrome and nephrosis",41
+366,2016,San Diego,Gender,Female,Parkinson's disease,118
+367,2016,San Diego,Gender,Male,Accidents (unintentional injuries),785
+368,2016,San Diego,Gender,Male,Alzheimer's disease,448
+369,2016,San Diego,Gender,Male,Assault (homicide),85
+370,2016,San Diego,Gender,Male,Cerebrovascular diseases,626
+371,2016,San Diego,Gender,Male,Chronic liver disease and cirrhosis,260
+372,2016,San Diego,Gender,Male,Chronic lower respiratory diseases,498
+373,2016,San Diego,Gender,Male,Diabetes mellitus,429
+374,2016,San Diego,Gender,Male,Diseases of heart,2737
+375,2016,San Diego,Gender,Male,Essential hypertension and hypertensive renal disease,187
+376,2016,San Diego,Gender,Male,Influenza and pneumonia,199
+377,2016,San Diego,Gender,Male,Intentional self-harm (suicide),323
+378,2016,San Diego,Gender,Male,Malignant neoplasms,2713
+379,2016,San Diego,Gender,Male,"Nephritis, nephrotic syndrome and nephrosis",48
+380,2016,San Diego,Gender,Male,Parkinson's disease,207
+381,2016,San Diego,Place Type,Decedent's Home,All causes (total),7427
+382,2016,San Diego,Place Type,Emergency Room/Outpatient,All causes (total),1213
+383,2016,San Diego,Place Type,Hospice Facility,All causes (total),861
+384,2016,San Diego,Place Type,Inpatient,All causes (total),7112
+385,2016,San Diego,Place Type,Nursing Home/Long Term Care Facility,All causes (total),4710
+386,2016,San Diego,Place Type,Other/Unknown,All causes (total),982
+387,2016,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Accidents (unintentional injuries),11
+388,2016,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Alzheimer's disease,0
+389,2016,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Assault (homicide),0
+390,2016,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Cerebrovascular diseases,0
+391,2016,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Chronic liver disease and cirrhosis,0
+392,2016,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Chronic lower respiratory diseases,0
+393,2016,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Diabetes mellitus,0
+394,2016,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Diseases of heart,26
+395,2016,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Essential hypertension and hypertensive renal disease,0
+396,2016,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Influenza and pneumonia,0
+397,2016,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Intentional self-harm (suicide),0
+398,2016,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Malignant neoplasms,20
+399,2016,San Diego,Race-Ethnicity,American Indian/Alaskan Native,"Nephritis, nephrotic syndrome and nephrosis",0
+400,2016,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Parkinson's disease,0
+401,2016,San Diego,Race-Ethnicity,Asian,Accidents (unintentional injuries),70
+402,2016,San Diego,Race-Ethnicity,Asian,Alzheimer's disease,69
+403,2016,San Diego,Race-Ethnicity,Asian,Assault (homicide),0
+404,2016,San Diego,Race-Ethnicity,Asian,Cerebrovascular diseases,165
+405,2016,San Diego,Race-Ethnicity,Asian,Chronic liver disease and cirrhosis,16
+406,2016,San Diego,Race-Ethnicity,Asian,Chronic lower respiratory diseases,51
+407,2016,San Diego,Race-Ethnicity,Asian,Diabetes mellitus,86
+408,2016,San Diego,Race-Ethnicity,Asian,Diseases of heart,326
+409,2016,San Diego,Race-Ethnicity,Asian,Essential hypertension and hypertensive renal disease,34
+410,2016,San Diego,Race-Ethnicity,Asian,Influenza and pneumonia,41
+411,2016,San Diego,Race-Ethnicity,Asian,Intentional self-harm (suicide),35
+412,2016,San Diego,Race-Ethnicity,Asian,Malignant neoplasms,434
+413,2016,San Diego,Race-Ethnicity,Asian,"Nephritis, nephrotic syndrome and nephrosis",0
+414,2016,San Diego,Race-Ethnicity,Asian,Parkinson's disease,23
+415,2016,San Diego,Race-Ethnicity,Black,Accidents (unintentional injuries),78
+416,2016,San Diego,Race-Ethnicity,Black,Alzheimer's disease,34
+417,2016,San Diego,Race-Ethnicity,Black,Assault (homicide),28
+418,2016,San Diego,Race-Ethnicity,Black,Cerebrovascular diseases,59
+419,2016,San Diego,Race-Ethnicity,Black,Chronic liver disease and cirrhosis,16
+420,2016,San Diego,Race-Ethnicity,Black,Chronic lower respiratory diseases,45
+421,2016,San Diego,Race-Ethnicity,Black,Diabetes mellitus,62
+422,2016,San Diego,Race-Ethnicity,Black,Diseases of heart,262
+423,2016,San Diego,Race-Ethnicity,Black,Essential hypertension and hypertensive renal disease,25
+424,2016,San Diego,Race-Ethnicity,Black,Influenza and pneumonia,12
+425,2016,San Diego,Race-Ethnicity,Black,Intentional self-harm (suicide),20
+426,2016,San Diego,Race-Ethnicity,Black,Malignant neoplasms,226
+427,2016,San Diego,Race-Ethnicity,Black,"Nephritis, nephrotic syndrome and nephrosis",0
+428,2016,San Diego,Race-Ethnicity,Black,Parkinson's disease,0
+429,2016,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Accidents (unintentional injuries),0
+430,2016,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Alzheimer's disease,0
+431,2016,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Assault (homicide),0
+432,2016,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Cerebrovascular diseases,0
+433,2016,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Chronic liver disease and cirrhosis,0
+434,2016,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Chronic lower respiratory diseases,0
+435,2016,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Diabetes mellitus,0
+436,2016,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Diseases of heart,28
+437,2016,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Essential hypertension and hypertensive renal disease,0
+438,2016,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Influenza and pneumonia,0
+439,2016,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Intentional self-harm (suicide),0
+440,2016,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Malignant neoplasms,24
+441,2016,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,"Nephritis, nephrotic syndrome and nephrosis",0
+442,2016,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Parkinson's disease,0
+443,2016,San Diego,Race-Ethnicity,Hispanic,Accidents (unintentional injuries),248
+444,2016,San Diego,Race-Ethnicity,Hispanic,Alzheimer's disease,174
+445,2016,San Diego,Race-Ethnicity,Hispanic,Assault (homicide),37
+446,2016,San Diego,Race-Ethnicity,Hispanic,Cerebrovascular diseases,272
+447,2016,San Diego,Race-Ethnicity,Hispanic,Chronic liver disease and cirrhosis,129
+448,2016,San Diego,Race-Ethnicity,Hispanic,Chronic lower respiratory diseases,88
+449,2016,San Diego,Race-Ethnicity,Hispanic,Diabetes mellitus,230
+450,2016,San Diego,Race-Ethnicity,Hispanic,Diseases of heart,688
+451,2016,San Diego,Race-Ethnicity,Hispanic,Essential hypertension and hypertensive renal disease,67
+452,2016,San Diego,Race-Ethnicity,Hispanic,Influenza and pneumonia,74
+453,2016,San Diego,Race-Ethnicity,Hispanic,Intentional self-harm (suicide),60
+454,2016,San Diego,Race-Ethnicity,Hispanic,Malignant neoplasms,957
+455,2016,San Diego,Race-Ethnicity,Hispanic,"Nephritis, nephrotic syndrome and nephrosis",17
+456,2016,San Diego,Race-Ethnicity,Hispanic,Parkinson's disease,32
+457,2016,San Diego,Race-Ethnicity,Multi-Race,Accidents (unintentional injuries),22
+458,2016,San Diego,Race-Ethnicity,Multi-Race,Alzheimer's disease,0
+459,2016,San Diego,Race-Ethnicity,Multi-Race,Assault (homicide),0
+460,2016,San Diego,Race-Ethnicity,Multi-Race,Cerebrovascular diseases,0
+461,2016,San Diego,Race-Ethnicity,Multi-Race,Chronic liver disease and cirrhosis,0
+462,2016,San Diego,Race-Ethnicity,Multi-Race,Chronic lower respiratory diseases,12
+463,2016,San Diego,Race-Ethnicity,Multi-Race,Diabetes mellitus,0
+464,2016,San Diego,Race-Ethnicity,Multi-Race,Diseases of heart,41
+465,2016,San Diego,Race-Ethnicity,Multi-Race,Essential hypertension and hypertensive renal disease,0
+466,2016,San Diego,Race-Ethnicity,Multi-Race,Influenza and pneumonia,0
+467,2016,San Diego,Race-Ethnicity,Multi-Race,Intentional self-harm (suicide),0
+468,2016,San Diego,Race-Ethnicity,Multi-Race,Malignant neoplasms,48
+469,2016,San Diego,Race-Ethnicity,Multi-Race,"Nephritis, nephrotic syndrome and nephrosis",0
+470,2016,San Diego,Race-Ethnicity,Multi-Race,Parkinson's disease,0
+471,2016,San Diego,Race-Ethnicity,Other/Unknown,Accidents (unintentional injuries),0
+472,2016,San Diego,Race-Ethnicity,Other/Unknown,Alzheimer's disease,11
+473,2016,San Diego,Race-Ethnicity,Other/Unknown,Assault (homicide),0
+474,2016,San Diego,Race-Ethnicity,Other/Unknown,Cerebrovascular diseases,0
+475,2016,San Diego,Race-Ethnicity,Other/Unknown,Chronic liver disease and cirrhosis,0
+476,2016,San Diego,Race-Ethnicity,Other/Unknown,Chronic lower respiratory diseases,13
+477,2016,San Diego,Race-Ethnicity,Other/Unknown,Diabetes mellitus,11
+478,2016,San Diego,Race-Ethnicity,Other/Unknown,Diseases of heart,38
+479,2016,San Diego,Race-Ethnicity,Other/Unknown,Essential hypertension and hypertensive renal disease,0
+480,2016,San Diego,Race-Ethnicity,Other/Unknown,Influenza and pneumonia,0
+481,2016,San Diego,Race-Ethnicity,Other/Unknown,Intentional self-harm (suicide),0
+482,2016,San Diego,Race-Ethnicity,Other/Unknown,Malignant neoplasms,29
+483,2016,San Diego,Race-Ethnicity,Other/Unknown,"Nephritis, nephrotic syndrome and nephrosis",0
+484,2016,San Diego,Race-Ethnicity,Other/Unknown,Parkinson's disease,0
+485,2016,San Diego,Race-Ethnicity,White,Accidents (unintentional injuries),746
+486,2016,San Diego,Race-Ethnicity,White,Alzheimer's disease,1117
+487,2016,San Diego,Race-Ethnicity,White,Assault (homicide),32
+488,2016,San Diego,Race-Ethnicity,White,Cerebrovascular diseases,939
+489,2016,San Diego,Race-Ethnicity,White,Chronic liver disease and cirrhosis,264
+490,2016,San Diego,Race-Ethnicity,White,Chronic lower respiratory diseases,846
+491,2016,San Diego,Race-Ethnicity,White,Diabetes mellitus,349
+492,2016,San Diego,Race-Ethnicity,White,Diseases of heart,3638
+493,2016,San Diego,Race-Ethnicity,White,Essential hypertension and hypertensive renal disease,273
+494,2016,San Diego,Race-Ethnicity,White,Influenza and pneumonia,248
+495,2016,San Diego,Race-Ethnicity,White,Intentional self-harm (suicide),303
+496,2016,San Diego,Race-Ethnicity,White,Malignant neoplasms,3584
+497,2016,San Diego,Race-Ethnicity,White,"Nephritis, nephrotic syndrome and nephrosis",56
+498,2016,San Diego,Race-Ethnicity,White,Parkinson's disease,257
+499,2016,San Diego,Total Population,Total Population,Accidents (unintentional injuries),1186
+500,2016,San Diego,Total Population,Total Population,Alzheimer's disease,1418
+501,2016,San Diego,Total Population,Total Population,Assault (homicide),113
+502,2016,San Diego,Total Population,Total Population,Cerebrovascular diseases,1464
+503,2016,San Diego,Total Population,Total Population,Chronic liver disease and cirrhosis,443
+504,2016,San Diego,Total Population,Total Population,Chronic lower respiratory diseases,1065
+505,2016,San Diego,Total Population,Total Population,Diabetes mellitus,762
+506,2016,San Diego,Total Population,Total Population,Diseases of heart,5047
+507,2016,San Diego,Total Population,Total Population,Essential hypertension and hypertensive renal disease,407
+508,2016,San Diego,Total Population,Total Population,Influenza and pneumonia,392
+509,2016,San Diego,Total Population,Total Population,Intentional self-harm (suicide),433
+510,2016,San Diego,Total Population,Total Population,Malignant neoplasms,5322
+511,2016,San Diego,Total Population,Total Population,"Nephritis, nephrotic syndrome and nephrosis",89
+512,2016,San Diego,Total Population,Total Population,Parkinson's disease,325
+513,2017,San Diego,Age,1-4 years,All causes (total),24
+514,2017,San Diego,Age,15-24 years,All causes (total),218
+515,2017,San Diego,Age,25-34 years,All causes (total),419
+516,2017,San Diego,Age,35-44 years,All causes (total),559
+517,2017,San Diego,Age,45-54 years,All causes (total),1214
+518,2017,San Diego,Age,5-14 years,All causes (total),49
+519,2017,San Diego,Age,55-64 years,All causes (total),2765
+520,2017,San Diego,Age,65-74 years,All causes (total),3838
+521,2017,San Diego,Age,75-84 years,All causes (total),5004
+522,2017,San Diego,Age,85 years and over,All causes (total),8322
+523,2017,San Diego,Age,Under 1 year,All causes (total),183
+524,2017,San Diego,Gender,Female,Accidents (unintentional injuries),447
+525,2017,San Diego,Gender,Female,Alzheimer's disease,980
+526,2017,San Diego,Gender,Female,Assault (homicide),25
+527,2017,San Diego,Gender,Female,Cerebrovascular diseases,836
+528,2017,San Diego,Gender,Female,Chronic liver disease and cirrhosis,154
+529,2017,San Diego,Gender,Female,Chronic lower respiratory diseases,564
+530,2017,San Diego,Gender,Female,Diabetes mellitus,396
+531,2017,San Diego,Gender,Female,Diseases of heart,2273
+532,2017,San Diego,Gender,Female,Essential hypertension and hypertensive renal disease,261
+533,2017,San Diego,Gender,Female,Influenza and pneumonia,226
+534,2017,San Diego,Gender,Female,Intentional self-harm (suicide),104
+535,2017,San Diego,Gender,Female,Malignant neoplasms,2504
+536,2017,San Diego,Gender,Female,"Nephritis, nephrotic syndrome and nephrosis",32
+537,2017,San Diego,Gender,Female,Parkinson's disease,145
+538,2017,San Diego,Gender,Male,Accidents (unintentional injuries),867
+539,2017,San Diego,Gender,Male,Alzheimer's disease,479
+540,2017,San Diego,Gender,Male,Assault (homicide),65
+541,2017,San Diego,Gender,Male,Cerebrovascular diseases,594
+542,2017,San Diego,Gender,Male,Chronic liver disease and cirrhosis,243
+543,2017,San Diego,Gender,Male,Chronic lower respiratory diseases,478
+544,2017,San Diego,Gender,Male,Diabetes mellitus,452
+545,2017,San Diego,Gender,Male,Diseases of heart,2725
+546,2017,San Diego,Gender,Male,Essential hypertension and hypertensive renal disease,218
+547,2017,San Diego,Gender,Male,Influenza and pneumonia,181
+548,2017,San Diego,Gender,Male,Intentional self-harm (suicide),353
+549,2017,San Diego,Gender,Male,Malignant neoplasms,2764
+550,2017,San Diego,Gender,Male,"Nephritis, nephrotic syndrome and nephrosis",43
+551,2017,San Diego,Gender,Male,Parkinson's disease,219
+552,2017,San Diego,Place Type,Decedent's Home,All causes (total),7606
+553,2017,San Diego,Place Type,Emergency Room/Outpatient,All causes (total),1202
+554,2017,San Diego,Place Type,Hospice Facility,All causes (total),780
+555,2017,San Diego,Place Type,Inpatient,All causes (total),7155
+556,2017,San Diego,Place Type,Nursing Home/Long Term Care Facility,All causes (total),4871
+557,2017,San Diego,Place Type,Other/Unknown,All causes (total),990
+558,2017,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Accidents (unintentional injuries),12
+559,2017,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Alzheimer's disease,0
+560,2017,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Assault (homicide),0
+561,2017,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Cerebrovascular diseases,0
+562,2017,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Chronic liver disease and cirrhosis,0
+563,2017,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Chronic lower respiratory diseases,0
+564,2017,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Diabetes mellitus,0
+565,2017,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Diseases of heart,23
+566,2017,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Essential hypertension and hypertensive renal disease,0
+567,2017,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Influenza and pneumonia,0
+568,2017,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Intentional self-harm (suicide),0
+569,2017,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Malignant neoplasms,21
+570,2017,San Diego,Race-Ethnicity,American Indian/Alaskan Native,"Nephritis, nephrotic syndrome and nephrosis",0
+571,2017,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Parkinson's disease,0
+572,2017,San Diego,Race-Ethnicity,Asian,Accidents (unintentional injuries),67
+573,2017,San Diego,Race-Ethnicity,Asian,Alzheimer's disease,94
+574,2017,San Diego,Race-Ethnicity,Asian,Assault (homicide),0
+575,2017,San Diego,Race-Ethnicity,Asian,Cerebrovascular diseases,129
+576,2017,San Diego,Race-Ethnicity,Asian,Chronic liver disease and cirrhosis,19
+577,2017,San Diego,Race-Ethnicity,Asian,Chronic lower respiratory diseases,59
+578,2017,San Diego,Race-Ethnicity,Asian,Diabetes mellitus,101
+579,2017,San Diego,Race-Ethnicity,Asian,Diseases of heart,363
+580,2017,San Diego,Race-Ethnicity,Asian,Essential hypertension and hypertensive renal disease,45
+581,2017,San Diego,Race-Ethnicity,Asian,Influenza and pneumonia,37
+582,2017,San Diego,Race-Ethnicity,Asian,Intentional self-harm (suicide),25
+583,2017,San Diego,Race-Ethnicity,Asian,Malignant neoplasms,457
+584,2017,San Diego,Race-Ethnicity,Asian,"Nephritis, nephrotic syndrome and nephrosis",0
+585,2017,San Diego,Race-Ethnicity,Asian,Parkinson's disease,25
+586,2017,San Diego,Race-Ethnicity,Black,Accidents (unintentional injuries),77
+587,2017,San Diego,Race-Ethnicity,Black,Alzheimer's disease,35
+588,2017,San Diego,Race-Ethnicity,Black,Assault (homicide),13
+589,2017,San Diego,Race-Ethnicity,Black,Cerebrovascular diseases,54
+590,2017,San Diego,Race-Ethnicity,Black,Chronic liver disease and cirrhosis,0
+591,2017,San Diego,Race-Ethnicity,Black,Chronic lower respiratory diseases,43
+592,2017,San Diego,Race-Ethnicity,Black,Diabetes mellitus,80
+593,2017,San Diego,Race-Ethnicity,Black,Diseases of heart,242
+594,2017,San Diego,Race-Ethnicity,Black,Essential hypertension and hypertensive renal disease,36
+595,2017,San Diego,Race-Ethnicity,Black,Influenza and pneumonia,15
+596,2017,San Diego,Race-Ethnicity,Black,Intentional self-harm (suicide),22
+597,2017,San Diego,Race-Ethnicity,Black,Malignant neoplasms,248
+598,2017,San Diego,Race-Ethnicity,Black,"Nephritis, nephrotic syndrome and nephrosis",0
+599,2017,San Diego,Race-Ethnicity,Black,Parkinson's disease,0
+600,2017,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Accidents (unintentional injuries),0
+601,2017,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Alzheimer's disease,0
+602,2017,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Assault (homicide),0
+603,2017,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Cerebrovascular diseases,0
+604,2017,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Chronic liver disease and cirrhosis,0
+605,2017,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Chronic lower respiratory diseases,0
+606,2017,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Diabetes mellitus,0
+607,2017,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Diseases of heart,31
+608,2017,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Essential hypertension and hypertensive renal disease,0
+609,2017,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Influenza and pneumonia,0
+610,2017,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Intentional self-harm (suicide),0
+611,2017,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Malignant neoplasms,21
+612,2017,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,"Nephritis, nephrotic syndrome and nephrosis",0
+613,2017,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Parkinson's disease,0
+614,2017,San Diego,Race-Ethnicity,Hispanic,Accidents (unintentional injuries),291
+615,2017,San Diego,Race-Ethnicity,Hispanic,Alzheimer's disease,181
+616,2017,San Diego,Race-Ethnicity,Hispanic,Assault (homicide),32
+617,2017,San Diego,Race-Ethnicity,Hispanic,Cerebrovascular diseases,246
+618,2017,San Diego,Race-Ethnicity,Hispanic,Chronic liver disease and cirrhosis,112
+619,2017,San Diego,Race-Ethnicity,Hispanic,Chronic lower respiratory diseases,82
+620,2017,San Diego,Race-Ethnicity,Hispanic,Diabetes mellitus,232
+621,2017,San Diego,Race-Ethnicity,Hispanic,Diseases of heart,756
+622,2017,San Diego,Race-Ethnicity,Hispanic,Essential hypertension and hypertensive renal disease,95
+623,2017,San Diego,Race-Ethnicity,Hispanic,Influenza and pneumonia,80
+624,2017,San Diego,Race-Ethnicity,Hispanic,Intentional self-harm (suicide),68
+625,2017,San Diego,Race-Ethnicity,Hispanic,Malignant neoplasms,896
+626,2017,San Diego,Race-Ethnicity,Hispanic,"Nephritis, nephrotic syndrome and nephrosis",20
+627,2017,San Diego,Race-Ethnicity,Hispanic,Parkinson's disease,53
+628,2017,San Diego,Race-Ethnicity,Multi-Race,Accidents (unintentional injuries),17
+629,2017,San Diego,Race-Ethnicity,Multi-Race,Alzheimer's disease,0
+630,2017,San Diego,Race-Ethnicity,Multi-Race,Assault (homicide),0
+631,2017,San Diego,Race-Ethnicity,Multi-Race,Cerebrovascular diseases,0
+632,2017,San Diego,Race-Ethnicity,Multi-Race,Chronic liver disease and cirrhosis,0
+633,2017,San Diego,Race-Ethnicity,Multi-Race,Chronic lower respiratory diseases,0
+634,2017,San Diego,Race-Ethnicity,Multi-Race,Diabetes mellitus,11
+635,2017,San Diego,Race-Ethnicity,Multi-Race,Diseases of heart,42
+636,2017,San Diego,Race-Ethnicity,Multi-Race,Essential hypertension and hypertensive renal disease,0
+637,2017,San Diego,Race-Ethnicity,Multi-Race,Influenza and pneumonia,0
+638,2017,San Diego,Race-Ethnicity,Multi-Race,Intentional self-harm (suicide),0
+639,2017,San Diego,Race-Ethnicity,Multi-Race,Malignant neoplasms,54
+640,2017,San Diego,Race-Ethnicity,Multi-Race,"Nephritis, nephrotic syndrome and nephrosis",0
+641,2017,San Diego,Race-Ethnicity,Multi-Race,Parkinson's disease,0
+642,2017,San Diego,Race-Ethnicity,Other/Unknown,Accidents (unintentional injuries),0
+643,2017,San Diego,Race-Ethnicity,Other/Unknown,Alzheimer's disease,0
+644,2017,San Diego,Race-Ethnicity,Other/Unknown,Assault (homicide),0
+645,2017,San Diego,Race-Ethnicity,Other/Unknown,Cerebrovascular diseases,12
+646,2017,San Diego,Race-Ethnicity,Other/Unknown,Chronic liver disease and cirrhosis,0
+647,2017,San Diego,Race-Ethnicity,Other/Unknown,Chronic lower respiratory diseases,14
+648,2017,San Diego,Race-Ethnicity,Other/Unknown,Diabetes mellitus,0
+649,2017,San Diego,Race-Ethnicity,Other/Unknown,Diseases of heart,44
+650,2017,San Diego,Race-Ethnicity,Other/Unknown,Essential hypertension and hypertensive renal disease,0
+651,2017,San Diego,Race-Ethnicity,Other/Unknown,Influenza and pneumonia,0
+652,2017,San Diego,Race-Ethnicity,Other/Unknown,Intentional self-harm (suicide),0
+653,2017,San Diego,Race-Ethnicity,Other/Unknown,Malignant neoplasms,24
+654,2017,San Diego,Race-Ethnicity,Other/Unknown,"Nephritis, nephrotic syndrome and nephrosis",0
+655,2017,San Diego,Race-Ethnicity,Other/Unknown,Parkinson's disease,0
+656,2017,San Diego,Race-Ethnicity,White,Accidents (unintentional injuries),844
+657,2017,San Diego,Race-Ethnicity,White,Alzheimer's disease,1125
+658,2017,San Diego,Race-Ethnicity,White,Assault (homicide),30
+659,2017,San Diego,Race-Ethnicity,White,Cerebrovascular diseases,966
+660,2017,San Diego,Race-Ethnicity,White,Chronic liver disease and cirrhosis,239
+661,2017,San Diego,Race-Ethnicity,White,Chronic lower respiratory diseases,825
+662,2017,San Diego,Race-Ethnicity,White,Diabetes mellitus,406
+663,2017,San Diego,Race-Ethnicity,White,Diseases of heart,3497
+664,2017,San Diego,Race-Ethnicity,White,Essential hypertension and hypertensive renal disease,293
+665,2017,San Diego,Race-Ethnicity,White,Influenza and pneumonia,270
+666,2017,San Diego,Race-Ethnicity,White,Intentional self-harm (suicide),328
+667,2017,San Diego,Race-Ethnicity,White,Malignant neoplasms,3547
+668,2017,San Diego,Race-Ethnicity,White,"Nephritis, nephrotic syndrome and nephrosis",40
+669,2017,San Diego,Race-Ethnicity,White,Parkinson's disease,274
+670,2017,San Diego,Total Population,Total Population,Accidents (unintentional injuries),1314
+671,2017,San Diego,Total Population,Total Population,Alzheimer's disease,1459
+672,2017,San Diego,Total Population,Total Population,Assault (homicide),90
+673,2017,San Diego,Total Population,Total Population,Cerebrovascular diseases,1430
+674,2017,San Diego,Total Population,Total Population,Chronic liver disease and cirrhosis,397
+675,2017,San Diego,Total Population,Total Population,Chronic lower respiratory diseases,1042
+676,2017,San Diego,Total Population,Total Population,Diabetes mellitus,848
+677,2017,San Diego,Total Population,Total Population,Diseases of heart,4998
+678,2017,San Diego,Total Population,Total Population,Essential hypertension and hypertensive renal disease,479
+679,2017,San Diego,Total Population,Total Population,Influenza and pneumonia,407
+680,2017,San Diego,Total Population,Total Population,Intentional self-harm (suicide),457
+681,2017,San Diego,Total Population,Total Population,Malignant neoplasms,5268
+682,2017,San Diego,Total Population,Total Population,"Nephritis, nephrotic syndrome and nephrosis",75
+683,2017,San Diego,Total Population,Total Population,Parkinson's disease,364
+684,2018,San Diego,Age,1-4 years,All causes (total),15
+685,2018,San Diego,Age,15-24 years,All causes (total),237
+686,2018,San Diego,Age,25-34 years,All causes (total),413
+687,2018,San Diego,Age,35-44 years,All causes (total),585
+688,2018,San Diego,Age,45-54 years,All causes (total),1223
+689,2018,San Diego,Age,5-14 years,All causes (total),37
+690,2018,San Diego,Age,55-64 years,All causes (total),2852
+691,2018,San Diego,Age,65-74 years,All causes (total),3949
+692,2018,San Diego,Age,75-84 years,All causes (total),5111
+693,2018,San Diego,Age,85 years and over,All causes (total),8068
+694,2018,San Diego,Age,Under 1 year,All causes (total),196
+695,2018,San Diego,Gender,Female,Accidents (unintentional injuries),480
+696,2018,San Diego,Gender,Female,Alzheimer's disease,993
+697,2018,San Diego,Gender,Female,Assault (homicide),22
+698,2018,San Diego,Gender,Female,Cerebrovascular diseases,879
+699,2018,San Diego,Gender,Female,Chronic liver disease and cirrhosis,119
+700,2018,San Diego,Gender,Female,Chronic lower respiratory diseases,560
+701,2018,San Diego,Gender,Female,Diabetes mellitus,342
+702,2018,San Diego,Gender,Female,Diseases of heart,2119
+703,2018,San Diego,Gender,Female,Essential hypertension and hypertensive renal disease,272
+704,2018,San Diego,Gender,Female,Influenza and pneumonia,225
+705,2018,San Diego,Gender,Female,Intentional self-harm (suicide),103
+706,2018,San Diego,Gender,Female,Malignant neoplasms,2482
+707,2018,San Diego,Gender,Female,"Nephritis, nephrotic syndrome and nephrosis",44
+708,2018,San Diego,Gender,Female,Parkinson's disease,127
+709,2018,San Diego,Gender,Male,Accidents (unintentional injuries),869
+710,2018,San Diego,Gender,Male,Alzheimer's disease,493
+711,2018,San Diego,Gender,Male,Assault (homicide),70
+712,2018,San Diego,Gender,Male,Cerebrovascular diseases,645
+713,2018,San Diego,Gender,Male,Chronic liver disease and cirrhosis,230
+714,2018,San Diego,Gender,Male,Chronic lower respiratory diseases,472
+715,2018,San Diego,Gender,Male,Diabetes mellitus,462
+716,2018,San Diego,Gender,Male,Diseases of heart,2779
+717,2018,San Diego,Gender,Male,Essential hypertension and hypertensive renal disease,203
+718,2018,San Diego,Gender,Male,Influenza and pneumonia,243
+719,2018,San Diego,Gender,Male,Intentional self-harm (suicide),373
+720,2018,San Diego,Gender,Male,Malignant neoplasms,2767
+721,2018,San Diego,Gender,Male,"Nephritis, nephrotic syndrome and nephrosis",51
+722,2018,San Diego,Gender,Male,Parkinson's disease,244
+723,2018,San Diego,Place Type,Decedent's Home,All causes (total),7938
+724,2018,San Diego,Place Type,Emergency Room/Outpatient,All causes (total),1282
+725,2018,San Diego,Place Type,Hospice Facility,All causes (total),749
+726,2018,San Diego,Place Type,Inpatient,All causes (total),7062
+727,2018,San Diego,Place Type,Nursing Home/Long Term Care Facility,All causes (total),4630
+728,2018,San Diego,Place Type,Other/Unknown,All causes (total),1033
+729,2018,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Accidents (unintentional injuries),0
+730,2018,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Alzheimer's disease,0
+731,2018,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Assault (homicide),0
+732,2018,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Cerebrovascular diseases,0
+733,2018,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Chronic liver disease and cirrhosis,0
+734,2018,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Chronic lower respiratory diseases,0
+735,2018,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Diabetes mellitus,0
+736,2018,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Diseases of heart,21
+737,2018,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Essential hypertension and hypertensive renal disease,0
+738,2018,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Influenza and pneumonia,0
+739,2018,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Intentional self-harm (suicide),0
+740,2018,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Malignant neoplasms,19
+741,2018,San Diego,Race-Ethnicity,American Indian/Alaskan Native,"Nephritis, nephrotic syndrome and nephrosis",0
+742,2018,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Parkinson's disease,0
+743,2018,San Diego,Race-Ethnicity,Asian,Accidents (unintentional injuries),77
+744,2018,San Diego,Race-Ethnicity,Asian,Alzheimer's disease,103
+745,2018,San Diego,Race-Ethnicity,Asian,Assault (homicide),0
+746,2018,San Diego,Race-Ethnicity,Asian,Cerebrovascular diseases,126
+747,2018,San Diego,Race-Ethnicity,Asian,Chronic liver disease and cirrhosis,13
+748,2018,San Diego,Race-Ethnicity,Asian,Chronic lower respiratory diseases,52
+749,2018,San Diego,Race-Ethnicity,Asian,Diabetes mellitus,85
+750,2018,San Diego,Race-Ethnicity,Asian,Diseases of heart,362
+751,2018,San Diego,Race-Ethnicity,Asian,Essential hypertension and hypertensive renal disease,38
+752,2018,San Diego,Race-Ethnicity,Asian,Influenza and pneumonia,37
+753,2018,San Diego,Race-Ethnicity,Asian,Intentional self-harm (suicide),29
+754,2018,San Diego,Race-Ethnicity,Asian,Malignant neoplasms,454
+755,2018,San Diego,Race-Ethnicity,Asian,"Nephritis, nephrotic syndrome and nephrosis",13
+756,2018,San Diego,Race-Ethnicity,Asian,Parkinson's disease,22
+757,2018,San Diego,Race-Ethnicity,Black,Accidents (unintentional injuries),83
+758,2018,San Diego,Race-Ethnicity,Black,Alzheimer's disease,35
+759,2018,San Diego,Race-Ethnicity,Black,Assault (homicide),17
+760,2018,San Diego,Race-Ethnicity,Black,Cerebrovascular diseases,83
+761,2018,San Diego,Race-Ethnicity,Black,Chronic liver disease and cirrhosis,0
+762,2018,San Diego,Race-Ethnicity,Black,Chronic lower respiratory diseases,38
+763,2018,San Diego,Race-Ethnicity,Black,Diabetes mellitus,66
+764,2018,San Diego,Race-Ethnicity,Black,Diseases of heart,257
+765,2018,San Diego,Race-Ethnicity,Black,Essential hypertension and hypertensive renal disease,34
+766,2018,San Diego,Race-Ethnicity,Black,Influenza and pneumonia,21
+767,2018,San Diego,Race-Ethnicity,Black,Intentional self-harm (suicide),0
+768,2018,San Diego,Race-Ethnicity,Black,Malignant neoplasms,254
+769,2018,San Diego,Race-Ethnicity,Black,"Nephritis, nephrotic syndrome and nephrosis",0
+770,2018,San Diego,Race-Ethnicity,Black,Parkinson's disease,0
+771,2018,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Accidents (unintentional injuries),0
+772,2018,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Alzheimer's disease,0
+773,2018,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Assault (homicide),0
+774,2018,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Cerebrovascular diseases,0
+775,2018,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Chronic liver disease and cirrhosis,0
+776,2018,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Chronic lower respiratory diseases,0
+777,2018,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Diabetes mellitus,0
+778,2018,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Diseases of heart,40
+779,2018,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Essential hypertension and hypertensive renal disease,0
+780,2018,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Influenza and pneumonia,0
+781,2018,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Intentional self-harm (suicide),0
+782,2018,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Malignant neoplasms,23
+783,2018,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,"Nephritis, nephrotic syndrome and nephrosis",0
+784,2018,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Parkinson's disease,0
+785,2018,San Diego,Race-Ethnicity,Hispanic,Accidents (unintentional injuries),306
+786,2018,San Diego,Race-Ethnicity,Hispanic,Alzheimer's disease,218
+787,2018,San Diego,Race-Ethnicity,Hispanic,Assault (homicide),36
+788,2018,San Diego,Race-Ethnicity,Hispanic,Cerebrovascular diseases,301
+789,2018,San Diego,Race-Ethnicity,Hispanic,Chronic liver disease and cirrhosis,101
+790,2018,San Diego,Race-Ethnicity,Hispanic,Chronic lower respiratory diseases,86
+791,2018,San Diego,Race-Ethnicity,Hispanic,Diabetes mellitus,238
+792,2018,San Diego,Race-Ethnicity,Hispanic,Diseases of heart,753
+793,2018,San Diego,Race-Ethnicity,Hispanic,Essential hypertension and hypertensive renal disease,90
+794,2018,San Diego,Race-Ethnicity,Hispanic,Influenza and pneumonia,73
+795,2018,San Diego,Race-Ethnicity,Hispanic,Intentional self-harm (suicide),96
+796,2018,San Diego,Race-Ethnicity,Hispanic,Malignant neoplasms,974
+797,2018,San Diego,Race-Ethnicity,Hispanic,"Nephritis, nephrotic syndrome and nephrosis",22
+798,2018,San Diego,Race-Ethnicity,Hispanic,Parkinson's disease,50
+799,2018,San Diego,Race-Ethnicity,Multi-Race,Accidents (unintentional injuries),23
+800,2018,San Diego,Race-Ethnicity,Multi-Race,Alzheimer's disease,13
+801,2018,San Diego,Race-Ethnicity,Multi-Race,Assault (homicide),0
+802,2018,San Diego,Race-Ethnicity,Multi-Race,Cerebrovascular diseases,15
+803,2018,San Diego,Race-Ethnicity,Multi-Race,Chronic liver disease and cirrhosis,0
+804,2018,San Diego,Race-Ethnicity,Multi-Race,Chronic lower respiratory diseases,0
+805,2018,San Diego,Race-Ethnicity,Multi-Race,Diabetes mellitus,11
+806,2018,San Diego,Race-Ethnicity,Multi-Race,Diseases of heart,40
+807,2018,San Diego,Race-Ethnicity,Multi-Race,Essential hypertension and hypertensive renal disease,0
+808,2018,San Diego,Race-Ethnicity,Multi-Race,Influenza and pneumonia,0
+809,2018,San Diego,Race-Ethnicity,Multi-Race,Intentional self-harm (suicide),0
+810,2018,San Diego,Race-Ethnicity,Multi-Race,Malignant neoplasms,47
+811,2018,San Diego,Race-Ethnicity,Multi-Race,"Nephritis, nephrotic syndrome and nephrosis",0
+812,2018,San Diego,Race-Ethnicity,Multi-Race,Parkinson's disease,0
+813,2018,San Diego,Race-Ethnicity,Other/Unknown,Accidents (unintentional injuries),0
+814,2018,San Diego,Race-Ethnicity,Other/Unknown,Alzheimer's disease,0
+815,2018,San Diego,Race-Ethnicity,Other/Unknown,Assault (homicide),0
+816,2018,San Diego,Race-Ethnicity,Other/Unknown,Cerebrovascular diseases,13
+817,2018,San Diego,Race-Ethnicity,Other/Unknown,Chronic liver disease and cirrhosis,0
+818,2018,San Diego,Race-Ethnicity,Other/Unknown,Chronic lower respiratory diseases,15
+819,2018,San Diego,Race-Ethnicity,Other/Unknown,Diabetes mellitus,12
+820,2018,San Diego,Race-Ethnicity,Other/Unknown,Diseases of heart,41
+821,2018,San Diego,Race-Ethnicity,Other/Unknown,Essential hypertension and hypertensive renal disease,0
+822,2018,San Diego,Race-Ethnicity,Other/Unknown,Influenza and pneumonia,0
+823,2018,San Diego,Race-Ethnicity,Other/Unknown,Intentional self-harm (suicide),0
+824,2018,San Diego,Race-Ethnicity,Other/Unknown,Malignant neoplasms,28
+825,2018,San Diego,Race-Ethnicity,Other/Unknown,"Nephritis, nephrotic syndrome and nephrosis",0
+826,2018,San Diego,Race-Ethnicity,Other/Unknown,Parkinson's disease,0
+827,2018,San Diego,Race-Ethnicity,White,Accidents (unintentional injuries),839
+828,2018,San Diego,Race-Ethnicity,White,Alzheimer's disease,1108
+829,2018,San Diego,Race-Ethnicity,White,Assault (homicide),29
+830,2018,San Diego,Race-Ethnicity,White,Cerebrovascular diseases,976
+831,2018,San Diego,Race-Ethnicity,White,Chronic liver disease and cirrhosis,207
+832,2018,San Diego,Race-Ethnicity,White,Chronic lower respiratory diseases,824
+833,2018,San Diego,Race-Ethnicity,White,Diabetes mellitus,372
+834,2018,San Diego,Race-Ethnicity,White,Diseases of heart,3384
+835,2018,San Diego,Race-Ethnicity,White,Essential hypertension and hypertensive renal disease,303
+836,2018,San Diego,Race-Ethnicity,White,Influenza and pneumonia,321
+837,2018,San Diego,Race-Ethnicity,White,Intentional self-harm (suicide),326
+838,2018,San Diego,Race-Ethnicity,White,Malignant neoplasms,3450
+839,2018,San Diego,Race-Ethnicity,White,"Nephritis, nephrotic syndrome and nephrosis",53
+840,2018,San Diego,Race-Ethnicity,White,Parkinson's disease,286
+841,2018,San Diego,Total Population,Total Population,Accidents (unintentional injuries),1349
+842,2018,San Diego,Total Population,Total Population,Alzheimer's disease,1486
+843,2018,San Diego,Total Population,Total Population,Assault (homicide),92
+844,2018,San Diego,Total Population,Total Population,Cerebrovascular diseases,1524
+845,2018,San Diego,Total Population,Total Population,Chronic liver disease and cirrhosis,349
+846,2018,San Diego,Total Population,Total Population,Chronic lower respiratory diseases,1032
+847,2018,San Diego,Total Population,Total Population,Diabetes mellitus,804
+848,2018,San Diego,Total Population,Total Population,Diseases of heart,4898
+849,2018,San Diego,Total Population,Total Population,Essential hypertension and hypertensive renal disease,475
+850,2018,San Diego,Total Population,Total Population,Influenza and pneumonia,468
+851,2018,San Diego,Total Population,Total Population,Intentional self-harm (suicide),476
+852,2018,San Diego,Total Population,Total Population,Malignant neoplasms,5249
+853,2018,San Diego,Total Population,Total Population,"Nephritis, nephrotic syndrome and nephrosis",95
+854,2018,San Diego,Total Population,Total Population,Parkinson's disease,371
+855,2019,San Diego,Age,1-4 years,All causes (total),31
+856,2019,San Diego,Age,15-24 years,All causes (total),224
+857,2019,San Diego,Age,25-34 years,All causes (total),475
+858,2019,San Diego,Age,35-44 years,All causes (total),641
+859,2019,San Diego,Age,45-54 years,All causes (total),1168
+860,2019,San Diego,Age,5-14 years,All causes (total),42
+861,2019,San Diego,Age,55-64 years,All causes (total),2740
+862,2019,San Diego,Age,65-74 years,All causes (total),4103
+863,2019,San Diego,Age,75-84 years,All causes (total),5218
+864,2019,San Diego,Age,85 years and over,All causes (total),8147
+865,2019,San Diego,Age,Under 1 year,All causes (total),169
+866,2019,San Diego,Gender,Female,Accidents (unintentional injuries),456
+867,2019,San Diego,Gender,Female,Alzheimer's disease,1018
+868,2019,San Diego,Gender,Female,Assault (homicide),28
+869,2019,San Diego,Gender,Female,Cerebrovascular diseases,970
+870,2019,San Diego,Gender,Female,Chronic liver disease and cirrhosis,133
+871,2019,San Diego,Gender,Female,Chronic lower respiratory diseases,551
+872,2019,San Diego,Gender,Female,Diabetes mellitus,332
+873,2019,San Diego,Gender,Female,Diseases of heart,2159
+874,2019,San Diego,Gender,Female,Essential hypertension and hypertensive renal disease,250
+875,2019,San Diego,Gender,Female,Influenza and pneumonia,132
+876,2019,San Diego,Gender,Female,Intentional self-harm (suicide),89
+877,2019,San Diego,Gender,Female,Malignant neoplasms,2461
+878,2019,San Diego,Gender,Female,"Nephritis, nephrotic syndrome and nephrosis",58
+879,2019,San Diego,Gender,Female,Parkinson's disease,147
+880,2019,San Diego,Gender,Male,Accidents (unintentional injuries),951
+881,2019,San Diego,Gender,Male,Alzheimer's disease,540
+882,2019,San Diego,Gender,Male,Assault (homicide),72
+883,2019,San Diego,Gender,Male,Cerebrovascular diseases,717
+884,2019,San Diego,Gender,Male,Chronic liver disease and cirrhosis,245
+885,2019,San Diego,Gender,Male,Chronic lower respiratory diseases,489
+886,2019,San Diego,Gender,Male,Diabetes mellitus,460
+887,2019,San Diego,Gender,Male,Diseases of heart,2733
+888,2019,San Diego,Gender,Male,Essential hypertension and hypertensive renal disease,190
+889,2019,San Diego,Gender,Male,Influenza and pneumonia,172
+890,2019,San Diego,Gender,Male,Intentional self-harm (suicide),346
+891,2019,San Diego,Gender,Male,Malignant neoplasms,2798
+892,2019,San Diego,Gender,Male,"Nephritis, nephrotic syndrome and nephrosis",80
+893,2019,San Diego,Gender,Male,Parkinson's disease,238
+894,2019,San Diego,Place Type,Decedent's Home,All causes (total),7983
+895,2019,San Diego,Place Type,Emergency Room/Outpatient,All causes (total),1258
+896,2019,San Diego,Place Type,Hospice Facility,All causes (total),664
+897,2019,San Diego,Place Type,Inpatient,All causes (total),7290
+898,2019,San Diego,Place Type,Nursing Home/Long Term Care Facility,All causes (total),4754
+899,2019,San Diego,Place Type,Other/Unknown,All causes (total),1016
+900,2019,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Accidents (unintentional injuries),11
+901,2019,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Alzheimer's disease,0
+902,2019,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Assault (homicide),0
+903,2019,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Cerebrovascular diseases,0
+904,2019,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Chronic liver disease and cirrhosis,0
+905,2019,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Chronic lower respiratory diseases,0
+906,2019,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Diabetes mellitus,0
+907,2019,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Diseases of heart,18
+908,2019,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Essential hypertension and hypertensive renal disease,0
+909,2019,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Influenza and pneumonia,0
+910,2019,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Intentional self-harm (suicide),0
+911,2019,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Malignant neoplasms,23
+912,2019,San Diego,Race-Ethnicity,American Indian/Alaskan Native,"Nephritis, nephrotic syndrome and nephrosis",0
+913,2019,San Diego,Race-Ethnicity,American Indian/Alaskan Native,Parkinson's disease,0
+914,2019,San Diego,Race-Ethnicity,Asian,Accidents (unintentional injuries),64
+915,2019,San Diego,Race-Ethnicity,Asian,Alzheimer's disease,98
+916,2019,San Diego,Race-Ethnicity,Asian,Assault (homicide),0
+917,2019,San Diego,Race-Ethnicity,Asian,Cerebrovascular diseases,174
+918,2019,San Diego,Race-Ethnicity,Asian,Chronic liver disease and cirrhosis,0
+919,2019,San Diego,Race-Ethnicity,Asian,Chronic lower respiratory diseases,48
+920,2019,San Diego,Race-Ethnicity,Asian,Diabetes mellitus,90
+921,2019,San Diego,Race-Ethnicity,Asian,Diseases of heart,373
+922,2019,San Diego,Race-Ethnicity,Asian,Essential hypertension and hypertensive renal disease,40
+923,2019,San Diego,Race-Ethnicity,Asian,Influenza and pneumonia,24
+924,2019,San Diego,Race-Ethnicity,Asian,Intentional self-harm (suicide),24
+925,2019,San Diego,Race-Ethnicity,Asian,Malignant neoplasms,466
+926,2019,San Diego,Race-Ethnicity,Asian,"Nephritis, nephrotic syndrome and nephrosis",21
+927,2019,San Diego,Race-Ethnicity,Asian,Parkinson's disease,35
+928,2019,San Diego,Race-Ethnicity,Black,Accidents (unintentional injuries),77
+929,2019,San Diego,Race-Ethnicity,Black,Alzheimer's disease,50
+930,2019,San Diego,Race-Ethnicity,Black,Assault (homicide),15
+931,2019,San Diego,Race-Ethnicity,Black,Cerebrovascular diseases,68
+932,2019,San Diego,Race-Ethnicity,Black,Chronic liver disease and cirrhosis,13
+933,2019,San Diego,Race-Ethnicity,Black,Chronic lower respiratory diseases,50
+934,2019,San Diego,Race-Ethnicity,Black,Diabetes mellitus,65
+935,2019,San Diego,Race-Ethnicity,Black,Diseases of heart,263
+936,2019,San Diego,Race-Ethnicity,Black,Essential hypertension and hypertensive renal disease,25
+937,2019,San Diego,Race-Ethnicity,Black,Influenza and pneumonia,19
+938,2019,San Diego,Race-Ethnicity,Black,Intentional self-harm (suicide),22
+939,2019,San Diego,Race-Ethnicity,Black,Malignant neoplasms,230
+940,2019,San Diego,Race-Ethnicity,Black,"Nephritis, nephrotic syndrome and nephrosis",0
+941,2019,San Diego,Race-Ethnicity,Black,Parkinson's disease,0
+942,2019,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Accidents (unintentional injuries),0
+943,2019,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Alzheimer's disease,0
+944,2019,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Assault (homicide),0
+945,2019,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Cerebrovascular diseases,0
+946,2019,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Chronic liver disease and cirrhosis,0
+947,2019,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Chronic lower respiratory diseases,0
+948,2019,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Diabetes mellitus,13
+949,2019,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Diseases of heart,34
+950,2019,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Essential hypertension and hypertensive renal disease,0
+951,2019,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Influenza and pneumonia,0
+952,2019,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Intentional self-harm (suicide),0
+953,2019,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Malignant neoplasms,29
+954,2019,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,"Nephritis, nephrotic syndrome and nephrosis",0
+955,2019,San Diego,Race-Ethnicity,Hawaiian/Pacific Islander,Parkinson's disease,0
+956,2019,San Diego,Race-Ethnicity,Hispanic,Accidents (unintentional injuries),347
+957,2019,San Diego,Race-Ethnicity,Hispanic,Alzheimer's disease,221
+958,2019,San Diego,Race-Ethnicity,Hispanic,Assault (homicide),42
+959,2019,San Diego,Race-Ethnicity,Hispanic,Cerebrovascular diseases,297
+960,2019,San Diego,Race-Ethnicity,Hispanic,Chronic liver disease and cirrhosis,124
+961,2019,San Diego,Race-Ethnicity,Hispanic,Chronic lower respiratory diseases,81
+962,2019,San Diego,Race-Ethnicity,Hispanic,Diabetes mellitus,246
+963,2019,San Diego,Race-Ethnicity,Hispanic,Diseases of heart,752
+964,2019,San Diego,Race-Ethnicity,Hispanic,Essential hypertension and hypertensive renal disease,85
+965,2019,San Diego,Race-Ethnicity,Hispanic,Influenza and pneumonia,64
+966,2019,San Diego,Race-Ethnicity,Hispanic,Intentional self-harm (suicide),96
+967,2019,San Diego,Race-Ethnicity,Hispanic,Malignant neoplasms,965
+968,2019,San Diego,Race-Ethnicity,Hispanic,"Nephritis, nephrotic syndrome and nephrosis",39
+969,2019,San Diego,Race-Ethnicity,Hispanic,Parkinson's disease,45
+970,2019,San Diego,Race-Ethnicity,Multi-Race,Accidents (unintentional injuries),32
+971,2019,San Diego,Race-Ethnicity,Multi-Race,Alzheimer's disease,12
+972,2019,San Diego,Race-Ethnicity,Multi-Race,Assault (homicide),0
+973,2019,San Diego,Race-Ethnicity,Multi-Race,Cerebrovascular diseases,16
+974,2019,San Diego,Race-Ethnicity,Multi-Race,Chronic liver disease and cirrhosis,0
+975,2019,San Diego,Race-Ethnicity,Multi-Race,Chronic lower respiratory diseases,0
+976,2019,San Diego,Race-Ethnicity,Multi-Race,Diabetes mellitus,0
+977,2019,San Diego,Race-Ethnicity,Multi-Race,Diseases of heart,47
+978,2019,San Diego,Race-Ethnicity,Multi-Race,Essential hypertension and hypertensive renal disease,0
+979,2019,San Diego,Race-Ethnicity,Multi-Race,Influenza and pneumonia,0
+980,2019,San Diego,Race-Ethnicity,Multi-Race,Intentional self-harm (suicide),0
+981,2019,San Diego,Race-Ethnicity,Multi-Race,Malignant neoplasms,54
+982,2019,San Diego,Race-Ethnicity,Multi-Race,"Nephritis, nephrotic syndrome and nephrosis",0
+983,2019,San Diego,Race-Ethnicity,Multi-Race,Parkinson's disease,0
+984,2019,San Diego,Race-Ethnicity,Other/Unknown,Accidents (unintentional injuries),0
+985,2019,San Diego,Race-Ethnicity,Other/Unknown,Alzheimer's disease,0
+986,2019,San Diego,Race-Ethnicity,Other/Unknown,Assault (homicide),0
+987,2019,San Diego,Race-Ethnicity,Other/Unknown,Cerebrovascular diseases,13
+988,2019,San Diego,Race-Ethnicity,Other/Unknown,Chronic liver disease and cirrhosis,0
+989,2019,San Diego,Race-Ethnicity,Other/Unknown,Chronic lower respiratory diseases,14
+990,2019,San Diego,Race-Ethnicity,Other/Unknown,Diabetes mellitus,15
+991,2019,San Diego,Race-Ethnicity,Other/Unknown,Diseases of heart,37
+992,2019,San Diego,Race-Ethnicity,Other/Unknown,Essential hypertension and hypertensive renal disease,0
+993,2019,San Diego,Race-Ethnicity,Other/Unknown,Influenza and pneumonia,0
+994,2019,San Diego,Race-Ethnicity,Other/Unknown,Intentional self-harm (suicide),0
+995,2019,San Diego,Race-Ethnicity,Other/Unknown,Malignant neoplasms,46
+996,2019,San Diego,Race-Ethnicity,Other/Unknown,"Nephritis, nephrotic syndrome and nephrosis",0
+997,2019,San Diego,Race-Ethnicity,Other/Unknown,Parkinson's disease,0
+998,2019,San Diego,Race-Ethnicity,White,Accidents (unintentional injuries),864
+999,2019,San Diego,Race-Ethnicity,White,Alzheimer's disease,1166
+1000,2019,San Diego,Race-Ethnicity,White,Assault (homicide),31
+1001,2019,San Diego,Race-Ethnicity,White,Cerebrovascular diseases,1110
+1002,2019,San Diego,Race-Ethnicity,White,Chronic liver disease and cirrhosis,219
+1003,2019,San Diego,Race-Ethnicity,White,Chronic lower respiratory diseases,832
+1004,2019,San Diego,Race-Ethnicity,White,Diabetes mellitus,348
+1005,2019,San Diego,Race-Ethnicity,White,Diseases of heart,3368
+1006,2019,San Diego,Race-Ethnicity,White,Essential hypertension and hypertensive renal disease,282
+1007,2019,San Diego,Race-Ethnicity,White,Influenza and pneumonia,188
+1008,2019,San Diego,Race-Ethnicity,White,Intentional self-harm (suicide),283
+1009,2019,San Diego,Race-Ethnicity,White,Malignant neoplasms,3446
+1010,2019,San Diego,Race-Ethnicity,White,"Nephritis, nephrotic syndrome and nephrosis",66
+1011,2019,San Diego,Race-Ethnicity,White,Parkinson's disease,292
+1012,2019,San Diego,Total Population,Total Population,Accidents (unintentional injuries),1407
+1013,2019,San Diego,Total Population,Total Population,Alzheimer's disease,1558
+1014,2019,San Diego,Total Population,Total Population,Assault (homicide),100
+1015,2019,San Diego,Total Population,Total Population,Cerebrovascular diseases,1687
+1016,2019,San Diego,Total Population,Total Population,Chronic liver disease and cirrhosis,378
+1017,2019,San Diego,Total Population,Total Population,Chronic lower respiratory diseases,1040
+1018,2019,San Diego,Total Population,Total Population,Diabetes mellitus,792
+1019,2019,San Diego,Total Population,Total Population,Diseases of heart,4892
+1020,2019,San Diego,Total Population,Total Population,Essential hypertension and hypertensive renal disease,440
+1021,2019,San Diego,Total Population,Total Population,Influenza and pneumonia,304
+1022,2019,San Diego,Total Population,Total Population,Intentional self-harm (suicide),435
+1023,2019,San Diego,Total Population,Total Population,Malignant neoplasms,5259
+1024,2019,San Diego,Total Population,Total Population,"Nephritis, nephrotic syndrome and nephrosis",138
+1025,2019,San Diego,Total Population,Total Population,Parkinson's disease,385
