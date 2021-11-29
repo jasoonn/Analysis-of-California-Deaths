@@ -51,39 +51,70 @@ county_names = ['Los Angeles', 'San Diego', 'Riverside', 'Orange', 'San Bernardi
 
 width = 0.1
 
-
-for disease in column_names:
-    curr_df = year_county_deaths[[COUNTY_COL, YEAR_COL, disease]]
-    n = len(county_names)
-    r = np.arange(n)
-    d = defaultdict(list)
-    for year in list(sorted(set(year_county_deaths[YEAR_COL]))):
-        new_df = curr_df.loc[curr_df[YEAR_COL] == year]
-        new_df = new_df.loc[new_df[COUNTY_COL].isin(county_names)]
-        
-        d[year] = list(new_df[disease])
-    i = 0
-    plt.figure()
-    for y, value in d.items():
-        bars = plt.bar(r+width*i,value,width = width,label=f'{y}')
-        i += 1
-    plt.xlabel("Counties")
-    plt.ylabel("Number of deaths per year")
-    plt.title(f"No. of deaths per year due to {disease} by county")
-    plt.xticks(r + width/2,county_names,rotation=25,fontsize=7)
-    plt.legend()
-  
-    plt.savefig(f'{VISUALIZATION_DIR}/county/{disease}.png')
-    print(f"Done with {disease} plot..")
-    break
+def get_county_deaths_by_disease():
+    for disease in column_names:
+        curr_df = year_county_deaths[[COUNTY_COL, YEAR_COL, disease]]
+        n = len(county_names)
+        r = np.arange(n)
+        d = defaultdict(list)
+        for year in list(sorted(set(year_county_deaths[YEAR_COL]))):
+            new_df = curr_df.loc[curr_df[YEAR_COL] == year]
+            new_df = new_df.loc[new_df[COUNTY_COL].isin(county_names)]
+            
+            d[year] = list(new_df[disease])
+        i = 0
+        plt.figure()
+        for y, value in d.items():
+            bars = plt.bar(r+width*i,value,width = width,label=f'{y}')
+            i += 1
+        plt.xlabel("Counties")
+        plt.ylabel("Number of deaths per year")
+        plt.title(f"No. of deaths per year due to {disease} by county")
+        plt.xticks(r + width/2,county_names,rotation=25,fontsize=7)
+        plt.legend()
+    
+        plt.savefig(f'{VISUALIZATION_DIR}/county/{disease}.png')
+        print(f"Done with {disease} plot..")
+        break
                 
+def car_accidents_percentage_increase():
+    car_accidents_column = 'Accidents (unintentional injuries)'
+    accidents_df = year_county_deaths[[COUNTY_COL, YEAR_COL, car_accidents_column]]
+    concerned_years = [2018,2019]
+    last_2_years_accidents = accidents_df.loc[accidents_df[YEAR_COL].isin(concerned_years)]
+    last_2_years_accidents.sort_values(by=[YEAR_COL])
+    
+    percentage_increase = defaultdict(float)
+    for county in county_names:
+        accident_value = last_2_years_accidents.loc[last_2_years_accidents[COUNTY_COL] == county]
+        value_2018 = (accident_value[car_accidents_column].iloc[0])
+        value_2019 = (accident_value[car_accidents_column].iloc[len(accident_value.index)-1])
+        percentage_increase[county] = ((value_2019-value_2018)/value_2018)*100;
         
-
-# def multiple_bar_charts_per_disease(year_county_deaths):
-#     column_names = year_county_deaths.columns
-#     column_names = column_names[2:]
     
-#     x_axis = list(set(year_county_deaths[COUNTY_COL]))
+    total_items = len(percentage_increase)-1
+    total_increase_other_counties = 0
+    for county, incr in percentage_increase.items():
+        if county != 'Los Angeles':
+            total_increase_other_counties += incr
+    avg_increase = total_increase_other_counties/total_items
     
+    x_pos = [0,1]
+    x_axis = ['Los Angeles', 'All Other Counties']
+    y_axis = [percentage_increase['Los Angeles'], avg_increase]
+    plt.figure()
+    plt.bar(x_pos,y_axis,width=0.25)
+    plt.xticks(x_pos, x_axis)
+    plt.xlabel("Counties")
+    plt.ylabel("Percentage increase in deaths due to accidents")
+    plt.title(" % Increase in deaths due to accidents from 2018 to 2019")
+    
+    
+    plt.savefig(f'{VISUALIZATION_DIR}/accident/accident_analysis.png')
+    
+    
+        
+    
+car_accidents_percentage_increase()  
 # disease_county_dist_yearly_analysis(year_county_deaths, 2014)
 # multiple_bar_charts_per_disease(year_county_deaths)
