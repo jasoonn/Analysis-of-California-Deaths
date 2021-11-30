@@ -54,6 +54,7 @@ def cleanEthnicityDataByCounty(csvFile='../data/death.csv', plot = False, county
         swtichColumn(counting, -1, -2)
         swtichColumn(counting, 0, 1)
         print(counting)
+        plt.rcParams["font.family"] = "Times New Roman"
         plt.rc('font', size=16)
         plt.pie(counting['Count'], autopct='%1.1f%%', labels=counting['Strata_Name'])
         plt.show()
@@ -115,6 +116,68 @@ def filterEthnicityDataByCounty(csvFile='../data/death.csv', plot = False, count
         fig.suptitle('San Diego', size=20)
         plt.show()
 
+def barPlotData(plot = False):
+    """
+    Plot death according to age
+    """
+    considerGroup = ['Black', 'White', 'Hispanic', 'Asian']
+    consider = ['Assault (homicide)', 'Alzheimer\'s disease', 'Malignant neoplasms', 'Intentional self-harm (suicide)', 'Diseases of heart']
+    
+
+    raceLabel, calData = getCalData(considerGroup, consider)
+    sdData = getCountyData(considerGroup, consider)
+    laData = getCountyData(considerGroup, consider, 'Los Angeles')
+    countyLabel = ['California', 'San Diego', 'Los Angeles']
+    data = [calData, sdData, laData]
+    plt.rcParams["font.family"] = "Times New Roman"
+    plt.rc('font', size=13)
+    for disease in consider:
+        X = np.arange(len(countyLabel))
+        maxx = 0
+        for i in range(len(raceLabel)):
+            plotdata = []
+            for j in range(len(data)):
+                maxx = max(maxx, data[j][disease][i])
+                plotdata.append(data[j][disease][i])
+            plt.bar(X+0.15*i, plotdata, width=0.15)
+        plt.ylabel('Percentages')
+        plt.legend(labels=raceLabel)
+        plt.title(disease)
+        plt.ylim(0, maxx*1.5)
+        plt.xticks(np.arange(len(countyLabel))+0.25, countyLabel)
+        plt.show()
+
+        
+
+def getCalData(considerGroup, considerDisease):
+    ans = defaultdict(list)
+    data = includeCounty().groupby('Strata').get_group('Race-Ethnicity').drop(columns=['Strata', 'Year']).groupby(['Strata_Name', 'Cause_Desc']).sum().reset_index()
+    race = []
+    for name, group in data.groupby('Strata_Name'):
+        if name in considerGroup:
+            allNum = group.set_index('Cause_Desc')['Count']['All causes (total)']
+            race.append(name)
+            for index, row in group.iterrows():
+                if row['Cause_Desc'] in considerDisease:
+                    ans[row['Cause_Desc']].append(row['Count']*100/allNum)
+    return (race, ans)
+
+def getCountyData(considerGroup, considerDisease, county='San Diego'):
+    ans = defaultdict(list)
+    df = pd.read_csv('../data/death.csv')
+    data = df.groupby(['County']).get_group(county)
+    data = data.groupby('Strata').get_group('Race-Ethnicity').set_index('Strata_Name').drop(columns=['Annotation_Code', 'Year', 'Geography_Type', 'Cause', 'Annotation_Desc', 'Strata'])
+    data = data.groupby(['Strata_Name', 'Cause_Desc']).sum().reset_index()
+    data.Count = data.Count.astype(int)
+    for name, group in data.groupby('Strata_Name'):
+        if name in considerGroup:
+            allNum = group.set_index('Cause_Desc')['Count']['All causes (total)']
+            for index, row in group.iterrows():
+                if row['Cause_Desc'] in considerDisease:
+                    ans[row['Cause_Desc']].append(row['Count']*100/allNum)
+    #print(ans)
+    return ans
+
 
 def filterEthniciyData(plot = False):
     """
@@ -160,6 +223,7 @@ def cleanEthniciyData(plot = False):
     if plot:
         swtichColumn(counting, -1, -2)
         swtichColumn(counting, 0, 1)
+        plt.rcParams["font.family"] = "Times New Roman"
         plt.rc('font', size=16)
         plt.pie(counting['Count'], autopct='%1.1f%%', labels=counting['Strata_Name'])
         plt.show()
@@ -172,7 +236,8 @@ def cleanEthniciyData(plot = False):
             
 
 if __name__ == '__main__':
-    cleanEthniciyData(plot = False)
-    cleanEthnicityDataByCounty(plot = False)
-    filterEthniciyData(plot = False)
-    filterEthnicityDataByCounty(plot = True)
+    # cleanEthniciyData(plot = False)
+    # cleanEthnicityDataByCounty(plot = False)
+    # filterEthniciyData(plot = False)
+    # filterEthnicityDataByCounty(plot = True)
+    barPlotData()
