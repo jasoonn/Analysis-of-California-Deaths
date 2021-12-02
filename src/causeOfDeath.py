@@ -61,7 +61,7 @@ def plot_and_save_clause(df, causes=[]):
     plt.xlabel("Years between 2014 - 2019")
     plt.ylabel("Number of deaths")
     # plt.tight_layout()
-    plt.savefig(f"visualization/{final_save_string}.png")
+    plt.savefig(f"visualization/causeOfDeaths/{final_save_string}.png")
 
 def plot_total_pie(df, year):
     assert isinstance(year, int)
@@ -82,7 +82,7 @@ def plot_total_pie(df, year):
               fontsize=12)
     plt.pie(df["Count"], startangle=90, autopct='%1.1f%%', labels=df["Cause_Desc"].astype(str).str.replace("['\[\]\"]","",regex=True))
 
-    plt.savefig(f"visualization/total_death_percentage_pie.png")
+    plt.savefig(f"visualization/causeOfDeaths/total_death_percentage_pie.png")
 
 df = causeOfDeath()
 plot_and_save_clause(df, causes=["ALZ","HYP","HTD"])

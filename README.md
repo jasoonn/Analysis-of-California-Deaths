@@ -15,3 +15,13 @@ The website cantains multiple datasets about population composition in Californi
 ## Proposed Solution and Real world Application :
 Our proposed solution is to use simple data analysis and data visualization tools to understand the relationship between the categories of death and the overall number of deaths in the given condition. The implementation will focus on creating multiple graphs/charts to predict trends like the types of diseases prevalent in certain age groups in particular counties, the races which succumb to particular diseases in San Diego, counties with the maximum number of Chronic Liver diseases etc.
 The real world application of this project would be that it could help citizens of particular counties be aware of the kind of problems existing in particular age groups within their community and take effective steps to correct it. For example: If the people in the county of San Mateo are dying of chronic lower respiratory diseases, the regulatory body should check the air quality levels and issue advisories to warn people, when the air quality index worsens. The information extracted from this dataset could be used by government agencies, common citizens as well as students like us to understand the past problems and keep our health in check.
+
+## File Structure
+
+## How to run your code
+### Cause of Deaths data
+- To get causeOfDeath data, you can just run `python3 causeOfDeath.py` when you are in the main directory: `Analysis-of-California-Deaths`
+
+# Name all third party-modules that you are using
+- pandas
+- matplotlib
