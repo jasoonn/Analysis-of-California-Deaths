@@ -6,7 +6,7 @@ from collections import defaultdict
 import cleanPopulation
 import cleanDeath
 import util
-
+import json
 
 def processCounting(data, consider=['Asian', 'Black', 'Hispanic', 'White']):
     """
@@ -43,11 +43,15 @@ def barPlotData(considerGroup = ['Black', 'White', 'Hispanic', 'Asian'], conside
     :type: str
     :returns: DataFrame
     """
-    raceLabel, calData = getCalData(considerGroup, considerDisease)
+    countyLabel = ['California', 'San Diego', 'Los Angeles']
+    raceLabel, caData = getCalData(considerGroup, considerDisease)
     sdData = getCountyData(considerGroup, considerDisease)
     laData = getCountyData(considerGroup, considerDisease, 'Los Angeles')
-    countyLabel = ['California', 'San Diego', 'Los Angeles']
-    data = [calData, sdData, laData]
+    json.dump(caData, open("../data/CARace.txt", 'w'))
+    json.dump(sdData, open("../data/SDRace.txt", 'w'))
+    json.dump(laData, open("../data/LARace.txt", 'w'))
+    
+    data = [caData, sdData, laData]
     plt.rcParams["font.family"] = "Times New Roman"
     plt.rc('font', size=13)
     for disease in considerDisease:
@@ -122,7 +126,7 @@ def CAComposition():
     data = data.drop(columns=['Strata', 'Unnamed: 0', 'Year'])
     counting = data.groupby(['Strata_Name']).sum().reset_index()
     counting = processCounting(counting)
-
+    counting.to_csv('../data/CAComposition.csv')
     # Plot data
     util.plotPie(counting['Count'], counting['Strata_Name'], title='California')
 
@@ -139,6 +143,7 @@ def countyComposition(county='San Diego'):
     counting = data.groupby(['Strata_Name']).sum().reset_index()
     counting.Count = counting.Count.astype(int)
     counting = processCounting(counting)
+    counting.to_csv('../data/' + county + 'Composition.csv')
     #Plot data
     util.plotPie(counting['Count'], counting['Strata_Name'], title=county)
 
