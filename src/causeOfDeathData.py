@@ -10,7 +10,7 @@ def cleanData(df):
     clean_df = clean_df[["Year", "County", "Strata", "Strata_Name", "Cause", "Cause_Desc","Count"]]
     return clean_df
 
-def causeOfDeath(inputFile='../data/death.csv'):
+def causeOfDeath(inputFile='data/death.csv'):
     assert isinstance(inputFile, str) and os.path.exists(inputFile)
     
     data = pd.read_csv(inputFile)
@@ -22,9 +22,10 @@ def causeOfDeath(inputFile='../data/death.csv'):
         'Count' : 'sum'
     }
     
-    c_df = c_df.groupby(['Year','Cause']).agg(f).reset_index()
+    c_df = c_df.groupby(['Year','Cause', "Strata"]).agg(f).reset_index()
     c_df.set_index("Year")
     c_df = c_df[c_df["Cause"] != "ALL"]
+    c_df = c_df[c_df["Strata"] == "Total Population"]
     
     return c_df
 
@@ -57,10 +58,24 @@ def plot_and_save_clause(df, causes=[]):
     plt.xlabel("Years between 2014 - 2019")
     plt.ylabel("Number of deaths")
     plt.tight_layout()
-    plt.savefig(f"../visualization/{final_save_string}.png")
+    plt.savefig(f"visualization/{final_save_string}.png")
+
+def plot_total_pie(df, year):
+    assert isinstance(year, int)
+    fig = plt.figure()
+    plt.rcParams["font.family"] = "Times New Roman"
+    plt.rc('font', size=8)
+    plt.title(f"Causes of Death Percentages in {year}",
+              fontsize=12)
+    all_causes = df["Cause"].unique()
+    plot_df = df[df["Year"] == year]
+    plt.pie(plot_df["Count"], startangle=90, autopct='%1.1f%%', labels=plot_df["Cause"])
+
+    plt.savefig(f"visualization/total_death_percentage_pie.png")
 
 df = causeOfDeath()
 plot_and_save_clause(df, causes=["ALZ","HYP","HTD"])
 plot_and_save_clause(df, causes=["ALZ"])
 plot_and_save_clause(df, causes=["HYP"])
 plot_and_save_clause(df, causes=["HTD"])
+plot_total_pie(df, 2014)
