@@ -67,12 +67,12 @@ def plot_total_pie(df, year):
     assert isinstance(year, int)
     df = df[df["Year"] == year]
     df = df.sort_values('Count', ascending=False)
-    df_top5 = df[:5].copy()
+    df_top5 = df[:7].copy()
     df_bottom = pd.DataFrame(data = {
         "Year":year,
         "Cause":"---",
         "Cause_Desc":"Other",
-        "Count":[df["Count"][5:].sum()]
+        "Count":[df["Count"][7:].sum()]
     })
     df = pd.concat([df_top5, df_bottom])
     fig = plt.figure(figsize=(7,5))
