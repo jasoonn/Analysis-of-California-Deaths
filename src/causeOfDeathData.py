@@ -35,7 +35,7 @@ def plot_and_save_clause(df, causes=[]):
     plt.rc('font', size=8)
     
     all_causes = df["Cause"].unique()
-    cause_dict = dict(zip(df['Cause'], df['Cause_Desc']))
+    cause_dict = dict(zip(df['Cause'], df['Cause_Desc'].astype(str).str.replace("['\[\]\"]","")))
     final_save_string = ""
     if not causes:
         causes = all_causes
