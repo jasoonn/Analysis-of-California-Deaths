@@ -22,7 +22,7 @@ def causeOfDeath(inputFile='data/death.csv'):
         'Count' : 'sum'
     }
     
-    c_df = c_df.groupby(['Year','Cause', "Strata"]).agg(f).reset_index()
+    c_df = c_df.groupby(['Year','Cause',"Strata"]).agg(f).reset_index()
     c_df.set_index("Year")
     c_df = c_df[c_df["Cause"] != "ALL"]
     c_df = c_df[c_df["Strata"] == "Total Population"]
@@ -30,11 +30,12 @@ def causeOfDeath(inputFile='data/death.csv'):
     return c_df
 
 def plot_and_save_clause(df, causes=[]):
-    fig = plt.figure()
+    fig = plt.figure(figsize=(10,5))
     plt.rcParams["font.family"] = "Times New Roman"
     plt.rc('font', size=8)
     
     all_causes = df["Cause"].unique()
+    cause_dict = dict(zip(df['Cause'], df['Cause_Desc']))
     final_save_string = ""
     if not causes:
         causes = all_causes
@@ -49,27 +50,37 @@ def plot_and_save_clause(df, causes=[]):
         print(df[df["Cause"] == cause])
         to_plot = df[df["Cause"] == cause]
         to_plot.reset_index()
-        plt.plot(to_plot["Year"], to_plot["Count"], label=cause, marker='o')
-        plt.text(to_plot["Year"].iloc[-1], to_plot["Count"].iloc[-1], f'{cause}')
+        plt.plot(to_plot["Year"], to_plot["Count"], label=cause_dict[cause], marker='o')
+        # plt.text(to_plot["Year"].iloc[-1], to_plot["Count"].iloc[-1], f'{cause}')
 
-    plt.legend(bbox_to_anchor=(1.2, 1))
+    plt.legend(bbox_to_anchor=(1.04,1), loc="upper left")
+    plt.subplots_adjust(right=.6)
+    
     plt.title("Trends of Causes of Death between 2014 - 2019",
               fontsize=12)
     plt.xlabel("Years between 2014 - 2019")
     plt.ylabel("Number of deaths")
-    plt.tight_layout()
+    # plt.tight_layout()
     plt.savefig(f"visualization/{final_save_string}.png")
 
 def plot_total_pie(df, year):
     assert isinstance(year, int)
-    fig = plt.figure()
+    df = df[df["Year"] == year]
+    df = df.sort_values('Count', ascending=False)
+    df_top5 = df[:5].copy()
+    df_bottom = pd.DataFrame(data = {
+        "Year":year,
+        "Cause":"---",
+        "Cause_Desc":"Other",
+        "Count":[df["Count"][5:].sum()]
+    })
+    df = pd.concat([df_top5, df_bottom])
+    fig = plt.figure(figsize=(7,5))
     plt.rcParams["font.family"] = "Times New Roman"
     plt.rc('font', size=8)
     plt.title(f"Causes of Death Percentages in {year}",
               fontsize=12)
-    all_causes = df["Cause"].unique()
-    plot_df = df[df["Year"] == year]
-    plt.pie(plot_df["Count"], startangle=90, autopct='%1.1f%%', labels=plot_df["Cause"])
+    plt.pie(df["Count"], startangle=90, autopct='%1.1f%%', labels=df["Cause_Desc"].astype(str).str.replace("['\[\]\"]","",regex=True))
 
     plt.savefig(f"visualization/total_death_percentage_pie.png")
 
@@ -78,4 +89,4 @@ plot_and_save_clause(df, causes=["ALZ","HYP","HTD"])
 plot_and_save_clause(df, causes=["ALZ"])
 plot_and_save_clause(df, causes=["HYP"])
 plot_and_save_clause(df, causes=["HTD"])
-plot_total_pie(df, 2014)
+plot_total_pie(df, 2019)
