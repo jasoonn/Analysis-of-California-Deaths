@@ -30,8 +30,9 @@ The real world application of this project would be that it could help citizens 
 ---
 ### Cause of Deaths data
 - To get causeOfDeath data, you can just run `python3 causeOfDeath.py` when you are in the main directory: `Analysis-of-California-Deaths`
-
+- To get ethnicity-related plots, you can just run `python3 src/ethnicity.py` when you are in the main directory: `Analysis-of-California-Deaths`
 ## Name all third party-modules that you are using
 ---
 - pandas
 - matplotlib
+- numpy
