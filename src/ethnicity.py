@@ -57,8 +57,6 @@ def cleanEthnicityDataByCounty(csvFile='../data/death.csv', plot = False, county
     
     if True:
         counting = processCounting(counting)
-        swtichColumn(counting, -1, -2)
-        swtichColumn(counting, 0, 1)
         plt.rcParams["font.family"] = "Times New Roman"
         plt.rc('font', size=16)
         plt.title(county)
@@ -226,10 +224,8 @@ def cleanEthniciyData(plot = False):
     # Plot death race composition
     counting = data.groupby(['Cause_Desc']).sum()
     counting = data.groupby(['Strata_Name']).sum().reset_index()
-    if plot:
+    if True:
         counting = processCounting(counting)
-        swtichColumn(counting, -1, -2)
-        swtichColumn(counting, 0, 1)
         plt.rcParams["font.family"] = "Times New Roman"
         plt.rc('font', size=16)
         plt.title('California')
@@ -244,8 +240,8 @@ def cleanEthniciyData(plot = False):
             
 
 if __name__ == '__main__':
-    cleanEthniciyData(plot = True)
-    cleanEthnicityDataByCounty(plot = True)
-    filterEthniciyData(plot = True)
-    filterEthnicityDataByCounty(plot = True)
-    barPlotData()
+    cleanEthniciyData(plot = False)
+    cleanEthnicityDataByCounty(plot = False)
+    #filterEthniciyData(plot = True)
+    #filterEthnicityDataByCounty(plot = True)
+    #barPlotData()
