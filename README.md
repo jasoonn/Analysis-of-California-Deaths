@@ -17,11 +17,21 @@ Our proposed solution is to use simple data analysis and data visualization tool
 The real world application of this project would be that it could help citizens of particular counties be aware of the kind of problems existing in particular age groups within their community and take effective steps to correct it. For example: If the people in the county of San Mateo are dying of chronic lower respiratory diseases, the regulatory body should check the air quality levels and issue advisories to warn people, when the air quality index worsens. The information extracted from this dataset could be used by government agencies, common citizens as well as students like us to understand the past problems and keep our health in check.
 
 ## File Structure
+---
+### Data
+- This is where all the csv and raw data files are contained
+### Src
+- This is where the python files are
+### Visualizations
+- This is where all the visualization files are, within this folder there are separate folders containing topic specific graphics
+
 
 ## How to run your code
+---
 ### Cause of Deaths data
 - To get causeOfDeath data, you can just run `python3 causeOfDeath.py` when you are in the main directory: `Analysis-of-California-Deaths`
 
-# Name all third party-modules that you are using
+## Name all third party-modules that you are using
+---
 - pandas
 - matplotlib
