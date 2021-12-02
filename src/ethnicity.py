@@ -35,6 +35,11 @@ def swtichColumn(data, i ,j):
     data.iloc[i] = data.iloc[j]
     data.iloc[j] = temp
 
+def processCounting(data):
+    consider = ['Asian', 'Black', 'Hispanic', 'White']
+    small = data[data['Strata_Name'].isin(consider)]
+    data = small.append({'Strata_Name': 'Other', 'Count': data['Count'].sum()-small['Count'].sum()} , ignore_index=True)
+    return data
 
 def cleanEthnicityDataByCounty(csvFile='../data/death.csv', plot = False, county='San Diego'):
     """
@@ -50,12 +55,13 @@ def cleanEthnicityDataByCounty(csvFile='../data/death.csv', plot = False, county
     counting.Count = counting.Count.astype(int)
     #data = data.drop(columns=['Strata', 'Unnamed: 0', 'Year'])
     
-    if plot:
+    if True:
+        counting = processCounting(counting)
         swtichColumn(counting, -1, -2)
         swtichColumn(counting, 0, 1)
-        print(counting)
         plt.rcParams["font.family"] = "Times New Roman"
         plt.rc('font', size=16)
+        plt.title(county)
         plt.pie(counting['Count'], autopct='%1.1f%%', labels=counting['Strata_Name'])
         plt.show()
 
@@ -221,10 +227,12 @@ def cleanEthniciyData(plot = False):
     counting = data.groupby(['Cause_Desc']).sum()
     counting = data.groupby(['Strata_Name']).sum().reset_index()
     if plot:
+        counting = processCounting(counting)
         swtichColumn(counting, -1, -2)
         swtichColumn(counting, 0, 1)
         plt.rcParams["font.family"] = "Times New Roman"
         plt.rc('font', size=16)
+        plt.title('California')
         plt.pie(counting['Count'], autopct='%1.1f%%', labels=counting['Strata_Name'])
         plt.show()
 
@@ -236,8 +244,8 @@ def cleanEthniciyData(plot = False):
             
 
 if __name__ == '__main__':
-    # cleanEthniciyData(plot = False)
-    # cleanEthnicityDataByCounty(plot = False)
-    # filterEthniciyData(plot = False)
-    # filterEthnicityDataByCounty(plot = True)
+    cleanEthniciyData(plot = True)
+    cleanEthnicityDataByCounty(plot = True)
+    filterEthniciyData(plot = True)
+    filterEthnicityDataByCounty(plot = True)
     barPlotData()
