@@ -31,8 +31,10 @@ The real world application of this project would be that it could help citizens 
 ### Cause of Deaths data
 - To get causeOfDeath data, you can just run `python3 causeOfDeath.py` when you are in the main directory: `Analysis-of-California-Deaths`
 - To get ethnicity-related plots, you can just run `python3 ethnicity.py` when you are in the main directory: `Analysis-of-California-Deaths/src`
+- To get gender-related plots, you can just run `python3 gender.py` when you are in the main directory: `Analysis-of-California-Deaths/src` and the plots will be rendered in the web browser
 ## Name all third party-modules that you are using
 ---
 - pandas
 - matplotlib
 - numpy
+- holoviews
