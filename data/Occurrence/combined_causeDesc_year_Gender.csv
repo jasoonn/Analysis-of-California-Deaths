@@ -1,0 +1,169 @@
+Year,Strata_Name,Cause_Desc,Count
+2014,Female,Accidents (unintentional injuries),3903
+2014,Female,Alzheimer's disease,8579
+2014,Female,Assault (homicide),202
+2014,Female,Cerebrovascular diseases,7759
+2014,Female,Chronic liver disease and cirrhosis,1625
+2014,Female,Chronic lower respiratory diseases,6675
+2014,Female,Diabetes mellitus,3599
+2014,Female,Diseases of heart,26890
+2014,Female,Essential hypertension and hypertensive renal disease,2453
+2014,Female,Influenza and pneumonia,2846
+2014,Female,Intentional self-harm (suicide),890
+2014,Female,Malignant neoplasms,28314
+2014,Female,"Nephritis, nephrotic syndrome and nephrosis",1342
+2014,Female,Parkinson's disease,967
+2014,Male,Accidents (unintentional injuries),7822
+2014,Male,Alzheimer's disease,3944
+2014,Male,Assault (homicide),930
+2014,Male,Cerebrovascular diseases,5776
+2014,Male,Chronic liver disease and cirrhosis,3111
+2014,Male,Chronic lower respiratory diseases,5976
+2014,Male,Diabetes mellitus,4408
+2014,Male,Diseases of heart,31402
+2014,Male,Essential hypertension and hypertensive renal disease,1902
+2014,Male,Influenza and pneumonia,2883
+2014,Male,Intentional self-harm (suicide),2929
+2014,Male,Malignant neoplasms,30327
+2014,Male,"Nephritis, nephrotic syndrome and nephrosis",1493
+2014,Male,Parkinson's disease,1420
+2015,Female,Accidents (unintentional injuries),4243
+2015,Female,Alzheimer's disease,10136
+2015,Female,Assault (homicide),232
+2015,Female,Cerebrovascular diseases,8609
+2015,Female,Chronic liver disease and cirrhosis,1852
+2015,Female,Chronic lower respiratory diseases,7229
+2015,Female,Diabetes mellitus,3903
+2015,Female,Diseases of heart,28426
+2015,Female,Essential hypertension and hypertensive renal disease,2745
+2015,Female,Influenza and pneumonia,3089
+2015,Female,Intentional self-harm (suicide),926
+2015,Female,Malignant neoplasms,28764
+2015,Female,"Nephritis, nephrotic syndrome and nephrosis",1622
+2015,Female,Parkinson's disease,1056
+2015,Male,Accidents (unintentional injuries),8448
+2015,Male,Alzheimer's disease,4735
+2015,Male,Assault (homicide),1142
+2015,Male,Cerebrovascular diseases,6322
+2015,Male,Chronic liver disease and cirrhosis,3386
+2015,Male,Chronic lower respiratory diseases,6321
+2015,Male,Diabetes mellitus,4751
+2015,Male,Diseases of heart,33164
+2015,Male,Essential hypertension and hypertensive renal disease,2167
+2015,Male,Influenza and pneumonia,2913
+2015,Male,Intentional self-harm (suicide),2841
+2015,Male,Malignant neoplasms,31084
+2015,Male,"Nephritis, nephrotic syndrome and nephrosis",1718
+2015,Male,Parkinson's disease,1546
+2016,Female,Accidents (unintentional injuries),4319
+2016,Female,Alzheimer's disease,10566
+2016,Female,Assault (homicide),254
+2016,Female,Cerebrovascular diseases,8961
+2016,Female,Chronic liver disease and cirrhosis,1774
+2016,Female,Chronic lower respiratory diseases,7238
+2016,Female,Diabetes mellitus,3995
+2016,Female,Diseases of heart,28282
+2016,Female,Essential hypertension and hypertensive renal disease,2722
+2016,Female,Influenza and pneumonia,2926
+2016,Female,Intentional self-harm (suicide),918
+2016,Female,Malignant neoplasms,28816
+2016,Female,"Nephritis, nephrotic syndrome and nephrosis",1608
+2016,Female,Parkinson's disease,1113
+2016,Male,Accidents (unintentional injuries),8873
+2016,Male,Alzheimer's disease,4847
+2016,Male,Assault (homicide),1313
+2016,Male,Cerebrovascular diseases,6599
+2016,Male,Chronic liver disease and cirrhosis,3249
+2016,Male,Chronic lower respiratory diseases,6389
+2016,Male,Diabetes mellitus,4951
+2016,Male,Diseases of heart,33570
+2016,Male,Essential hypertension and hypertensive renal disease,2119
+2016,Male,Influenza and pneumonia,2867
+2016,Male,Intentional self-harm (suicide),2898
+2016,Male,Malignant neoplasms,30942
+2016,Male,"Nephritis, nephrotic syndrome and nephrosis",1681
+2016,Male,Parkinson's disease,1770
+2017,Female,Accidents (unintentional injuries),4459
+2017,Female,Alzheimer's disease,10905
+2017,Female,Assault (homicide),248
+2017,Female,Cerebrovascular diseases,9280
+2017,Female,Chronic liver disease and cirrhosis,1790
+2017,Female,Chronic lower respiratory diseases,7246
+2017,Female,Diabetes mellitus,4067
+2017,Female,Diseases of heart,28855
+2017,Female,Essential hypertension and hypertensive renal disease,2934
+2017,Female,Influenza and pneumonia,3102
+2017,Female,Intentional self-harm (suicide),854
+2017,Female,Malignant neoplasms,28929
+2017,Female,"Nephritis, nephrotic syndrome and nephrosis",1734
+2017,Female,Parkinson's disease,1202
+2017,Male,Accidents (unintentional injuries),9350
+2017,Male,Alzheimer's disease,5111
+2017,Male,Assault (homicide),1060
+2017,Male,Cerebrovascular diseases,6978
+2017,Male,Chronic liver disease and cirrhosis,3274
+2017,Male,Chronic lower respiratory diseases,6474
+2017,Male,Diabetes mellitus,5337
+2017,Male,Diseases of heart,34211
+2017,Male,Essential hypertension and hypertensive renal disease,2384
+2017,Male,Influenza and pneumonia,3032
+2017,Male,Intentional self-harm (suicide),2910
+2017,Male,Malignant neoplasms,30810
+2017,Male,"Nephritis, nephrotic syndrome and nephrosis",1887
+2017,Male,Parkinson's disease,1914
+2018,Female,Accidents (unintentional injuries),4502
+2018,Female,Alzheimer's disease,10914
+2018,Female,Assault (homicide),246
+2018,Female,Cerebrovascular diseases,9184
+2018,Female,Chronic liver disease and cirrhosis,1816
+2018,Female,Chronic lower respiratory diseases,7077
+2018,Female,Diabetes mellitus,4122
+2018,Female,Diseases of heart,28312
+2018,Female,Essential hypertension and hypertensive renal disease,2925
+2018,Female,Influenza and pneumonia,3300
+2018,Female,Intentional self-harm (suicide),909
+2018,Female,Malignant neoplasms,28873
+2018,Female,"Nephritis, nephrotic syndrome and nephrosis",1669
+2018,Female,Parkinson's disease,1241
+2018,Male,Accidents (unintentional injuries),9720
+2018,Male,Alzheimer's disease,5395
+2018,Male,Assault (homicide),1073
+2018,Male,Cerebrovascular diseases,7076
+2018,Male,Chronic liver disease and cirrhosis,3306
+2018,Male,Chronic lower respiratory diseases,6415
+2018,Male,Diabetes mellitus,5164
+2018,Male,Diseases of heart,34504
+2018,Male,Essential hypertension and hypertensive renal disease,2418
+2018,Male,Influenza and pneumonia,3421
+2018,Male,Intentional self-harm (suicide),3093
+2018,Male,Malignant neoplasms,31335
+2018,Male,"Nephritis, nephrotic syndrome and nephrosis",2012
+2018,Male,Parkinson's disease,1995
+2019,Female,Accidents (unintentional injuries),4655
+2019,Female,Alzheimer's disease,11074
+2019,Female,Assault (homicide),217
+2019,Female,Cerebrovascular diseases,9426
+2019,Female,Chronic liver disease and cirrhosis,1909
+2019,Female,Chronic lower respiratory diseases,6792
+2019,Female,Diabetes mellitus,4130
+2019,Female,Diseases of heart,27762
+2019,Female,Essential hypertension and hypertensive renal disease,2868
+2019,Female,Influenza and pneumonia,2649
+2019,Female,Intentional self-harm (suicide),876
+2019,Female,Malignant neoplasms,28840
+2019,Female,"Nephritis, nephrotic syndrome and nephrosis",1656
+2019,Female,Parkinson's disease,1360
+2019,Male,Accidents (unintentional injuries),10507
+2019,Male,Alzheimer's disease,5476
+2019,Male,Assault (homicide),1065
+2019,Male,Cerebrovascular diseases,7317
+2019,Male,Chronic liver disease and cirrhosis,3347
+2019,Male,Chronic lower respiratory diseases,6177
+2019,Male,Diabetes mellitus,5465
+2019,Male,Diseases of heart,34827
+2019,Male,Essential hypertension and hypertensive renal disease,2526
+2019,Male,Influenza and pneumonia,2754
+2019,Male,Intentional self-harm (suicide),3119
+2019,Male,Malignant neoplasms,30934
+2019,Male,"Nephritis, nephrotic syndrome and nephrosis",1995
+2019,Male,Parkinson's disease,2189

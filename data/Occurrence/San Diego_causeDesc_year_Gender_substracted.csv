@@ -1,0 +1,85 @@
+,Year,County,Cause_Desc,Count
+0,2014,San Diego,Accidents (unintentional injuries),-309
+1,2014,San Diego,Alzheimer's disease,499
+2,2014,San Diego,Assault (homicide),-51
+3,2014,San Diego,Cerebrovascular diseases,174
+4,2014,San Diego,Chronic liver disease and cirrhosis,-125
+5,2014,San Diego,Chronic lower respiratory diseases,68
+6,2014,San Diego,Diabetes mellitus,-112
+7,2014,San Diego,Diseases of heart,-571
+8,2014,San Diego,Essential hypertension and hypertensive renal disease,39
+9,2014,San Diego,Influenza and pneumonia,-2
+10,2014,San Diego,Intentional self-harm (suicide),-225
+11,2014,San Diego,Malignant neoplasms,-226
+12,2014,San Diego,"Nephritis, nephrotic syndrome and nephrosis",-13
+13,2014,San Diego,Parkinson's disease,-56
+14,2015,San Diego,Accidents (unintentional injuries),-327
+15,2015,San Diego,Alzheimer's disease,435
+16,2015,San Diego,Assault (homicide),-34
+17,2015,San Diego,Cerebrovascular diseases,197
+18,2015,San Diego,Chronic liver disease and cirrhosis,-104
+19,2015,San Diego,Chronic lower respiratory diseases,126
+20,2015,San Diego,Diabetes mellitus,-65
+21,2015,San Diego,Diseases of heart,-296
+22,2015,San Diego,Essential hypertension and hypertensive renal disease,65
+23,2015,San Diego,Influenza and pneumonia,7
+24,2015,San Diego,Intentional self-harm (suicide),-223
+25,2015,San Diego,Malignant neoplasms,-312
+26,2015,San Diego,"Nephritis, nephrotic syndrome and nephrosis",-9
+27,2015,San Diego,Parkinson's disease,-90
+28,2016,San Diego,Accidents (unintentional injuries),-385
+29,2016,San Diego,Alzheimer's disease,522
+30,2016,San Diego,Assault (homicide),-57
+31,2016,San Diego,Cerebrovascular diseases,212
+32,2016,San Diego,Chronic liver disease and cirrhosis,-77
+33,2016,San Diego,Chronic lower respiratory diseases,69
+34,2016,San Diego,Diabetes mellitus,-96
+35,2016,San Diego,Diseases of heart,-427
+36,2016,San Diego,Essential hypertension and hypertensive renal disease,33
+37,2016,San Diego,Influenza and pneumonia,-6
+38,2016,San Diego,Intentional self-harm (suicide),-213
+39,2016,San Diego,Malignant neoplasms,-104
+40,2016,San Diego,"Nephritis, nephrotic syndrome and nephrosis",-7
+41,2016,San Diego,Parkinson's disease,-89
+42,2017,San Diego,Accidents (unintentional injuries),-420
+43,2017,San Diego,Alzheimer's disease,501
+44,2017,San Diego,Assault (homicide),-40
+45,2017,San Diego,Cerebrovascular diseases,242
+46,2017,San Diego,Chronic liver disease and cirrhosis,-89
+47,2017,San Diego,Chronic lower respiratory diseases,86
+48,2017,San Diego,Diabetes mellitus,-56
+49,2017,San Diego,Diseases of heart,-452
+50,2017,San Diego,Essential hypertension and hypertensive renal disease,43
+51,2017,San Diego,Influenza and pneumonia,45
+52,2017,San Diego,Intentional self-harm (suicide),-249
+53,2017,San Diego,Malignant neoplasms,-260
+54,2017,San Diego,"Nephritis, nephrotic syndrome and nephrosis",-11
+55,2017,San Diego,Parkinson's disease,-74
+56,2018,San Diego,Accidents (unintentional injuries),-389
+57,2018,San Diego,Alzheimer's disease,500
+58,2018,San Diego,Assault (homicide),-48
+59,2018,San Diego,Cerebrovascular diseases,234
+60,2018,San Diego,Chronic liver disease and cirrhosis,-111
+61,2018,San Diego,Chronic lower respiratory diseases,88
+62,2018,San Diego,Diabetes mellitus,-120
+63,2018,San Diego,Diseases of heart,-660
+64,2018,San Diego,Essential hypertension and hypertensive renal disease,69
+65,2018,San Diego,Influenza and pneumonia,-18
+66,2018,San Diego,Intentional self-harm (suicide),-270
+67,2018,San Diego,Malignant neoplasms,-285
+68,2018,San Diego,"Nephritis, nephrotic syndrome and nephrosis",-7
+69,2018,San Diego,Parkinson's disease,-117
+70,2019,San Diego,Accidents (unintentional injuries),-495
+71,2019,San Diego,Alzheimer's disease,478
+72,2019,San Diego,Assault (homicide),-44
+73,2019,San Diego,Cerebrovascular diseases,253
+74,2019,San Diego,Chronic liver disease and cirrhosis,-112
+75,2019,San Diego,Chronic lower respiratory diseases,62
+76,2019,San Diego,Diabetes mellitus,-128
+77,2019,San Diego,Diseases of heart,-574
+78,2019,San Diego,Essential hypertension and hypertensive renal disease,60
+79,2019,San Diego,Influenza and pneumonia,-40
+80,2019,San Diego,Intentional self-harm (suicide),-257
+81,2019,San Diego,Malignant neoplasms,-337
+82,2019,San Diego,"Nephritis, nephrotic syndrome and nephrosis",-22
+83,2019,San Diego,Parkinson's disease,-91
