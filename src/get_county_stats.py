@@ -6,6 +6,7 @@ import pandas as pd
 from collections import defaultdict
 import numpy as np
 import matplotlib.pyplot as plt
+plt.rcParams["font.family"] = "Times New Roman"
 
 BASE_DIR = os.path.dirname(os.path.dirname( __file__ ))
 DATA_DIR = f'{BASE_DIR}/data'
@@ -25,6 +26,7 @@ year_county_deaths = grouped_data.pivot_table(values='Total Count', index=[COUNT
 year_county_deaths.sort_values(by=[YEAR_COL, COUNTY_COL], inplace = True)
 year_county_deaths.reset_index(inplace=True)
 year_county_deaths.to_csv(f'{DATA_DIR}/grouped_deaths_by_counties.csv')
+
 
 def disease_county_dist_yearly_analysis(year_county_deaths, year=2019):
 
@@ -70,12 +72,11 @@ def get_county_deaths_by_disease():
         plt.xlabel("Counties")
         plt.ylabel("Number of deaths per year")
         plt.title(f"No. of deaths per year due to {disease} by county")
-        plt.xticks(r + width/2,county_names,rotation=25,fontsize=7)
+        plt.xticks(r + width/2,county_names,rotation=25,fontsize=9)
         plt.legend()
     
         plt.savefig(f'{VISUALIZATION_DIR}/county/{disease}.png')
         print(f"Done with {disease} plot..")
-        break
                 
 def car_accidents_percentage_increase():
     '''
@@ -112,8 +113,8 @@ def car_accidents_percentage_increase():
     plt.ylabel("Percentage increase in deaths due to accidents")
     plt.title(" % Increase in deaths due to accidents from 2018 to 2019")
     
-    plt.show()
-    # plt.savefig(f'{VISUALIZATION_DIR}/accident/accident_analysis.png')
+    # plt.show()
+    plt.savefig(f'{VISUALIZATION_DIR}/accident/accident_analysis.png')
     
 def get_homicide_rates_county():
     homicide_column = 'Assault (homicide)'
@@ -158,9 +159,4 @@ def get_influenza_rates_county():
     plt.xticks(r,county_names,rotation=25,fontsize=7)
     plt.legend()
     plt.savefig(f'{VISUALIZATION_DIR}/accident/influenza.png')
-        
-# get_homicide_rates_county()
-# get_influenza_rates_county()
-# car_accidents_percentage_increase()  
-# disease_county_dist_yearly_analysis(year_county_deaths, 2014)
-# multiple_bar_charts_per_disease(year_county_deaths)
+
